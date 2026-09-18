@@ -1,0 +1,39 @@
+{
+  "id": "SONG-0172",
+  "title": "ヴァニッシュ",
+  "englishTitle": null,
+  "vocalsText": "KAITO",
+  "producer": "ぐちり",
+  "appearanceCount": 17,
+  "sourceRow": 166,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0176-N",
+    "EVT-0177-D",
+    "EVT-0177-N",
+    "EVT-0178-D",
+    "EVT-0178-N",
+    "EVT-0179-D",
+    "EVT-0179-N",
+    "EVT-0180-D",
+    "EVT-0180-N",
+    "EVT-0181-D",
+    "EVT-0181-N",
+    "EVT-0182-D",
+    "EVT-0182-N",
+    "EVT-0183-D",
+    "EVT-0183-N",
+    "EVT-0184-D",
+    "EVT-0184-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2025-08-01",
+  "lastDate": "2025-08-31",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

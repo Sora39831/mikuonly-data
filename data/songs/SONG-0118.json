@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0118",
+  "title": "Sharing The World (Spn ver.)",
+  "englishTitle": "Sharing The World (Spn ver.)",
+  "vocalsText": "初音ミク",
+  "producer": "BIGHEAD, Maubox",
+  "appearanceCount": 1,
+  "sourceRow": 114,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0040"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2018-07-19",
+  "lastDate": "2018-07-19",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0040"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2018-07-19",
+  "soloLastDate": "2018-07-19"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SONG-0325",
+  "title": "レイニースノードロップ",
+  "englishTitle": null,
+  "vocalsText": "KAITO",
+  "producer": "Re:nG",
+  "appearanceCount": 16,
+  "sourceRow": 311,
+  "actualAppearanceCount": 16,
+  "eventIds": [
+    "EVT-0148-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0163-D",
+    "EVT-0166-D",
+    "EVT-0193",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0153-D",
+    "EVT-0153-N",
+    "EVT-0163-N",
+    "EVT-0166-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2021-10-22",
+  "lastDate": "2023-09-02",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

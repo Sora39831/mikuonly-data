@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0161",
+  "title": "アングレイデイズ",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "ツミキ",
+  "appearanceCount": 1,
+  "sourceRow": 156,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0233"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2026-01-24",
+  "lastDate": "2026-01-24",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

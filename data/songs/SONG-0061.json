@@ -1,0 +1,59 @@
+{
+  "id": "SONG-0061",
+  "title": "Hoshi no Kakera",
+  "englishTitle": "Fragments of a Star",
+  "vocalsText": "初音ミク",
+  "producer": "Eiji Hirasawa",
+  "appearanceCount": 17,
+  "sourceRow": 60,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0016",
+    "EVT-0018",
+    "EVT-0019",
+    "EVT-0020",
+    "EVT-0021",
+    "EVT-0022",
+    "EVT-0024",
+    "EVT-0026",
+    "EVT-0027",
+    "EVT-0017-D",
+    "EVT-0017-N",
+    "EVT-0023-D",
+    "EVT-0023-N",
+    "EVT-0025-D",
+    "EVT-0025-N",
+    "EVT-0028-D",
+    "EVT-0028-N"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2016-04-23",
+  "lastDate": "2016-06-26",
+  "soloAppearanceCount": 17,
+  "soloEventIds": [
+    "EVT-0016",
+    "EVT-0018",
+    "EVT-0019",
+    "EVT-0020",
+    "EVT-0021",
+    "EVT-0022",
+    "EVT-0024",
+    "EVT-0026",
+    "EVT-0027",
+    "EVT-0017-D",
+    "EVT-0017-N",
+    "EVT-0023-D",
+    "EVT-0023-N",
+    "EVT-0025-D",
+    "EVT-0025-N",
+    "EVT-0028-D",
+    "EVT-0028-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2016-04-23",
+  "soloLastDate": "2016-06-26"
+}

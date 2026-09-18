@@ -1,0 +1,42 @@
+{
+  "id": "SONG-0381",
+  "title": "深海シティアンダーグラウンド",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "田中B",
+  "appearanceCount": 19,
+  "sourceRow": 366,
+  "actualAppearanceCount": 19,
+  "eventIds": [
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0141-D",
+    "EVT-0141-N",
+    "EVT-MWY-2019-SH-1102-D",
+    "EVT-MWY-2019-SH-1102-N",
+    "EVT-MWY-2019-SH-1103-D",
+    "EVT-MWY-2019-SH-1103-N",
+    "EVT-MWY-2019-CD-1109-N",
+    "EVT-MWY-2019-BJ-1116-D",
+    "EVT-MWY-2019-BJ-1116-N",
+    "EVT-MWY-2019-GZ-1123-D",
+    "EVT-MWY-2019-GZ-1123-N",
+    "EVT-MWY-2019-GZ-1124-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2019-08-10",
+  "lastDate": "2019-11-24",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SONG-0391",
+  "title": "千年の独奏歌",
+  "englishTitle": null,
+  "vocalsText": "KAITO",
+  "producer": "yanagiP",
+  "appearanceCount": 17,
+  "sourceRow": 376,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0001",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0207",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0225-20230223-D",
+    "EVT-0225-20230223-N",
+    "EVT-0225-20230311-N",
+    "EVT-0225-20230319-D",
+    "EVT-0225-20230319-N",
+    "EVT-0206-0209-D",
+    "EVT-0206-0209-N",
+    "EVT-0206-0210-D",
+    "EVT-0206-0210-N",
+    "EVT-0002-D",
+    "EVT-0002-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-003",
+    "SER-009"
+  ],
+  "firstDate": "2013-02-09",
+  "lastDate": "2023-03-19",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

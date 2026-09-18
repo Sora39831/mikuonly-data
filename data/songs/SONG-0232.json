@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0232",
+  "title": "タイムリミット",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "畳P",
+  "appearanceCount": 2,
+  "sourceRow": 225,
+  "actualAppearanceCount": 2,
+  "eventIds": [
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "seriesIds": [
+    "SER-002"
+  ],
+  "firstDate": "2012-03-09",
+  "lastDate": "2012-03-09",
+  "soloAppearanceCount": 2,
+  "soloEventIds": [
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "soloSeriesIds": [
+    "SER-002"
+  ],
+  "soloFirstDate": "2012-03-09",
+  "soloLastDate": "2012-03-09"
+}

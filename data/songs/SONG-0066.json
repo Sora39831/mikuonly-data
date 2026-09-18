@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0066",
+  "title": "Japanese Ninja No.1",
+  "englishTitle": null,
+  "vocalsText": "巡音ルカ",
+  "producer": "デッドボールＰ",
+  "appearanceCount": 1,
+  "sourceRow": 65,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0199"
+  ],
+  "seriesIds": [
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2011-03-09",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SONG-0287",
+  "title": "ポケットのモンスター",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ピノキオピー",
+  "appearanceCount": 10,
+  "sourceRow": 276,
+  "actualAppearanceCount": 10,
+  "eventIds": [
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N",
+    "EVT-PKM-20-D",
+    "EVT-PKM-20-N",
+    "EVT-PKM-21-D",
+    "EVT-PKM-21-N",
+    "EVT-PKM-22-D",
+    "EVT-PKM-22-N"
+  ],
+  "seriesIds": [
+    "SER-010",
+    "SER-012"
+  ],
+  "firstDate": "2025-12-20",
+  "lastDate": "2026-03-22",
+  "soloAppearanceCount": 10,
+  "soloEventIds": [
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N",
+    "EVT-PKM-20-D",
+    "EVT-PKM-20-N",
+    "EVT-PKM-21-D",
+    "EVT-PKM-21-N",
+    "EVT-PKM-22-D",
+    "EVT-PKM-22-N"
+  ],
+  "soloSeriesIds": [
+    "SER-010",
+    "SER-012"
+  ],
+  "soloFirstDate": "2025-12-20",
+  "soloLastDate": "2026-03-22"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0169",
+  "title": "いろは唄",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "銀サク",
+  "appearanceCount": 7,
+  "sourceRow": 163,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-0199",
+    "EVT-0202",
+    "EVT-0207",
+    "EVT-0201-20110816",
+    "EVT-0201-20110817",
+    "EVT-0203-D",
+    "EVT-0203-N"
+  ],
+  "seriesIds": [
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2013-03-09",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

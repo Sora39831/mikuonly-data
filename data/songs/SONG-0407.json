@@ -1,0 +1,53 @@
+{
+  "id": "SONG-0407",
+  "title": "脳内革命ガール",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "MARETU",
+  "appearanceCount": 13,
+  "sourceRow": 392,
+  "actualAppearanceCount": 13,
+  "eventIds": [
+    "EVT-0148-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0231-20250502-D",
+    "EVT-0231-20250502-N",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-009"
+  ],
+  "firstDate": "2021-10-22",
+  "lastDate": "2025-05-02",
+  "soloAppearanceCount": 13,
+  "soloEventIds": [
+    "EVT-0148-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0231-20250502-D",
+    "EVT-0231-20250502-N",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-009"
+  ],
+  "soloFirstDate": "2021-10-22",
+  "soloLastDate": "2025-05-02"
+}

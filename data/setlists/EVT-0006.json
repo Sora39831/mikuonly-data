@@ -1,0 +1,573 @@
+{
+  "eventId": "EVT-0006",
+  "tracks": [
+    {
+      "id": "EVT-0006-00139",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0117",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 135,
+      "sourceNumber": "01",
+      "performedTitle": "Sharing The World",
+      "englishTitle": "Sharing The World",
+      "vocalsText": "初音ミク",
+      "producer": "BIGHEAD",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 139
+    },
+    {
+      "id": "EVT-0006-00140",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0392",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 136,
+      "sourceNumber": "02",
+      "performedTitle": "千本桜",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "黒うさP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 140
+    },
+    {
+      "id": "EVT-0006-00141",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0204",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 137,
+      "sourceNumber": "03",
+      "performedTitle": "こっち向いて Baby",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 141
+    },
+    {
+      "id": "EVT-0006-00142",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0438",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 138,
+      "sourceNumber": "04",
+      "performedTitle": "恋色病棟",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 142
+    },
+    {
+      "id": "EVT-0006-00143",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0188",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 139,
+      "sourceNumber": "05",
+      "performedTitle": "カラフル×メロディ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン",
+      "producer": "ちーむMOER",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 143
+    },
+    {
+      "id": "EVT-0006-00144",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0042",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 140,
+      "sourceNumber": "06",
+      "performedTitle": "Fire◎Flower",
+      "englishTitle": "Fire◎Flower",
+      "vocalsText": "鏡音レン",
+      "producer": "halyosy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 144
+    },
+    {
+      "id": "EVT-0006-00145",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0342",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 141,
+      "sourceNumber": "07",
+      "performedTitle": "右肩の蝶",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "のりぴー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 145
+    },
+    {
+      "id": "EVT-0006-00146",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0305",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 142,
+      "sourceNumber": "08",
+      "performedTitle": "メランコリック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 146
+    },
+    {
+      "id": "EVT-0006-00147",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0202",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 143,
+      "sourceNumber": "09",
+      "performedTitle": "ココロ",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "トラボルタ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 147
+    },
+    {
+      "id": "EVT-0006-00148",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0050",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 144,
+      "sourceNumber": "10",
+      "performedTitle": "Glass Wall",
+      "englishTitle": "Glass Wall",
+      "vocalsText": "初音ミク",
+      "producer": "GHPZ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 148
+    },
+    {
+      "id": "EVT-0006-00149",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0252",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 145,
+      "sourceNumber": "11",
+      "performedTitle": "トリノコシティ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "40mP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 149
+    },
+    {
+      "id": "EVT-0006-00150",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0353",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 146,
+      "sourceNumber": "12",
+      "performedTitle": "結ンデ開イテ羅刹ト骸",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ハチ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 150
+    },
+    {
+      "id": "EVT-0006-00151",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0330",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 147,
+      "sourceNumber": "13",
+      "performedTitle": "ロミオとシンデレラ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "doriko",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 151
+    },
+    {
+      "id": "EVT-0006-00152",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0265",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 148,
+      "sourceNumber": "14",
+      "performedTitle": "ピアノ×フォルテ×スキャンダル",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 152
+    },
+    {
+      "id": "EVT-0006-00153",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0103",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 149,
+      "sourceNumber": "15",
+      "performedTitle": "Pane dhiria",
+      "englishTitle": "Pane dhiria",
+      "vocalsText": "KAITO",
+      "producer": "新城P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 153
+    },
+    {
+      "id": "EVT-0006-00154",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0104",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 150,
+      "sourceNumber": "16",
+      "performedTitle": "Parades",
+      "englishTitle": "Parades",
+      "vocalsText": "初音ミク",
+      "producer": "whoo",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 154
+    },
+    {
+      "id": "EVT-0006-00155",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0288",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 151,
+      "sourceNumber": "17",
+      "performedTitle": "ぽっぴっぽー",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "LamazeP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 155
+    },
+    {
+      "id": "EVT-0006-00156",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0409",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 152,
+      "sourceNumber": "18",
+      "performedTitle": "白い雪のプリンセスは",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "のぼる↑",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 156
+    },
+    {
+      "id": "EVT-0006-00157",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0068",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 153,
+      "sourceNumber": "19",
+      "performedTitle": "Just Be Friends",
+      "englishTitle": "Just Be Friends",
+      "vocalsText": "巡音ルカ",
+      "producer": "Dixie Flatline",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": "v7統合前表記：Just Be Friends (Eng ver.)",
+      "sourceRow": 157
+    },
+    {
+      "id": "EVT-0006-00158",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0323",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 154,
+      "sourceNumber": "20",
+      "performedTitle": "ルカルカ★ナイトフィーバー",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "samfree",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": "v7統合前表記：ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)",
+      "sourceRow": 158
+    },
+    {
+      "id": "EVT-0006-00159",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0412",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 155,
+      "sourceNumber": "21",
+      "performedTitle": "秘密警察",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ぶりるP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 159
+    },
+    {
+      "id": "EVT-0006-00160",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0146",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 156,
+      "sourceNumber": "22",
+      "performedTitle": "Yellow",
+      "englishTitle": "Yellow",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 160
+    },
+    {
+      "id": "EVT-0006-00161",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0332",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 157,
+      "sourceNumber": "23",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 161
+    },
+    {
+      "id": "EVT-0006-00162",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0306",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 158,
+      "sourceNumber": "24",
+      "performedTitle": "メルト",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 162
+    },
+    {
+      "id": "EVT-0006-00163",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0133",
+      "sequence": 25,
+      "sequenceStatus": "確認済み",
+      "importOrder": 159,
+      "sourceNumber": "25",
+      "performedTitle": "Tell Your World",
+      "englishTitle": "Tell Your World",
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 163
+    },
+    {
+      "id": "EVT-0006-00164",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0296",
+      "sequence": 26,
+      "sequenceStatus": "確認済み",
+      "importOrder": 160,
+      "sourceNumber": "26",
+      "performedTitle": "みくみくにしてあげる♪",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ika",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": "統合前表記：みくみくにしてあげる♪ (Miku Miku ni Shite Ageru♪)",
+      "sourceRow": 164
+    },
+    {
+      "id": "EVT-0006-00165",
+      "eventId": "EVT-0006",
+      "songId": "SONG-0127",
+      "sequence": 27,
+      "sequenceStatus": "確認済み",
+      "importOrder": 161,
+      "sourceNumber": "27",
+      "performedTitle": "Starduster",
+      "englishTitle": "Starduster",
+      "vocalsText": "初音ミク",
+      "producer": "ジミーサムP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_LOS_ANGELES_and_NEW_YORK",
+      "notes": null,
+      "sourceRow": 165
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "eventId": "EVT-0161-N",
+  "tracks": [
+    {
+      "id": "EVT-0161-N-v11-01",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0277",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8974,
+      "sourceNumber": "01",
+      "performedTitle": "フューチャー・イヴ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "sasakure.UK",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-02",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0007",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8975,
+      "sourceNumber": "02",
+      "performedTitle": "39みゅーじっく！",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "みきとP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-03",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0360",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8976,
+      "sourceNumber": "03",
+      "performedTitle": "砂の惑星",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ハチ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-04",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0173",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8977,
+      "sourceNumber": "04",
+      "performedTitle": "ヴァンパイア",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-05",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0398",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8978,
+      "sourceNumber": "05",
+      "performedTitle": "天才ロック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "カラスヤサボウ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-06",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0368",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8979,
+      "sourceNumber": "06",
+      "performedTitle": "私の恋はヘルファイア",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "SLAVE.V-V-R",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-07",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0378",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8980,
+      "sourceNumber": "07",
+      "performedTitle": "＃心がどっか寂しいんだ",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "Kanzaki Iori",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-08",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0044",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8981,
+      "sourceNumber": "08",
+      "performedTitle": "FLASH",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "香椎モイミ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-09",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0124",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8982,
+      "sourceNumber": "09",
+      "performedTitle": "Someday'z Coming",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "書店太郎",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-10",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0375",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8983,
+      "sourceNumber": "10",
+      "performedTitle": "初音天地開闢神話",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "cosMo＠暴走P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-11",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0281",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8984,
+      "sourceNumber": "11",
+      "performedTitle": "ブレス・ユア・ブレス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "和田たけあき",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-12",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0079",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8985,
+      "sourceNumber": "12",
+      "performedTitle": "Loading Memories",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "せきこみごはん",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-13",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0067",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8986,
+      "sourceNumber": "13",
+      "performedTitle": "Jump for Joy",
+      "englishTitle": "Jump for Joy",
+      "vocalsText": "巡音ルカ, 初音ミク",
+      "producer": "EasyPop",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-14",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0254",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8987,
+      "sourceNumber": "14",
+      "performedTitle": "ネクストネスト",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "さつきがてんこもり",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": "v7統合前表記：ネクストネスト (Next Nest)"
+    },
+    {
+      "id": "EVT-0161-N-v11-15",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0196",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8988,
+      "sourceNumber": "15",
+      "performedTitle": "グリーンライツ・セレナーデ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Omoi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-16",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0335",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8989,
+      "sourceNumber": "16",
+      "performedTitle": "愛されなくても君がいる",
+      "englishTitle": null,
+      "vocalsText": "初音ミク (wearing Summer Festival module)",
+      "producer": "ピノキオピー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-17",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0123",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8990,
+      "sourceNumber": "17",
+      "performedTitle": "SnowMix♪",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Marasy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-18",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0454",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8991,
+      "sourceNumber": "18",
+      "performedTitle": "Hand in Hand",
+      "englishTitle": "Hand in Hand",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-19",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0035",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8992,
+      "sourceNumber": "19",
+      "performedTitle": "DECORATOR",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    },
+    {
+      "id": "EVT-0161-N-v11-20",
+      "eventId": "EVT-0161-N",
+      "songId": "SONG-0017",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8993,
+      "sourceNumber": "20",
+      "performedTitle": "Blessing",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",
+      "producer": "halyosy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02",
+        "PER-03",
+        "PER-04",
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2022",
+      "notes": null
+    }
+  ]
+}

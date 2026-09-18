@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0197",
+  "title": "クローバー♣クラブ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ゆうゆ",
+  "appearanceCount": 3,
+  "sourceRow": 191,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0200",
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "seriesIds": [
+    "SER-004",
+    "SER-002"
+  ],
+  "firstDate": "2011-07-02",
+  "lastDate": "2012-03-09",
+  "soloAppearanceCount": 3,
+  "soloEventIds": [
+    "EVT-0200",
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "soloSeriesIds": [
+    "SER-004",
+    "SER-002"
+  ],
+  "soloFirstDate": "2011-07-02",
+  "soloLastDate": "2012-03-09"
+}

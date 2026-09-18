@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0366",
+  "title": "四秒之眷",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "PoKeR",
+  "appearanceCount": 1,
+  "sourceRow": 351,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0220"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2019-07-19",
+  "lastDate": "2019-07-19",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0220"
+  ],
+  "soloSeriesIds": [
+    "SER-004"
+  ],
+  "soloFirstDate": "2019-07-19",
+  "soloLastDate": "2019-07-19"
+}

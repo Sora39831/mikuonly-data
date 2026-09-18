@@ -1,0 +1,59 @@
+{
+  "id": "SONG-0402",
+  "title": "踏步、出发 (Tàbù, Chūfā)",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "MACHWOLF",
+  "appearanceCount": 17,
+  "sourceRow": 387,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0194-13-D",
+    "EVT-0194-13-N",
+    "EVT-0194-14-D",
+    "EVT-0194-14-N",
+    "EVT-0195-20-N",
+    "EVT-0195-21-D",
+    "EVT-0195-21-N",
+    "EVT-0196-27-D",
+    "EVT-0196-27-N",
+    "EVT-0196-28-D",
+    "EVT-0196-28-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N",
+    "EVT-0192",
+    "EVT-0193"
+  ],
+  "seriesIds": [
+    "SER-010"
+  ],
+  "firstDate": "2020-12-25",
+  "lastDate": "2025-12-21",
+  "soloAppearanceCount": 17,
+  "soloEventIds": [
+    "EVT-0194-13-D",
+    "EVT-0194-13-N",
+    "EVT-0194-14-D",
+    "EVT-0194-14-N",
+    "EVT-0195-20-N",
+    "EVT-0195-21-D",
+    "EVT-0195-21-N",
+    "EVT-0196-27-D",
+    "EVT-0196-27-N",
+    "EVT-0196-28-D",
+    "EVT-0196-28-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N",
+    "EVT-0192",
+    "EVT-0193"
+  ],
+  "soloSeriesIds": [
+    "SER-010"
+  ],
+  "soloFirstDate": "2020-12-25",
+  "soloLastDate": "2025-12-21"
+}

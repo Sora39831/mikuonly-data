@@ -1,0 +1,32 @@
+{
+  "id": "SONG-0218",
+  "title": "スキキライ",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン, 鏡音レン",
+  "producer": "HoneyWorks",
+  "appearanceCount": 10,
+  "sourceRow": 211,
+  "actualAppearanceCount": 10,
+  "eventIds": [
+    "EVT-0120-D",
+    "EVT-0120-N",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-0162-D",
+    "EVT-0162-N",
+    "EVT-0165-D",
+    "EVT-0165-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2013-08-30",
+  "lastDate": "2023-09-01",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

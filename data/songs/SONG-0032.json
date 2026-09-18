@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0032",
+  "title": "Dear",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "19's Sound Factory",
+  "appearanceCount": 3,
+  "sourceRow": 32,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0237",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "seriesIds": [
+    "SER-001",
+    "SER-002"
+  ],
+  "firstDate": "2009-08-31",
+  "lastDate": "2010-03-09",
+  "soloAppearanceCount": 3,
+  "soloEventIds": [
+    "EVT-0237",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "soloSeriesIds": [
+    "SER-001",
+    "SER-002"
+  ],
+  "soloFirstDate": "2009-08-31",
+  "soloLastDate": "2010-03-09"
+}

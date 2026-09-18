@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0038",
+  "title": "EARTH DAY",
+  "englishTitle": "EARTH DAY",
+  "vocalsText": "初音ミク",
+  "producer": "針原翼(はりーP)",
+  "appearanceCount": 4,
+  "sourceRow": 38,
+  "actualAppearanceCount": 4,
+  "eventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2014-08-30",
+  "lastDate": "2014-09-20",
+  "soloAppearanceCount": 4,
+  "soloEventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2014-08-30",
+  "soloLastDate": "2014-09-20"
+}

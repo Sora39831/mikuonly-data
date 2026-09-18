@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0210",
+  "title": "サンドリヨン",
+  "englishTitle": null,
+  "vocalsText": "初音ミク, KAITO",
+  "producer": "Dios/シグナルP",
+  "appearanceCount": 11,
+  "sourceRow": 203,
+  "actualAppearanceCount": 11,
+  "eventIds": [
+    "EVT-0148-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2021-10-22",
+  "lastDate": "2021-11-07",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0379",
+  "title": "心臓デモクラシー",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "みきとP",
+  "appearanceCount": 5,
+  "sourceRow": 364,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0228",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "seriesIds": [
+    "SER-001",
+    "SER-005"
+  ],
+  "firstDate": "2014-08-30",
+  "lastDate": "2024-03-31",
+  "soloAppearanceCount": 5,
+  "soloEventIds": [
+    "EVT-0228",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "soloSeriesIds": [
+    "SER-001",
+    "SER-005"
+  ],
+  "soloFirstDate": "2014-08-30",
+  "soloLastDate": "2024-03-31"
+}

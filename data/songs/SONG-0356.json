@@ -1,0 +1,55 @@
+{
+  "id": "SONG-0356",
+  "title": "跨时空日记 (Kuà Shíkōng Rìjì)",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Siren",
+  "appearanceCount": 15,
+  "sourceRow": 341,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0194-13-D",
+    "EVT-0194-13-N",
+    "EVT-0194-14-D",
+    "EVT-0194-14-N",
+    "EVT-0195-20-N",
+    "EVT-0195-21-D",
+    "EVT-0195-21-N",
+    "EVT-0196-27-D",
+    "EVT-0196-27-N",
+    "EVT-0196-28-D",
+    "EVT-0196-28-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N"
+  ],
+  "seriesIds": [
+    "SER-010"
+  ],
+  "firstDate": "2024-07-13",
+  "lastDate": "2025-12-21",
+  "soloAppearanceCount": 15,
+  "soloEventIds": [
+    "EVT-0194-13-D",
+    "EVT-0194-13-N",
+    "EVT-0194-14-D",
+    "EVT-0194-14-N",
+    "EVT-0195-20-N",
+    "EVT-0195-21-D",
+    "EVT-0195-21-N",
+    "EVT-0196-27-D",
+    "EVT-0196-27-N",
+    "EVT-0196-28-D",
+    "EVT-0196-28-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N"
+  ],
+  "soloSeriesIds": [
+    "SER-010"
+  ],
+  "soloFirstDate": "2024-07-13",
+  "soloLastDate": "2025-12-21"
+}

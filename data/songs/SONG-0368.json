@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0368",
+  "title": "私の恋はヘルファイア",
+  "englishTitle": null,
+  "vocalsText": "MEIKO",
+  "producer": "SLAVE.V-V-R",
+  "appearanceCount": 20,
+  "sourceRow": 353,
+  "actualAppearanceCount": 20,
+  "eventIds": [
+    "EVT-0154-N",
+    "EVT-0156-D",
+    "EVT-0156-N",
+    "EVT-0155-D",
+    "EVT-0155-N",
+    "EVT-0157-D",
+    "EVT-0157-N",
+    "EVT-0158-D",
+    "EVT-0158-N",
+    "EVT-0159-D",
+    "EVT-0159-N",
+    "EVT-0160-D",
+    "EVT-0160-N",
+    "EVT-0161-D",
+    "EVT-0161-N",
+    "EVT-0225-20230304-D",
+    "EVT-0225-20230304-N",
+    "EVT-0225-20230318-D",
+    "EVT-0225-20230318-N",
+    "EVT-0225-20230325-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-009"
+  ],
+  "firstDate": "2022-08-12",
+  "lastDate": "2023-03-25",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,489 @@
+{
+  "eventId": "EVT-0195-21-N",
+  "tracks": [
+    {
+      "id": "EVT-0195-21-N-05768",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0332",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5788,
+      "sourceNumber": "01",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5792
+    },
+    {
+      "id": "EVT-0195-21-N-05769",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0230",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5789,
+      "sourceNumber": "02",
+      "performedTitle": "ダーリンダンス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "かいりきベア",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5793
+    },
+    {
+      "id": "EVT-0195-21-N-05770",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0146",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5790,
+      "sourceNumber": "03",
+      "performedTitle": "Yellow",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5794
+    },
+    {
+      "id": "EVT-0195-21-N-05771",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0011",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5791,
+      "sourceNumber": "04",
+      "performedTitle": "ANIMAL",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "oQ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5795
+    },
+    {
+      "id": "EVT-0195-21-N-05772",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0398",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5792,
+      "sourceNumber": "05",
+      "performedTitle": "天才ロック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "カラスヤサボウ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5796
+    },
+    {
+      "id": "EVT-0195-21-N-05773",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0231",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5793,
+      "sourceNumber": "06",
+      "performedTitle": "タイムマシン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "1640mP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5797
+    },
+    {
+      "id": "EVT-0195-21-N-05774",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0195",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5794,
+      "sourceNumber": "07",
+      "performedTitle": "キレキャリオン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ポリスピカデリー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5798
+    },
+    {
+      "id": "EVT-0195-21-N-05775",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0028",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5795,
+      "sourceNumber": "08",
+      "performedTitle": "COME BACK~重返巅峰~ (COME BACK ~Chóng Fǎn Diānfēng~)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Mikunya",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5799
+    },
+    {
+      "id": "EVT-0195-21-N-05776",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0356",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5796,
+      "sourceNumber": "09",
+      "performedTitle": "跨时空日记 (Kuà Shíkōng Rìjì)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Siren",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5800
+    },
+    {
+      "id": "EVT-0195-21-N-05777",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0354",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5797,
+      "sourceNumber": "10",
+      "performedTitle": "月西江 (Yuè Xī Jiāng)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "SolPie",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5801
+    },
+    {
+      "id": "EVT-0195-21-N-05778",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0326",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5798,
+      "sourceNumber": "11",
+      "performedTitle": "レッドランドマーカー",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "Twinfield",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5802
+    },
+    {
+      "id": "EVT-0195-21-N-05779",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0410",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5799,
+      "sourceNumber": "12",
+      "performedTitle": "抜錨",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "ナナホシ管弦楽団",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5803
+    },
+    {
+      "id": "EVT-0195-21-N-05780",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0044",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5800,
+      "sourceNumber": "13",
+      "performedTitle": "FLASH",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "香椎モイミ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5804
+    },
+    {
+      "id": "EVT-0195-21-N-05781",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0164",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5801,
+      "sourceNumber": "14",
+      "performedTitle": "アンノウン・マザーグース",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5805
+    },
+    {
+      "id": "EVT-0195-21-N-05782",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0238",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5802,
+      "sourceNumber": "15",
+      "performedTitle": "ツギハギスタッカート",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "とあ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5806
+    },
+    {
+      "id": "EVT-0195-21-N-05783",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0402",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5803,
+      "sourceNumber": "16",
+      "performedTitle": "踏步、出发 (Tàbù, Chūfā)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "MACHWOLF",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5807
+    },
+    {
+      "id": "EVT-0195-21-N-05784",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0168",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5804,
+      "sourceNumber": "17",
+      "performedTitle": "いいねってYEAH!",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "じーざす(ワンダフル☆オポチュニティ！)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5808
+    },
+    {
+      "id": "EVT-0195-21-N-05785",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0395",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5805,
+      "sourceNumber": "18",
+      "performedTitle": "太陽系デスコ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ナユタン星人",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5809
+    },
+    {
+      "id": "EVT-0195-21-N-05786",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0173",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5806,
+      "sourceNumber": "19",
+      "performedTitle": "ヴァンパイア",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5810
+    },
+    {
+      "id": "EVT-0195-21-N-05787",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0133",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5807,
+      "sourceNumber": "20",
+      "performedTitle": "Tell Your World",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5811
+    },
+    {
+      "id": "EVT-0195-21-N-05788",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0091",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5808,
+      "sourceNumber": "21",
+      "performedTitle": "My Stage With You",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "cannibaltim, Zettaizetsumei Ossan",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5812
+    },
+    {
+      "id": "EVT-0195-21-N-05789",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0106",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5809,
+      "sourceNumber": "22",
+      "performedTitle": "Pick Me Up",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "敌门",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5813
+    },
+    {
+      "id": "EVT-0195-21-N-05790",
+      "eventId": "EVT-0195-21-N",
+      "songId": "SONG-0440",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5810,
+      "sourceNumber": "23",
+      "performedTitle": "梦色星球 (Mèngsè Xīngqiú)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "AzureHead",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/MIKU_WITH_YOU_2024",
+      "notes": null,
+      "sourceRow": 5814
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SONG-0148",
+  "title": "アイ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "DECO*27",
+  "appearanceCount": 11,
+  "sourceRow": 143,
+  "actualAppearanceCount": 11,
+  "eventIds": [
+    "EVT-0220",
+    "EVT-0222",
+    "EVT-0225-20230223-D",
+    "EVT-0225-20230223-N",
+    "EVT-0225-20230311-N",
+    "EVT-0225-20230319-D",
+    "EVT-0225-20230319-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-004",
+    "SER-009",
+    "SER-007"
+  ],
+  "firstDate": "2019-02-09",
+  "lastDate": "2023-03-19",
+  "soloAppearanceCount": 11,
+  "soloEventIds": [
+    "EVT-0220",
+    "EVT-0222",
+    "EVT-0225-20230223-D",
+    "EVT-0225-20230223-N",
+    "EVT-0225-20230311-N",
+    "EVT-0225-20230319-D",
+    "EVT-0225-20230319-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "soloSeriesIds": [
+    "SER-004",
+    "SER-009",
+    "SER-007"
+  ],
+  "soloFirstDate": "2019-02-09",
+  "soloLastDate": "2023-03-19"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0123",
+  "title": "SnowMix♪",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Marasy",
+  "appearanceCount": 7,
+  "sourceRow": 118,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D",
+    "EVT-0160-D",
+    "EVT-0160-N",
+    "EVT-0161-D",
+    "EVT-0161-N"
+  ],
+  "seriesIds": [
+    "SER-004",
+    "SER-005"
+  ],
+  "firstDate": "2023-02-04",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 7,
+  "soloEventIds": [
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D",
+    "EVT-0160-D",
+    "EVT-0160-N",
+    "EVT-0161-D",
+    "EVT-0161-N"
+  ],
+  "soloSeriesIds": [
+    "SER-004",
+    "SER-005"
+  ],
+  "soloFirstDate": "2023-02-04",
+  "soloLastDate": "2026-01-18"
+}

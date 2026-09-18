@@ -1,0 +1,31 @@
+{
+  "id": "SONG-0149",
+  "title": "アイドル戦士",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Mitchie M",
+  "appearanceCount": 3,
+  "sourceRow": 144,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2026-01-17",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 3,
+  "soloEventIds": [
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D"
+  ],
+  "soloSeriesIds": [
+    "SER-004"
+  ],
+  "soloFirstDate": "2026-01-17",
+  "soloLastDate": "2026-01-18"
+}

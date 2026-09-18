@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0338",
+  "title": "愛言葉V",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "DECO*27",
+  "appearanceCount": 2,
+  "sourceRow": 324,
+  "actualAppearanceCount": 2,
+  "eventIds": [
+    "EVT-DECO-D",
+    "EVT-DECO-N"
+  ],
+  "seriesIds": [
+    "SER-011"
+  ],
+  "firstDate": "2026-02-14",
+  "lastDate": "2026-02-14",
+  "soloAppearanceCount": 2,
+  "soloEventIds": [
+    "EVT-DECO-D",
+    "EVT-DECO-N"
+  ],
+  "soloSeriesIds": [
+    "SER-011"
+  ],
+  "soloFirstDate": "2026-02-14",
+  "soloLastDate": "2026-02-14"
+}

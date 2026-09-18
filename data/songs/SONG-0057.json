@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0057",
+  "title": "Hello, Worker",
+  "englishTitle": "Hello, Worker",
+  "vocalsText": "巡音ルカ",
+  "producer": "KEI",
+  "appearanceCount": 17,
+  "sourceRow": 56,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0044",
+    "EVT-0120-D",
+    "EVT-0120-N",
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0163-D",
+    "EVT-0166-D",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-0163-N",
+    "EVT-0166-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-007"
+  ],
+  "firstDate": "2013-08-30",
+  "lastDate": "2023-09-02",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

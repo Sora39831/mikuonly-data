@@ -1,0 +1,35 @@
+{
+  "id": "SONG-0170",
+  "title": "インタビュア",
+  "englishTitle": null,
+  "vocalsText": "巡音ルカ",
+  "producer": "クワガタP",
+  "appearanceCount": 12,
+  "sourceRow": 164,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0148-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0193",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0152-D",
+    "EVT-0152-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2021-10-22",
+  "lastDate": "2021-12-25",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

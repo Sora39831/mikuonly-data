@@ -1,0 +1,39 @@
+{
+  "id": "SONG-0437",
+  "title": "恋愛裁判",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "40mP",
+  "appearanceCount": 5,
+  "sourceRow": 420,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0222",
+    "EVT-0185"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-004",
+    "SER-010"
+  ],
+  "firstDate": "2015-09-04",
+  "lastDate": "2020-08-09",
+  "soloAppearanceCount": 5,
+  "soloEventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0222",
+    "EVT-0185"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-004",
+    "SER-010"
+  ],
+  "soloFirstDate": "2015-09-04",
+  "soloLastDate": "2020-08-09"
+}

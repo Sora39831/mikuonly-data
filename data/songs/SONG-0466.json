@@ -1,0 +1,39 @@
+{
+  "id": "SONG-0466",
+  "title": "こたえて",
+  "englishTitle": null,
+  "vocalsText": "初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",
+  "producer": "imie",
+  "appearanceCount": 18,
+  "actualAppearanceCount": 18,
+  "eventIds": [
+    "EVT-MM26-HAM-0724-D",
+    "EVT-MM26-HAM-0724-N",
+    "EVT-MM26-HAM-0725-D",
+    "EVT-MM26-HAM-0725-N",
+    "EVT-MM26-HAM-0726-D",
+    "EVT-MM26-HAM-0726-N",
+    "EVT-MM26-OSA-0814-D",
+    "EVT-MM26-OSA-0814-N",
+    "EVT-MM26-OSA-0815-D",
+    "EVT-MM26-OSA-0815-N",
+    "EVT-MM26-OSA-0816-D",
+    "EVT-MM26-OSA-0816-N",
+    "EVT-MM26-TOK-0828-D",
+    "EVT-MM26-TOK-0828-N",
+    "EVT-MM26-TOK-0829-D",
+    "EVT-MM26-TOK-0829-N",
+    "EVT-MM26-TOK-0830-D",
+    "EVT-MM26-TOK-0830-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2026-07-24",
+  "lastDate": "2026-08-30",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

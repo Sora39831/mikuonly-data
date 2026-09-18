@@ -1,0 +1,45 @@
+{
+  "id": "SONG-0185",
+  "title": "カゲロウデイズ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "じん",
+  "appearanceCount": 10,
+  "sourceRow": 179,
+  "actualAppearanceCount": 10,
+  "eventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-MM26-OSA-0814-D",
+    "EVT-MM26-OSA-0814-N",
+    "EVT-MM26-OSA-0815-D",
+    "EVT-MM26-OSA-0815-N",
+    "EVT-MM26-OSA-0816-D",
+    "EVT-MM26-OSA-0816-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2014-08-30",
+  "lastDate": "2026-08-16",
+  "soloAppearanceCount": 10,
+  "soloEventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-MM26-OSA-0814-D",
+    "EVT-MM26-OSA-0814-N",
+    "EVT-MM26-OSA-0815-D",
+    "EVT-MM26-OSA-0815-N",
+    "EVT-MM26-OSA-0816-D",
+    "EVT-MM26-OSA-0816-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2014-08-30",
+  "soloLastDate": "2026-08-16"
+}

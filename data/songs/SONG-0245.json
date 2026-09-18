@@ -1,0 +1,49 @@
+{
+  "id": "SONG-0245",
+  "title": "どうぶつ占い",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "すこっぷ",
+  "appearanceCount": 12,
+  "sourceRow": 238,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0120-D",
+    "EVT-0120-N",
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0140-D",
+    "EVT-0140-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2013-08-30",
+  "lastDate": "2019-08-31",
+  "soloAppearanceCount": 12,
+  "soloEventIds": [
+    "EVT-0120-D",
+    "EVT-0120-N",
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0140-D",
+    "EVT-0140-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2013-08-30",
+  "soloLastDate": "2019-08-31"
+}

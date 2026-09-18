@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0285",
+  "title": "ぽかぽかの星",
+  "englishTitle": null,
+  "vocalsText": "初音ミク (Rabbit Yukine)",
+  "producer": "はるまきごはん",
+  "appearanceCount": 8,
+  "sourceRow": 274,
+  "actualAppearanceCount": 8,
+  "eventIds": [
+    "EVT-0192",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3"
+  ],
+  "seriesIds": [
+    "SER-010",
+    "SER-005"
+  ],
+  "firstDate": "2020-12-18",
+  "lastDate": "2020-12-25",
+  "soloAppearanceCount": 8,
+  "soloEventIds": [
+    "EVT-0192",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3"
+  ],
+  "soloSeriesIds": [
+    "SER-010",
+    "SER-005"
+  ],
+  "soloFirstDate": "2020-12-18",
+  "soloLastDate": "2020-12-25"
+}

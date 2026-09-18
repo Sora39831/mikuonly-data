@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0261",
+  "title": "はじめまして地球人さん",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ピノキオピー",
+  "appearanceCount": 9,
+  "sourceRow": 251,
+  "actualAppearanceCount": 9,
+  "eventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0182-D",
+    "EVT-0182-N",
+    "EVT-0183-D",
+    "EVT-0183-N",
+    "EVT-0184-D",
+    "EVT-0184-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2015-09-04",
+  "lastDate": "2025-08-31",
+  "soloAppearanceCount": 9,
+  "soloEventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0182-D",
+    "EVT-0182-N",
+    "EVT-0183-D",
+    "EVT-0183-N",
+    "EVT-0184-D",
+    "EVT-0184-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2015-09-04",
+  "soloLastDate": "2025-08-31"
+}

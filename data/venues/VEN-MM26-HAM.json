@@ -1,0 +1,10 @@
+{
+  "id": "VEN-MM26-HAM",
+  "name": "アクトシティ浜松 大ホール",
+  "city": "浜松",
+  "countryRegion": "日本",
+  "capacity": 2336,
+  "capacityNote": "公式施設情報",
+  "capacitySourceUrl": "https://www.actcity.jp/floor/concert/",
+  "verificationStatus": "公式情報確認済み"
+}

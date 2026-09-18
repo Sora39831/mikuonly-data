@@ -1,0 +1,55 @@
+{
+  "id": "SONG-0251",
+  "title": "ドリームレス・ドリームス",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "はるまきごはん",
+  "appearanceCount": 12,
+  "sourceRow": 242,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0044",
+    "EVT-0045",
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N",
+    "EVT-0228",
+    "EVT-0231-20250517-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-001",
+    "SER-009"
+  ],
+  "firstDate": "2018-08-25",
+  "lastDate": "2025-05-17",
+  "soloAppearanceCount": 12,
+  "soloEventIds": [
+    "EVT-0044",
+    "EVT-0045",
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N",
+    "EVT-0228",
+    "EVT-0231-20250517-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-001",
+    "SER-009"
+  ],
+  "soloFirstDate": "2018-08-25",
+  "soloLastDate": "2025-05-17"
+}

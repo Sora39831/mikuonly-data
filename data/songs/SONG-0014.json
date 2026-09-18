@@ -1,0 +1,49 @@
+{
+  "id": "SONG-0014",
+  "title": "Baby Maniacs -Eight Mix-",
+  "englishTitle": "Baby Maniacs -Eight Mix-",
+  "vocalsText": "初音ミク",
+  "producer": "八王子P",
+  "appearanceCount": 11,
+  "sourceRow": 15,
+  "actualAppearanceCount": 11,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2025-12-21",
+  "soloAppearanceCount": 11,
+  "soloEventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0197-20-D",
+    "EVT-0197-20-N",
+    "EVT-0197-21-D",
+    "EVT-0197-21-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "soloFirstDate": "2016-09-10",
+  "soloLastDate": "2025-12-21"
+}

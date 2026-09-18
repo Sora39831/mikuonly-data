@@ -1,0 +1,42 @@
+{
+  "id": "SONG-0021",
+  "title": "Call!!",
+  "englishTitle": null,
+  "vocalsText": "KAITO",
+  "producer": "沫尾",
+  "appearanceCount": 19,
+  "sourceRow": 22,
+  "actualAppearanceCount": 19,
+  "eventIds": [
+    "EVT-0168-D",
+    "EVT-0168-N",
+    "EVT-0169-D",
+    "EVT-0169-N",
+    "EVT-0170-N",
+    "EVT-0170-D",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0174-D",
+    "EVT-0174-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D",
+    "EVT-0171-D",
+    "EVT-0171-N",
+    "EVT-0172-D",
+    "EVT-0172-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-004"
+  ],
+  "firstDate": "2024-08-17",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

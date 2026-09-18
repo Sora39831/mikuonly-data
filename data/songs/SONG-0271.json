@@ -1,0 +1,28 @@
+{
+  "id": "SONG-0271",
+  "title": "ひゅ〜どろどろ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク/MEIKO",
+  "producer": "栗山夕璃",
+  "appearanceCount": 6,
+  "sourceRow": 261,
+  "actualAppearanceCount": 6,
+  "eventIds": [
+    "EVT-PKM-20-D",
+    "EVT-PKM-20-N",
+    "EVT-PKM-21-D",
+    "EVT-PKM-21-N",
+    "EVT-PKM-22-D",
+    "EVT-PKM-22-N"
+  ],
+  "seriesIds": [
+    "SER-012"
+  ],
+  "firstDate": "2026-03-20",
+  "lastDate": "2026-03-22",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,493 @@
+{
+  "eventId": "EVT-0172-D",
+  "tracks": [
+    {
+      "id": "EVT-0172-D-v11-01",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0279",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9282,
+      "sourceNumber": "01",
+      "performedTitle": "ブリキノダンス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "日向電工",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-02",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0359",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9283,
+      "sourceNumber": "02",
+      "performedTitle": "混沌ブギ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "jon-YAKITORY",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-03",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0336",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9284,
+      "sourceNumber": "03",
+      "performedTitle": "愛の詩",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "LamazeP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程"
+    },
+    {
+      "id": "EVT-0172-D-v11-04",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0058",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9285,
+      "sourceNumber": "04",
+      "performedTitle": "HERO",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Ayase",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程・MM 10th テーマソング"
+    },
+    {
+      "id": "EVT-0172-D-v11-05",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0130",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9286,
+      "sourceNumber": "05",
+      "performedTitle": "SUPERHERO",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "めろくる",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・楽曲コンテ'24 GP・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-06",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0021",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9287,
+      "sourceNumber": "06",
+      "performedTitle": "Call!!",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "沫尾",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "既存曲・CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-07",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0141",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9288,
+      "sourceNumber": "07",
+      "performedTitle": "TYQOON",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "Sohbana",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-08",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0111",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9289,
+      "sourceNumber": "08",
+      "performedTitle": "REALITY",
+      "englishTitle": null,
+      "vocalsText": "MEIKO, KAITO",
+      "producer": "マイナス(ワンダフル☆オポチュニティ！)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-09",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0380",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9290,
+      "sourceNumber": "09",
+      "performedTitle": "新人類",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "まらしぃ×じん",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-10",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0431",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9291,
+      "sourceNumber": "10",
+      "performedTitle": "流星のパルス",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "*Luna",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-11",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0428",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9292,
+      "sourceNumber": "11",
+      "performedTitle": "踊",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga×TeddyLoid×DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-12",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0080",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9293,
+      "sourceNumber": "12",
+      "performedTitle": "lost and found",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "ashcolor",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-13",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0078",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9294,
+      "sourceNumber": "13",
+      "performedTitle": "letter song",
+      "englishTitle": "letter song",
+      "vocalsText": "初音ミク",
+      "producer": "doriko",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "専用モジュール"
+    },
+    {
+      "id": "EVT-0172-D-v11-14",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0429",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9295,
+      "sourceNumber": "14",
+      "performedTitle": "陽だまりのセツナ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "赤乃わい",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "CD収録・初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-15",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0227",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9296,
+      "sourceNumber": "15",
+      "performedTitle": "すろぉもぉしょん",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ピノキオピー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "東京公演"
+    },
+    {
+      "id": "EVT-0172-D-v11-16",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0348",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9297,
+      "sourceNumber": "16",
+      "performedTitle": "快晴",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Orangestar",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程"
+    },
+    {
+      "id": "EVT-0172-D-v11-17",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0418",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9298,
+      "sourceNumber": "17",
+      "performedTitle": "僕が夢を捨てて 大人になるまで",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "傘村トータ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程"
+    },
+    {
+      "id": "EVT-0172-D-v11-18",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0115",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9299,
+      "sourceNumber": "18",
+      "performedTitle": "Satisfaction",
+      "englishTitle": "Satisfaction",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程"
+    },
+    {
+      "id": "EVT-0172-D-v11-19",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0196",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9300,
+      "sourceNumber": "19",
+      "performedTitle": "グリーンライツ・セレナーデ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Omoi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "B日程・MM'19 テーマソング"
+    },
+    {
+      "id": "EVT-0172-D-v11-20",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0256",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9301,
+      "sourceNumber": "20",
+      "performedTitle": "ノヴァ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "*Luna",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": null
+    },
+    {
+      "id": "EVT-0172-D-v11-21",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0371",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9302,
+      "sourceNumber": "21",
+      "performedTitle": "初めての恋が終わる時",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "既存曲・CD収録"
+    },
+    {
+      "id": "EVT-0172-D-v11-22",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0162",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9303,
+      "sourceNumber": "22",
+      "performedTitle": "アンテナ39",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "柊マグネタイト",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "専用モジュール・CD収録・MM'24 テーマソング・初披露※"
+    },
+    {
+      "id": "EVT-0172-D-v11-23",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0289",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9304,
+      "sourceNumber": "23",
+      "performedTitle": "ボルテッカー",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "初披露"
+    },
+    {
+      "id": "EVT-0172-D-v11-24",
+      "eventId": "EVT-0172-D",
+      "songId": "SONG-0054",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9305,
+      "sourceNumber": "24",
+      "performedTitle": "Hand in Hand",
+      "englishTitle": "Hand in Hand",
+      "vocalsText": "初音ミク, MEIKO, KAITO, 鏡音リン, 鏡音レン, 巡音ルカ",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02",
+        "PER-03",
+        "PER-04",
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2024",
+      "notes": "既存曲・6人バージョン※"
+    }
+  ]
+}

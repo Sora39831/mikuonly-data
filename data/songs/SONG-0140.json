@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0140",
+  "title": "trick and treat",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン/鏡音レン",
+  "producer": "OSTER project",
+  "appearanceCount": 5,
+  "sourceRow": 135,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0199",
+    "EVT-0205-HK-D",
+    "EVT-0205-HK-N",
+    "EVT-0205-TW-D",
+    "EVT-0205-TW-N"
+  ],
+  "seriesIds": [
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2012-10-06",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

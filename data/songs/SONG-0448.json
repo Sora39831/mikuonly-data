@@ -1,0 +1,28 @@
+{
+  "id": "SONG-0448",
+  "title": "巡 -MEGURU-",
+  "englishTitle": null,
+  "vocalsText": "鼓童",
+  "producer": "鼓童",
+  "appearanceCount": 6,
+  "sourceRow": 431,
+  "actualAppearanceCount": 6,
+  "eventIds": [
+    "EVT-0217",
+    "EVT-0226",
+    "EVT-0217-20180603-D",
+    "EVT-0217-20180603-N",
+    "EVT-0226-20230604-D",
+    "EVT-0226-20230604-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2018-06-02",
+  "lastDate": "2023-06-04",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SONG-0096",
+  "title": "Nostalogic (MEIKO-SAN mix)",
+  "englishTitle": "Nostalogic (MEIKO-SAN mix)",
+  "vocalsText": "MEIKO",
+  "producer": "yuukiss",
+  "appearanceCount": 3,
+  "sourceRow": 92,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2020-11-28",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

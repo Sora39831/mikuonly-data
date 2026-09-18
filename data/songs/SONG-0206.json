@@ -1,0 +1,53 @@
+{
+  "id": "SONG-0206",
+  "title": "サイハテ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "小林オニキス",
+  "appearanceCount": 11,
+  "sourceRow": 199,
+  "actualAppearanceCount": 11,
+  "eventIds": [
+    "EVT-0128-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0174-D",
+    "EVT-0174-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0200",
+    "EVT-0185",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-004",
+    "SER-010",
+    "SER-002"
+  ],
+  "firstDate": "2010-03-09",
+  "lastDate": "2024-10-14",
+  "soloAppearanceCount": 11,
+  "soloEventIds": [
+    "EVT-0128-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0174-D",
+    "EVT-0174-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0200",
+    "EVT-0185",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-004",
+    "SER-010",
+    "SER-002"
+  ],
+  "soloFirstDate": "2010-03-09",
+  "soloLastDate": "2024-10-14"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0378",
+  "title": "心がどっか寂しいんだ",
+  "englishTitle": null,
+  "vocalsText": "鏡音レン",
+  "producer": "Kanzaki Iori",
+  "appearanceCount": 15,
+  "sourceRow": 363,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0154-N",
+    "EVT-0156-D",
+    "EVT-0156-N",
+    "EVT-0155-D",
+    "EVT-0155-N",
+    "EVT-0157-D",
+    "EVT-0157-N",
+    "EVT-0158-D",
+    "EVT-0158-N",
+    "EVT-0159-D",
+    "EVT-0159-N",
+    "EVT-0160-D",
+    "EVT-0160-N",
+    "EVT-0161-D",
+    "EVT-0161-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2022-08-12",
+  "lastDate": "2023-02-05",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

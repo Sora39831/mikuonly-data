@@ -1,0 +1,49 @@
+{
+  "id": "SONG-0101",
+  "title": "Packaged",
+  "englishTitle": "Packaged",
+  "vocalsText": "初音ミク",
+  "producer": "livetune",
+  "appearanceCount": 9,
+  "sourceRow": 97,
+  "actualAppearanceCount": 9,
+  "eventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0199",
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-003",
+    "SER-008",
+    "SER-007"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2019-02-09",
+  "soloAppearanceCount": 9,
+  "soloEventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0199",
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-003",
+    "SER-008",
+    "SER-007"
+  ],
+  "soloFirstDate": "2011-03-09",
+  "soloLastDate": "2019-02-09"
+}

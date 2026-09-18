@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0266",
+  "title": "ビターチョコデコレーション",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Syudou",
+  "appearanceCount": 1,
+  "sourceRow": 256,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0233"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2026-01-24",
+  "lastDate": "2026-01-24",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0233"
+  ],
+  "soloSeriesIds": [
+    "SER-004"
+  ],
+  "soloFirstDate": "2026-01-24",
+  "soloLastDate": "2026-01-24"
+}

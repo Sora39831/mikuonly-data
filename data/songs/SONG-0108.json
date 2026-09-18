@@ -1,0 +1,26 @@
+{
+  "id": "SONG-0108",
+  "title": "Promise",
+  "englishTitle": null,
+  "vocalsText": "初音ミク/鏡音リン",
+  "producer": "samfree",
+  "appearanceCount": 4,
+  "sourceRow": 104,
+  "actualAppearanceCount": 4,
+  "eventIds": [
+    "EVT-0198-D",
+    "EVT-0198-N",
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "seriesIds": [
+    "SER-002"
+  ],
+  "firstDate": "2010-03-09",
+  "lastDate": "2012-03-09",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

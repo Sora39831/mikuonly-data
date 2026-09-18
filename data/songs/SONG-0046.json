@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0046",
+  "title": "FREELY TOMORROW",
+  "englishTitle": "FREELY TOMORROW",
+  "vocalsText": "初音ミク",
+  "producer": "Mitchie M",
+  "appearanceCount": 7,
+  "sourceRow": 46,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-0120-N",
+    "EVT-0192",
+    "EVT-LAWSON50-2026-0118-D",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010",
+    "SER-004"
+  ],
+  "firstDate": "2013-08-30",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 7,
+  "soloEventIds": [
+    "EVT-0120-N",
+    "EVT-0192",
+    "EVT-LAWSON50-2026-0118-D",
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-010",
+    "SER-004"
+  ],
+  "soloFirstDate": "2013-08-30",
+  "soloLastDate": "2026-01-18"
+}

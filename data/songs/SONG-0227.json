@@ -1,0 +1,51 @@
+{
+  "id": "SONG-0227",
+  "title": "すろぉもぉしょん",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ピノキオピー",
+  "appearanceCount": 12,
+  "sourceRow": 220,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0170-N",
+    "EVT-0170-D",
+    "EVT-0186",
+    "EVT-0193",
+    "EVT-0171-D",
+    "EVT-0171-N",
+    "EVT-0172-D",
+    "EVT-0172-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2024-09-01",
+  "soloAppearanceCount": 12,
+  "soloEventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0170-N",
+    "EVT-0170-D",
+    "EVT-0186",
+    "EVT-0193",
+    "EVT-0171-D",
+    "EVT-0171-N",
+    "EVT-0172-D",
+    "EVT-0172-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "soloFirstDate": "2016-09-10",
+  "soloLastDate": "2024-09-01"
+}

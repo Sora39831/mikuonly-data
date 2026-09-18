@@ -1,0 +1,25 @@
+{
+  "id": "SONG-0446",
+  "title": "南部牛追歌",
+  "englishTitle": null,
+  "vocalsText": "鼓童",
+  "producer": "岩手民謡（編曲：鼓童）",
+  "appearanceCount": 3,
+  "sourceRow": 429,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0217",
+    "EVT-0217-20180603-D",
+    "EVT-0217-20180603-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2018-06-02",
+  "lastDate": "2018-06-03",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

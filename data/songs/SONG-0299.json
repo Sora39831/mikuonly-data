@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0299",
+  "title": "ミラクルペイント",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "OSTER project",
+  "appearanceCount": 2,
+  "sourceRow": 288,
+  "actualAppearanceCount": 2,
+  "eventIds": [
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "seriesIds": [
+    "SER-002"
+  ],
+  "firstDate": "2010-03-09",
+  "lastDate": "2010-03-09",
+  "soloAppearanceCount": 2,
+  "soloEventIds": [
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "soloSeriesIds": [
+    "SER-002"
+  ],
+  "soloFirstDate": "2010-03-09",
+  "soloLastDate": "2010-03-09"
+}

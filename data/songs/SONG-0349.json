@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0349",
+  "title": "完全性コンプレックス",
+  "englishTitle": null,
+  "vocalsText": "巡音ルカ",
+  "producer": "やみくろ",
+  "appearanceCount": 18,
+  "sourceRow": 334,
+  "actualAppearanceCount": 18,
+  "eventIds": [
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0225-20230304-D",
+    "EVT-0225-20230304-N",
+    "EVT-0225-20230318-D",
+    "EVT-0225-20230318-N",
+    "EVT-0225-20230325-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-009"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2023-03-25",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

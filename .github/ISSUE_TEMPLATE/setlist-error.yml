@@ -1,0 +1,35 @@
+name: Setlist / data correction
+description: Report an incorrect setlist, vocalist, date, venue, song, or other public catalog value.
+title: "[Data] "
+labels: ["data-correction"]
+body:
+  - type: input
+    id: event
+    attributes:
+      label: Event / 公演
+      description: Event name, date, or event_id.
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current data / 現在のデータ
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Proposed correction / 正しいと思われる内容
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / 出典
+      description: URL, official material, video, ticket, or other evidence. Do not infer from another performance.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

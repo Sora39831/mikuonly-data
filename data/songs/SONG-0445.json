@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0445",
+  "title": "三宅",
+  "englishTitle": null,
+  "vocalsText": "鼓童",
+  "producer": "鼓童",
+  "appearanceCount": 5,
+  "sourceRow": 428,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0217",
+    "EVT-0217-20180603-D",
+    "EVT-0217-20180603-N",
+    "EVT-0226-20230604-D",
+    "EVT-0226-20230604-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2018-06-02",
+  "lastDate": "2023-06-04",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

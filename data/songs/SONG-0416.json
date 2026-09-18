@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0416",
+  "title": "紡唄 -つむぎうた-",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン, 鏡音レン",
+  "producer": "DATEKEN",
+  "appearanceCount": 15,
+  "sourceRow": 401,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0027",
+    "EVT-0007-D",
+    "EVT-0007-N",
+    "EVT-0008-D",
+    "EVT-0008-N",
+    "EVT-0028-D",
+    "EVT-0028-N",
+    "EVT-0029-D",
+    "EVT-0029-N",
+    "EVT-0030-D",
+    "EVT-0030-N",
+    "EVT-0031-D",
+    "EVT-0031-N",
+    "EVT-0032-D",
+    "EVT-0032-N"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2015-06-27",
+  "lastDate": "2016-12-11",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MikuOnly setlist",
+  "type": "object",
+  "required": ["eventId", "tracks"],
+  "properties": {
+    "eventId": { "type": "string", "minLength": 1 },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "songId", "sequence", "performedTitle", "performanceType"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "songId": { "type": "string", "minLength": 1 },
+          "sequence": { "type": ["integer", "null"], "minimum": 1 },
+          "performedTitle": { "type": "string", "minLength": 1 },
+          "performanceType": { "enum": ["miku_solo", "miku_collaboration", "other", "unknown"] }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

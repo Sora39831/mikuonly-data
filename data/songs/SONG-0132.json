@@ -1,0 +1,31 @@
+{
+  "id": "SONG-0132",
+  "title": "TBA",
+  "englishTitle": "TBA",
+  "vocalsText": "TBA",
+  "producer": "TBA",
+  "appearanceCount": 9,
+  "sourceRow": 127,
+  "actualAppearanceCount": 9,
+  "eventIds": [
+    "EVT-0111",
+    "EVT-0112",
+    "EVT-0113",
+    "EVT-0114",
+    "EVT-0115",
+    "EVT-0116",
+    "EVT-0117",
+    "EVT-0118",
+    "EVT-0119"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2026-11-12",
+  "lastDate": "2026-11-27",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

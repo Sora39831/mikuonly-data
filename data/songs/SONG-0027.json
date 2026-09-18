@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0027",
+  "title": "Chentaku (Miku Cover)",
+  "englishTitle": "My Love",
+  "vocalsText": "初音ミク",
+  "producer": "Zizan Razak",
+  "appearanceCount": 1,
+  "sourceRow": 27,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0033"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2017-12-16",
+  "lastDate": "2017-12-16",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0033"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2017-12-16",
+  "soloLastDate": "2017-12-16"
+}

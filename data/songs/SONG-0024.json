@@ -1,0 +1,45 @@
+{
+  "id": "SONG-0024",
+  "title": "celluloid",
+  "englishTitle": "celluloid",
+  "vocalsText": "初音ミク",
+  "producer": "baker",
+  "appearanceCount": 8,
+  "sourceRow": 25,
+  "actualAppearanceCount": 8,
+  "eventIds": [
+    "EVT-0027",
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N",
+    "EVT-SNOW18-0209-D",
+    "EVT-SNOW18-0209-N",
+    "EVT-0028-D",
+    "EVT-0028-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-008",
+    "SER-007"
+  ],
+  "firstDate": "2016-06-25",
+  "lastDate": "2018-02-09",
+  "soloAppearanceCount": 8,
+  "soloEventIds": [
+    "EVT-0027",
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N",
+    "EVT-SNOW18-0209-D",
+    "EVT-SNOW18-0209-N",
+    "EVT-0028-D",
+    "EVT-0028-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-008",
+    "SER-007"
+  ],
+  "soloFirstDate": "2016-06-25",
+  "soloLastDate": "2018-02-09"
+}

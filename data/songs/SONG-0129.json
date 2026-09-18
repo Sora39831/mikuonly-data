@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0129",
+  "title": "Strangers",
+  "englishTitle": "Strangers",
+  "vocalsText": "初音ミク",
+  "producer": "Heavenz",
+  "appearanceCount": 5,
+  "sourceRow": 124,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0185"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2017-11-25",
+  "soloAppearanceCount": 5,
+  "soloEventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0185"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "soloFirstDate": "2016-09-10",
+  "soloLastDate": "2017-11-25"
+}

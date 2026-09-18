@@ -1,0 +1,492 @@
+{
+  "eventId": "EVT-0079",
+  "tracks": [
+    {
+      "id": "EVT-0079-01980",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0087",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1976,
+      "sourceNumber": "01",
+      "performedTitle": "Miku",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Anamanaguchi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1980
+    },
+    {
+      "id": "EVT-0079-01981",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0173",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1977,
+      "sourceNumber": "02",
+      "performedTitle": "ヴァンパイア",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1981
+    },
+    {
+      "id": "EVT-0079-01982",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0315",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1978,
+      "sourceNumber": "03",
+      "performedTitle": "ラッキー☆オーブ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "emon(Tes.)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": "v7統合前表記：ラッキー☆オーブ (Lucky☆Orb)",
+      "sourceRow": 1982
+    },
+    {
+      "id": "EVT-0079-01983",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0202",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1979,
+      "sourceNumber": "04",
+      "performedTitle": "ココロ",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "トラボルタ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1983
+    },
+    {
+      "id": "EVT-0079-01984",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0042",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1980,
+      "sourceNumber": "05",
+      "performedTitle": "Fire◎Flower",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "halyosy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1984
+    },
+    {
+      "id": "EVT-0079-01985",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0183",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1981,
+      "sourceNumber": "06",
+      "performedTitle": "おこちゃま戦争",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1985
+    },
+    {
+      "id": "EVT-0079-01986",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0319",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1982,
+      "sourceNumber": "07",
+      "performedTitle": "リテラシー",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "wotaku",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1986
+    },
+    {
+      "id": "EVT-0079-01987",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0326",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1983,
+      "sourceNumber": "08",
+      "performedTitle": "レッドランドマーカー",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "Twinfield",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1987
+    },
+    {
+      "id": "EVT-0079-01988",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0086",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1984,
+      "sourceNumber": "09",
+      "performedTitle": "Midnight Surf",
+      "englishTitle": null,
+      "vocalsText": "MEIKO, KAITO",
+      "producer": "あしかかもしか。",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1988
+    },
+    {
+      "id": "EVT-0079-01989",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0034",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1985,
+      "sourceNumber": "10",
+      "performedTitle": "Decade",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Dixie Flatline",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1989
+    },
+    {
+      "id": "EVT-0079-01990",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0022",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1986,
+      "sourceNumber": "11",
+      "performedTitle": "Can't Make A Song!!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "beat_shobon",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1990
+    },
+    {
+      "id": "EVT-0079-01991",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0136",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1987,
+      "sourceNumber": "12",
+      "performedTitle": "Thousand Little Voices",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Vault Kid & Flanger",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1991
+    },
+    {
+      "id": "EVT-0079-01992",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0323",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1988,
+      "sourceNumber": "13",
+      "performedTitle": "ルカルカ★ナイトフィーバー",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "samfree",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": "v7統合前表記：ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)",
+      "sourceRow": 1992
+    },
+    {
+      "id": "EVT-0079-01993",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0143",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1989,
+      "sourceNumber": "14",
+      "performedTitle": "Vivid",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "Utsu-P, Yuyoyuppe",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1993
+    },
+    {
+      "id": "EVT-0079-01994",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0382",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1990,
+      "sourceNumber": "15",
+      "performedTitle": "深海少女",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ゆうゆ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1994
+    },
+    {
+      "id": "EVT-0079-01995",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0049",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1991,
+      "sourceNumber": "16",
+      "performedTitle": "Gimme×Gimme",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン",
+      "producer": "八王子P×Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1995
+    },
+    {
+      "id": "EVT-0079-01996",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0164",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1992,
+      "sourceNumber": "17",
+      "performedTitle": "アンノウン・マザーグース",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1996
+    },
+    {
+      "id": "EVT-0079-01997",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0081",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1993,
+      "sourceNumber": "18",
+      "performedTitle": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "SAWTOWNE, Sena Kiryuin",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1997
+    },
+    {
+      "id": "EVT-0079-01998",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0133",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1994,
+      "sourceNumber": "19",
+      "performedTitle": "Tell Your World",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1998
+    },
+    {
+      "id": "EVT-0079-01999",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0332",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1995,
+      "sourceNumber": "20",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 1999
+    },
+    {
+      "id": "EVT-0079-02000",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0064",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1996,
+      "sourceNumber": "21",
+      "performedTitle": "Intergalactic Bound",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "雄之助×CircusP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 2000
+    },
+    {
+      "id": "EVT-0079-02001",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0062",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1997,
+      "sourceNumber": "22",
+      "performedTitle": "imaginary love story",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Synthion",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 2001
+    },
+    {
+      "id": "EVT-0079-02002",
+      "eventId": "EVT-0079",
+      "songId": "SONG-0060",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1998,
+      "sourceNumber": "23",
+      "performedTitle": "Highlight",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "KIRA",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_New_Zealand_&_Australia",
+      "notes": null,
+      "sourceRow": 2002
+    }
+  ]
+}

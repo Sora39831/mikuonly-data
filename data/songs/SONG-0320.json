@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0320",
+  "title": "リバースユニバース",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ナユタン星人",
+  "appearanceCount": 8,
+  "sourceRow": 307,
+  "actualAppearanceCount": 8,
+  "eventIds": [
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2018-08-25",
+  "lastDate": "2018-09-02",
+  "soloAppearanceCount": 8,
+  "soloEventIds": [
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2018-08-25",
+  "soloLastDate": "2018-09-02"
+}

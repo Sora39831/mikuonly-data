@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0329",
+  "title": "ロストワンの号哭",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "Neru",
+  "appearanceCount": 6,
+  "sourceRow": 315,
+  "actualAppearanceCount": 6,
+  "eventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-004"
+  ],
+  "firstDate": "2015-09-04",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

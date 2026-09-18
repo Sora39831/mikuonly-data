@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0290",
+  "title": "マージナル",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "OSTER project",
+  "appearanceCount": 7,
+  "sourceRow": 279,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-0001",
+    "EVT-0199",
+    "EVT-0207",
+    "EVT-0203-D",
+    "EVT-0203-N",
+    "EVT-0002-D",
+    "EVT-0002-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2014-05-29",
+  "soloAppearanceCount": 7,
+  "soloEventIds": [
+    "EVT-0001",
+    "EVT-0199",
+    "EVT-0207",
+    "EVT-0203-D",
+    "EVT-0203-N",
+    "EVT-0002-D",
+    "EVT-0002-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-003"
+  ],
+  "soloFirstDate": "2011-03-09",
+  "soloLastDate": "2014-05-29"
+}

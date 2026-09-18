@@ -1,0 +1,532 @@
+{
+  "eventId": "EVT-0205-TW-D",
+  "tracks": [
+    {
+      "id": "EVT-0205-TW-D-001",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0296",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9869,
+      "sourceNumber": "01",
+      "performedTitle": "みくみくにしてあげる♪",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "MOSAIC.WAV×鶴田加茂",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8544
+    },
+    {
+      "id": "EVT-0205-TW-D-002",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0438",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9870,
+      "sourceNumber": "02",
+      "performedTitle": "恋色病棟",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8545
+    },
+    {
+      "id": "EVT-0205-TW-D-003",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0188",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9871,
+      "sourceNumber": "03",
+      "performedTitle": "カラフル×メロディ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク/鏡音リン",
+      "producer": "ちーむMOER",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8546
+    },
+    {
+      "id": "EVT-0205-TW-D-004",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0330",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9872,
+      "sourceNumber": "04",
+      "performedTitle": "ロミオとシンデレラ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "doriko",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8547
+    },
+    {
+      "id": "EVT-0205-TW-D-005",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0327",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9873,
+      "sourceNumber": "05",
+      "performedTitle": "ローリンガール",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8548
+    },
+    {
+      "id": "EVT-0205-TW-D-006",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0140",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9874,
+      "sourceNumber": "06",
+      "performedTitle": "trick and treat",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン/鏡音レン",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8549
+    },
+    {
+      "id": "EVT-0205-TW-D-007",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0305",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9875,
+      "sourceNumber": "07",
+      "performedTitle": "メランコリック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8550
+    },
+    {
+      "id": "EVT-0205-TW-D-008",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0202",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9876,
+      "sourceNumber": "08",
+      "performedTitle": "ココロ",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "トラボルタ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8551
+    },
+    {
+      "id": "EVT-0205-TW-D-009",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0342",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9877,
+      "sourceNumber": "09",
+      "performedTitle": "右肩の蝶",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "のりぴー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8552
+    },
+    {
+      "id": "EVT-0205-TW-D-010",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0042",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9878,
+      "sourceNumber": "10",
+      "performedTitle": "Fire◎Flower",
+      "englishTitle": "Fire◎Flower",
+      "vocalsText": "鏡音レン",
+      "producer": "halyosy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8553
+    },
+    {
+      "id": "EVT-0205-TW-D-011",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0367",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9879,
+      "sourceNumber": "11",
+      "performedTitle": "私の時間",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "くちばしP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8554
+    },
+    {
+      "id": "EVT-0205-TW-D-012",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0288",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9880,
+      "sourceNumber": "12",
+      "performedTitle": "ぽっぴっぽー",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "LamazeP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8555
+    },
+    {
+      "id": "EVT-0205-TW-D-013",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0146",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9881,
+      "sourceNumber": "13",
+      "performedTitle": "Yellow",
+      "englishTitle": "Yellow",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8556
+    },
+    {
+      "id": "EVT-0205-TW-D-014",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0252",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9882,
+      "sourceNumber": "14",
+      "performedTitle": "トリノコシティ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "40mP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8557
+    },
+    {
+      "id": "EVT-0205-TW-D-015",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0372",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9883,
+      "sourceNumber": "15",
+      "performedTitle": "初音ミクの激唱",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Storyteller(GAiA×cosMo＠暴走P)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8558
+    },
+    {
+      "id": "EVT-0205-TW-D-016",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0113",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9884,
+      "sourceNumber": "16",
+      "performedTitle": "RIP=RELEASE",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "minato",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8559
+    },
+    {
+      "id": "EVT-0205-TW-D-017",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0235",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9885,
+      "sourceNumber": "17",
+      "performedTitle": "ダブルラリアット",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "アゴアニキ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8560
+    },
+    {
+      "id": "EVT-0205-TW-D-018",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0323",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9886,
+      "sourceNumber": "18",
+      "performedTitle": "ルカルカ★ナイトフィーバー",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "samfree",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8561
+    },
+    {
+      "id": "EVT-0205-TW-D-019",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0346",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9887,
+      "sourceNumber": "19",
+      "performedTitle": "歌に形はないけれど",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "doriko",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8562
+    },
+    {
+      "id": "EVT-0205-TW-D-020",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0371",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9888,
+      "sourceNumber": "20",
+      "performedTitle": "初めての恋が終わる時",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8563
+    },
+    {
+      "id": "EVT-0205-TW-D-021",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0204",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9889,
+      "sourceNumber": "21",
+      "performedTitle": "こっち向いて Baby",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。／v7統合前表記：こっち向いてBaby",
+      "sourceRow": 8564
+    },
+    {
+      "id": "EVT-0205-TW-D-022",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0409",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9890,
+      "sourceNumber": "22",
+      "performedTitle": "白い雪のプリンセスは",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "のぼる↑",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8565
+    },
+    {
+      "id": "EVT-0205-TW-D-023",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0133",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9891,
+      "sourceNumber": "23",
+      "performedTitle": "Tell Your World",
+      "englishTitle": "Tell Your World",
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8566
+    },
+    {
+      "id": "EVT-0205-TW-D-024",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0306",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9892,
+      "sourceNumber": "24",
+      "performedTitle": "メルト",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8567
+    },
+    {
+      "id": "EVT-0205-TW-D-025",
+      "eventId": "EVT-0205-TW-D",
+      "songId": "SONG-0127",
+      "sequence": 25,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9893,
+      "sourceNumber": "25",
+      "performedTitle": "Starduster",
+      "englishTitle": "Starduster",
+      "vocalsText": "初音ミク",
+      "producer": "ジミーサムP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
+      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceRow": 8568
+    }
+  ]
+}

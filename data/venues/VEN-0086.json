@@ -1,0 +1,11 @@
+{
+  "id": "VEN-0086",
+  "name": "東京体育館",
+  "city": "東京",
+  "countryRegion": "日本",
+  "capacity": 10000,
+  "capacityNote": "主竞技场约值；配置依活动",
+  "capacitySourceUrl": "https://www.tef.or.jp/tmg/",
+  "verificationStatus": "已初核",
+  "sourceRow": 89
+}

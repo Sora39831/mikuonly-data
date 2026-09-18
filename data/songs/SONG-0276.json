@@ -1,0 +1,61 @@
+{
+  "id": "SONG-0276",
+  "title": "プシ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "r-906",
+  "appearanceCount": 17,
+  "sourceRow": 265,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0231-20250419-D",
+    "EVT-0231-20250419-N",
+    "EVT-0231-20250426-D",
+    "EVT-0231-20250426-N",
+    "EVT-0231-20250429-D",
+    "EVT-0231-20250429-N",
+    "EVT-0231-20250502-D",
+    "EVT-0231-20250502-N",
+    "EVT-0231-20250503-D",
+    "EVT-0231-20250503-N",
+    "EVT-0231-20250506-D",
+    "EVT-0231-20250517-N",
+    "EVT-0231-20250531-D",
+    "EVT-0231-20250531-N",
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D"
+  ],
+  "seriesIds": [
+    "SER-009",
+    "SER-004"
+  ],
+  "firstDate": "2025-04-19",
+  "lastDate": "2026-01-18",
+  "soloAppearanceCount": 17,
+  "soloEventIds": [
+    "EVT-0231-20250419-D",
+    "EVT-0231-20250419-N",
+    "EVT-0231-20250426-D",
+    "EVT-0231-20250426-N",
+    "EVT-0231-20250429-D",
+    "EVT-0231-20250429-N",
+    "EVT-0231-20250502-D",
+    "EVT-0231-20250502-N",
+    "EVT-0231-20250503-D",
+    "EVT-0231-20250503-N",
+    "EVT-0231-20250506-D",
+    "EVT-0231-20250517-N",
+    "EVT-0231-20250531-D",
+    "EVT-0231-20250531-N",
+    "EVT-LAWSON50-2026-0117-D",
+    "EVT-LAWSON50-2026-0117-N",
+    "EVT-LAWSON50-2026-0118-D"
+  ],
+  "soloSeriesIds": [
+    "SER-009",
+    "SER-004"
+  ],
+  "soloFirstDate": "2025-04-19",
+  "soloLastDate": "2026-01-18"
+}

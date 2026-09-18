@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0193",
+  "title": "キメラ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "DECO*27",
+  "appearanceCount": 1,
+  "sourceRow": 187,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-DECO-N"
+  ],
+  "seriesIds": [
+    "SER-011"
+  ],
+  "firstDate": "2026-02-14",
+  "lastDate": "2026-02-14",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-DECO-N"
+  ],
+  "soloSeriesIds": [
+    "SER-011"
+  ],
+  "soloFirstDate": "2026-02-14",
+  "soloLastDate": "2026-02-14"
+}

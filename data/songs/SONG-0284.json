@@ -1,0 +1,34 @@
+{
+  "id": "SONG-0284",
+  "title": "ヘッジホッグ",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "Noz.",
+  "appearanceCount": 12,
+  "sourceRow": 273,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0163-D",
+    "EVT-0166-D",
+    "EVT-0162-D",
+    "EVT-0162-N",
+    "EVT-0163-N",
+    "EVT-0164-D",
+    "EVT-0164-N",
+    "EVT-0165-D",
+    "EVT-0165-N",
+    "EVT-0166-N",
+    "EVT-0167-D",
+    "EVT-0167-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2023-08-11",
+  "lastDate": "2023-09-03",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

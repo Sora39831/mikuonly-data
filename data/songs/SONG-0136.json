@@ -1,0 +1,45 @@
+{
+  "id": "SONG-0136",
+  "title": "Thousand Little Voices",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Vault Kid & Flanger",
+  "appearanceCount": 9,
+  "sourceRow": 131,
+  "actualAppearanceCount": 9,
+  "eventIds": [
+    "EVT-0054",
+    "EVT-0056",
+    "EVT-0059",
+    "EVT-0061",
+    "EVT-0073",
+    "EVT-0076",
+    "EVT-0079",
+    "EVT-0082",
+    "EVT-0229"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-004"
+  ],
+  "firstDate": "2024-04-09",
+  "lastDate": "2024-11-26",
+  "soloAppearanceCount": 9,
+  "soloEventIds": [
+    "EVT-0054",
+    "EVT-0056",
+    "EVT-0059",
+    "EVT-0061",
+    "EVT-0073",
+    "EVT-0076",
+    "EVT-0079",
+    "EVT-0082",
+    "EVT-0229"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-004"
+  ],
+  "soloFirstDate": "2024-04-09",
+  "soloLastDate": "2024-11-26"
+}

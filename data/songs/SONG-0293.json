@@ -1,0 +1,61 @@
+{
+  "id": "SONG-0293",
+  "title": "まるいうなばら",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ごーぶす",
+  "appearanceCount": 18,
+  "sourceRow": 282,
+  "actualAppearanceCount": 18,
+  "eventIds": [
+    "EVT-0148-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0152-D",
+    "EVT-0152-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2021-11-06",
+  "soloAppearanceCount": 18,
+  "soloEventIds": [
+    "EVT-0148-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0152-D",
+    "EVT-0152-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2020-11-28",
+  "soloLastDate": "2021-11-06"
+}

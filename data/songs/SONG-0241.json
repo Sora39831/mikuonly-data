@@ -1,0 +1,26 @@
+{
+  "id": "SONG-0241",
+  "title": "テレカクシ思春期",
+  "englishTitle": null,
+  "vocalsText": "鏡音レン",
+  "producer": "HoneyWorks",
+  "appearanceCount": 4,
+  "sourceRow": 234,
+  "actualAppearanceCount": 4,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2016-09-11",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

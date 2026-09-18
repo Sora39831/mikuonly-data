@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0077",
+  "title": "Leia",
+  "englishTitle": "Leia",
+  "vocalsText": "巡音ルカ",
+  "producer": "ゆよゆっぺ",
+  "appearanceCount": 10,
+  "sourceRow": 73,
+  "actualAppearanceCount": 10,
+  "eventIds": [
+    "EVT-0120-D",
+    "EVT-0120-N",
+    "EVT-SNOW18-0209-D",
+    "EVT-SNOW18-0209-N",
+    "EVT-SNOW18-0210-D",
+    "EVT-SNOW18-0210-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-007"
+  ],
+  "firstDate": "2013-08-30",
+  "lastDate": "2019-02-10",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

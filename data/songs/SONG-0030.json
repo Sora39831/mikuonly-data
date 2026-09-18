@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0030",
+  "title": "Crosslight",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "kz(livetune)",
+  "appearanceCount": 1,
+  "sourceRow": 30,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0237"
+  ],
+  "seriesIds": [
+    "SER-001"
+  ],
+  "firstDate": "2009-08-31",
+  "lastDate": "2009-08-31",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0237"
+  ],
+  "soloSeriesIds": [
+    "SER-001"
+  ],
+  "soloFirstDate": "2009-08-31",
+  "soloLastDate": "2009-08-31"
+}

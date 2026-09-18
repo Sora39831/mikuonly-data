@@ -1,0 +1,492 @@
+{
+  "eventId": "EVT-0058",
+  "tracks": [
+    {
+      "id": "EVT-0058-01497",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0087",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1493,
+      "sourceNumber": "01",
+      "performedTitle": "Miku",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Anamanaguchi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1497
+    },
+    {
+      "id": "EVT-0058-01498",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0173",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1494,
+      "sourceNumber": "02",
+      "performedTitle": "ヴァンパイア",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1498
+    },
+    {
+      "id": "EVT-0058-01499",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0164",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1495,
+      "sourceNumber": "03",
+      "performedTitle": "アンノウン・マザーグース",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1499
+    },
+    {
+      "id": "EVT-0058-01500",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0398",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1496,
+      "sourceNumber": "04",
+      "performedTitle": "天才ロック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "カラスヤサボウ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1500
+    },
+    {
+      "id": "EVT-0058-01501",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0048",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1497,
+      "sourceNumber": "05",
+      "performedTitle": "GEDO",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "daraku",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1501
+    },
+    {
+      "id": "EVT-0058-01502",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0183",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1498,
+      "sourceNumber": "06",
+      "performedTitle": "おこちゃま戦争",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1502
+    },
+    {
+      "id": "EVT-0058-01503",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0319",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1499,
+      "sourceNumber": "07",
+      "performedTitle": "リテラシー",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "wotaku",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1503
+    },
+    {
+      "id": "EVT-0058-01504",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0283",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1500,
+      "sourceNumber": "08",
+      "performedTitle": "フロイライン＝ビブリォチカ (Fräulein=Biblioteca)",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "nyanyannya",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1504
+    },
+    {
+      "id": "EVT-0058-01505",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0099",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1501,
+      "sourceNumber": "09",
+      "performedTitle": "on the rocks",
+      "englishTitle": null,
+      "vocalsText": "MEIKO, KAITO",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1505
+    },
+    {
+      "id": "EVT-0058-01506",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0081",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1502,
+      "sourceNumber": "10",
+      "performedTitle": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "SAWTOWNE, Sena Kiryuin",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1506
+    },
+    {
+      "id": "EVT-0058-01507",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0018",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1503,
+      "sourceNumber": "11",
+      "performedTitle": "Blue Star",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "八王子P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1507
+    },
+    {
+      "id": "EVT-0058-01508",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0134",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1504,
+      "sourceNumber": "12",
+      "performedTitle": "Ten Thousand Stars",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "CircusP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1508
+    },
+    {
+      "id": "EVT-0058-01509",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0107",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1505,
+      "sourceNumber": "13",
+      "performedTitle": "Plaything",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Mizu",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1509
+    },
+    {
+      "id": "EVT-0058-01510",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0229",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1506,
+      "sourceNumber": "14",
+      "performedTitle": "それがあなたの幸せとしても",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "Heavenz",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1510
+    },
+    {
+      "id": "EVT-0058-01511",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0143",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1507,
+      "sourceNumber": "15",
+      "performedTitle": "Vivid",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "Utsu-P, Yuyoyuppe",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1511
+    },
+    {
+      "id": "EVT-0058-01512",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0049",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1508,
+      "sourceNumber": "16",
+      "performedTitle": "Gimme×Gimme",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン",
+      "producer": "八王子P×Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1512
+    },
+    {
+      "id": "EVT-0058-01513",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0258",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1509,
+      "sourceNumber": "17",
+      "performedTitle": "ハイパーリアリティショウ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "鬱P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1513
+    },
+    {
+      "id": "EVT-0058-01514",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0332",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1510,
+      "sourceNumber": "18",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1514
+    },
+    {
+      "id": "EVT-0058-01515",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0315",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1511,
+      "sourceNumber": "19",
+      "performedTitle": "ラッキー☆オーブ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "emon(Tes.)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": "v7統合前表記：ラッキー☆オーブ (Lucky☆Orb)",
+      "sourceRow": 1515
+    },
+    {
+      "id": "EVT-0058-01516",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0133",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1512,
+      "sourceNumber": "20",
+      "performedTitle": "Tell Your World",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1516
+    },
+    {
+      "id": "EVT-0058-01517",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0064",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1513,
+      "sourceNumber": "21",
+      "performedTitle": "Intergalactic Bound",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "雄之助×CircusP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1517
+    },
+    {
+      "id": "EVT-0058-01518",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0062",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1514,
+      "sourceNumber": "22",
+      "performedTitle": "imaginary love story",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Synthion",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1518
+    },
+    {
+      "id": "EVT-0058-01519",
+      "eventId": "EVT-0058",
+      "songId": "SONG-0060",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1515,
+      "sourceNumber": "23",
+      "performedTitle": "Highlight",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "KIRA",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null,
+      "sourceRow": 1519
+    }
+  ]
+}

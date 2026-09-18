@@ -1,0 +1,25 @@
+{
+  "id": "SONG-0444",
+  "title": "SHAKE",
+  "englishTitle": null,
+  "vocalsText": null,
+  "producer": null,
+  "appearanceCount": 3,
+  "sourceRow": 427,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2017-03-04",
+  "lastDate": "2017-03-05",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

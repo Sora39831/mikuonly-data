@@ -1,0 +1,53 @@
+{
+  "id": "SONG-0020",
+  "title": "Calc.",
+  "englishTitle": "Calc.",
+  "vocalsText": "初音ミク",
+  "producer": "ジミーサムP",
+  "appearanceCount": 13,
+  "sourceRow": 21,
+  "actualAppearanceCount": 13,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0169-D",
+    "EVT-0169-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0192",
+    "EVT-0171-D",
+    "EVT-0171-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2024-10-14",
+  "soloAppearanceCount": 13,
+  "soloEventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0169-D",
+    "EVT-0169-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0192",
+    "EVT-0171-D",
+    "EVT-0171-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-010"
+  ],
+  "soloFirstDate": "2016-09-10",
+  "soloLastDate": "2024-10-14"
+}

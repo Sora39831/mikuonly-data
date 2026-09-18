@@ -1,0 +1,40 @@
+{
+  "id": "SONG-0253",
+  "title": "なりすましゲンガー",
+  "englishTitle": null,
+  "vocalsText": "初音ミク, 鏡音リン",
+  "producer": "KulfiQ",
+  "appearanceCount": 17,
+  "sourceRow": 244,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0156-D",
+    "EVT-0156-N",
+    "EVT-0159-D",
+    "EVT-0159-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-007"
+  ],
+  "firstDate": "2016-09-10",
+  "lastDate": "2022-09-04",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SONG-0147",
+  "title": "YY",
+  "englishTitle": "YY",
+  "vocalsText": "初音ミク",
+  "producer": "23.exe",
+  "appearanceCount": 13,
+  "sourceRow": 142,
+  "actualAppearanceCount": 13,
+  "eventIds": [
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2020-12-20",
+  "soloAppearanceCount": 13,
+  "soloEventIds": [
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2020-11-28",
+  "soloLastDate": "2020-12-20"
+}

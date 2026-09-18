@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0427",
+  "title": "与你同行～B With U～",
+  "englishTitle": null,
+  "vocalsText": "初音ミク/洛天依",
+  "producer": "kz(livetune)",
+  "appearanceCount": 1,
+  "sourceRow": 411,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0220"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2019-07-19",
+  "lastDate": "2019-07-19",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

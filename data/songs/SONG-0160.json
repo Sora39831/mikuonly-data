@@ -1,0 +1,55 @@
+{
+  "id": "SONG-0160",
+  "title": "ある計画は今も密かに",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "森羅",
+  "appearanceCount": 15,
+  "sourceRow": 155,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0141-D",
+    "EVT-0141-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2019-08-10",
+  "lastDate": "2021-11-07",
+  "soloAppearanceCount": 15,
+  "soloEventIds": [
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0141-D",
+    "EVT-0141-N",
+    "EVT-0149-D",
+    "EVT-0149-N",
+    "EVT-0151-D",
+    "EVT-0151-N",
+    "EVT-0153-D",
+    "EVT-0153-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2019-08-10",
+  "soloLastDate": "2021-11-07"
+}

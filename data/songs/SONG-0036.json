@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0036",
+  "title": "Die For You",
+  "englishTitle": "Die For You",
+  "vocalsText": "none",
+  "producer": "Okame-P",
+  "appearanceCount": 1,
+  "sourceRow": 36,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0033"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2017-12-16",
+  "lastDate": "2017-12-16",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

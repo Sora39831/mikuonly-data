@@ -1,0 +1,11 @@
+{
+  "id": "VEN-0084",
+  "name": "横浜アリーナ",
+  "city": "横浜",
+  "countryRegion": "日本",
+  "capacity": 13000,
+  "capacityNote": "活动形式最大约17,000",
+  "capacitySourceUrl": "https://www.yokohama-arena.co.jp/",
+  "verificationStatus": "確認済み",
+  "sourceRow": 87
+}

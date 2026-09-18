@@ -1,0 +1,369 @@
+{
+  "eventId": "EVT-0143-3",
+  "tracks": [
+    {
+      "id": "EVT-0143-3-v11-01",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0395",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8366,
+      "sourceNumber": "01",
+      "performedTitle": "太陽系デスコ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ナユタン星人",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2025_ASIA",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-02",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0258",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8367,
+      "sourceNumber": "02",
+      "performedTitle": "ハイパーリアリティショウ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "鬱P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2020_EUROPE",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-03",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0147",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8368,
+      "sourceNumber": "03",
+      "performedTitle": "YY",
+      "englishTitle": "YY",
+      "vocalsText": "初音ミク",
+      "producer": "23.exe",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-04",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0213",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8369,
+      "sourceNumber": "04",
+      "performedTitle": "シャボン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "蜂屋ななし",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-05",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0049",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8370,
+      "sourceNumber": "05",
+      "performedTitle": "Gimme×Gimme",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン",
+      "producer": "八王子P×Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_North_America",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-06",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0294",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8371,
+      "sourceNumber": "06",
+      "performedTitle": "みかぼし",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "3106。",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-07",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0293",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8372,
+      "sourceNumber": "07",
+      "performedTitle": "まるいうなばら",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ごーぶす",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-08",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0096",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8373,
+      "sourceNumber": "08",
+      "performedTitle": "Nostalogic （MEIKO-SAN mix）",
+      "englishTitle": "Nostalogic (MEIKO-SAN mix)",
+      "vocalsText": "MEIKO",
+      "producer": "yuukiss",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-09",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0010",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8374,
+      "sourceNumber": "09",
+      "performedTitle": "Amazing Dolce",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン, MEIKO",
+      "producer": "ひとしずく×やま△",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03",
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2026_North_America",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-10",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0191",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8375,
+      "sourceNumber": "10",
+      "performedTitle": "きみとぼくのレゾナンス",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "斜め上P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-11",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0349",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8376,
+      "sourceNumber": "11",
+      "performedTitle": "完全性コンプレックス",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "やみくろ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-12",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0412",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8377,
+      "sourceNumber": "12",
+      "performedTitle": "秘密警察",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ぶりるP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_INDONESIA",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-13",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0372",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8378,
+      "sourceNumber": "13",
+      "performedTitle": "初音ミクの激唱",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Storyteller(GAiA×cosMo＠暴走P)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2014_in_INDONESIA",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-14",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0192",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8379,
+      "sourceNumber": "14",
+      "performedTitle": "キミぺディア",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-15",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0228",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8380,
+      "sourceNumber": "15",
+      "performedTitle": "セカイ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27×堀江昌太(kemu)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-16",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0007",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8381,
+      "sourceNumber": "16",
+      "performedTitle": "39みゅーじっく！",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "みきとP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2016",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-17",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0420",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8382,
+      "sourceNumber": "17",
+      "performedTitle": "命に嫌われている。",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "カンザキイオリ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    },
+    {
+      "id": "EVT-0143-3-v11-18",
+      "eventId": "EVT-0143-3",
+      "songId": "SONG-0335",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8383,
+      "sourceNumber": "18",
+      "performedTitle": "愛されなくても君がいる",
+      "englishTitle": null,
+      "vocalsText": "初音ミク (wearing Summer Festival module)",
+      "producer": "ピノキオピー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/Hatsune_Miku_Magical_Mirai_2020",
+      "notes": null
+    }
+  ]
+}

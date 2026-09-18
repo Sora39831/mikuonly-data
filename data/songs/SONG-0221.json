@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0221",
+  "title": "ステラ",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "骨盤P",
+  "appearanceCount": 4,
+  "sourceRow": 214,
+  "actualAppearanceCount": 4,
+  "eventIds": [
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-007"
+  ],
+  "firstDate": "2019-02-09",
+  "lastDate": "2019-02-10",
+  "soloAppearanceCount": 4,
+  "soloEventIds": [
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "soloSeriesIds": [
+    "SER-007"
+  ],
+  "soloFirstDate": "2019-02-09",
+  "soloLastDate": "2019-02-10"
+}

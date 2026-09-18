@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0441",
+  "title": "你好 (Nǐhǎo)",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "MusikM, Da Ming",
+  "appearanceCount": 2,
+  "sourceRow": 424,
+  "actualAppearanceCount": 2,
+  "eventIds": [
+    "EVT-0185",
+    "EVT-0186"
+  ],
+  "seriesIds": [
+    "SER-010"
+  ],
+  "firstDate": "2017-11-25",
+  "lastDate": "2017-11-25",
+  "soloAppearanceCount": 2,
+  "soloEventIds": [
+    "EVT-0185",
+    "EVT-0186"
+  ],
+  "soloSeriesIds": [
+    "SER-010"
+  ],
+  "soloFirstDate": "2017-11-25",
+  "soloLastDate": "2017-11-25"
+}

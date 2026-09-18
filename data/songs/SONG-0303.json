@@ -1,0 +1,36 @@
+{
+  "id": "SONG-0303",
+  "title": "メズマライザー",
+  "englishTitle": null,
+  "vocalsText": "初音ミク/重音テト",
+  "producer": "サツキ",
+  "appearanceCount": 14,
+  "sourceRow": 292,
+  "actualAppearanceCount": 14,
+  "eventIds": [
+    "EVT-0231-20250419-D",
+    "EVT-0231-20250419-N",
+    "EVT-0231-20250426-D",
+    "EVT-0231-20250426-N",
+    "EVT-0231-20250429-D",
+    "EVT-0231-20250429-N",
+    "EVT-0231-20250502-D",
+    "EVT-0231-20250502-N",
+    "EVT-0231-20250503-D",
+    "EVT-0231-20250503-N",
+    "EVT-0231-20250506-D",
+    "EVT-0231-20250517-N",
+    "EVT-0231-20250531-D",
+    "EVT-0231-20250531-N"
+  ],
+  "seriesIds": [
+    "SER-009"
+  ],
+  "firstDate": "2025-04-19",
+  "lastDate": "2025-05-31",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

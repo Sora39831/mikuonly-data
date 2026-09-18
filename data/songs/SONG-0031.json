@@ -1,0 +1,35 @@
+{
+  "id": "SONG-0031",
+  "title": "Cybernetic",
+  "englishTitle": "Cybernetic",
+  "vocalsText": "初音ミク",
+  "producer": "雄之助×Circus-P",
+  "appearanceCount": 5,
+  "sourceRow": 31,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0041",
+    "EVT-0042",
+    "EVT-0043",
+    "EVT-0044",
+    "EVT-0045"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2018-12-01",
+  "lastDate": "2019-07-27",
+  "soloAppearanceCount": 5,
+  "soloEventIds": [
+    "EVT-0041",
+    "EVT-0042",
+    "EVT-0043",
+    "EVT-0044",
+    "EVT-0045"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2018-12-01",
+  "soloLastDate": "2019-07-27"
+}

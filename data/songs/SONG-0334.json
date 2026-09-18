@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0334",
+  "title": "愛Dee",
+  "englishTitle": null,
+  "vocalsText": "初音ミク, 巡音ルカ",
+  "producer": "Mitchie M",
+  "appearanceCount": 20,
+  "sourceRow": 320,
+  "actualAppearanceCount": 20,
+  "eventIds": [
+    "EVT-0083",
+    "EVT-0084",
+    "EVT-0085",
+    "EVT-0086",
+    "EVT-0087",
+    "EVT-0088",
+    "EVT-0089",
+    "EVT-0090",
+    "EVT-0091",
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0126-D",
+    "EVT-0126-N",
+    "EVT-0127-D",
+    "EVT-0127-N",
+    "EVT-0155-D",
+    "EVT-0155-N",
+    "EVT-0158-D",
+    "EVT-0158-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005"
+  ],
+  "firstDate": "2015-09-04",
+  "lastDate": "2025-11-30",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

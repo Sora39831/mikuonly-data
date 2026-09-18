@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0175",
+  "title": "ウララ",
+  "englishTitle": null,
+  "vocalsText": "none",
+  "producer": "Zankyou-P",
+  "appearanceCount": 1,
+  "sourceRow": 169,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0033"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2017-12-16",
+  "lastDate": "2017-12-16",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

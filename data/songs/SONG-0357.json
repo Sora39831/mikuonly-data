@@ -1,0 +1,57 @@
+{
+  "id": "SONG-0357",
+  "title": "好き！雪！本気マジック",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Mitchie M",
+  "appearanceCount": 14,
+  "sourceRow": 342,
+  "actualAppearanceCount": 14,
+  "eventIds": [
+    "EVT-0222",
+    "EVT-0225-20230304-D",
+    "EVT-0225-20230304-N",
+    "EVT-0225-20230318-D",
+    "EVT-0225-20230318-N",
+    "EVT-0225-20230325-N",
+    "EVT-SNOW18-0209-D",
+    "EVT-SNOW18-0209-N",
+    "EVT-SNOW18-0210-D",
+    "EVT-SNOW18-0210-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-004",
+    "SER-009",
+    "SER-007"
+  ],
+  "firstDate": "2018-02-09",
+  "lastDate": "2023-03-25",
+  "soloAppearanceCount": 14,
+  "soloEventIds": [
+    "EVT-0222",
+    "EVT-0225-20230304-D",
+    "EVT-0225-20230304-N",
+    "EVT-0225-20230318-D",
+    "EVT-0225-20230318-N",
+    "EVT-0225-20230325-N",
+    "EVT-SNOW18-0209-D",
+    "EVT-SNOW18-0209-N",
+    "EVT-SNOW18-0210-D",
+    "EVT-SNOW18-0210-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "soloSeriesIds": [
+    "SER-004",
+    "SER-009",
+    "SER-007"
+  ],
+  "soloFirstDate": "2018-02-09",
+  "soloLastDate": "2023-03-25"
+}

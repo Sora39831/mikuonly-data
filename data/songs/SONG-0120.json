@@ -1,0 +1,45 @@
+{
+  "id": "SONG-0120",
+  "title": "Singularity",
+  "englishTitle": "Singularity",
+  "vocalsText": "初音ミク",
+  "producer": "keisei",
+  "appearanceCount": 10,
+  "sourceRow": 116,
+  "actualAppearanceCount": 10,
+  "eventIds": [
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0148-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0152-D",
+    "EVT-0152-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2017-09-01",
+  "lastDate": "2021-11-06",
+  "soloAppearanceCount": 10,
+  "soloEventIds": [
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0148-N",
+    "EVT-0150-D",
+    "EVT-0150-N",
+    "EVT-0152-D",
+    "EVT-0152-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2017-09-01",
+  "soloLastDate": "2021-11-06"
+}

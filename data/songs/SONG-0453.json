@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0453",
+  "title": "Ievan Polkka",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "Otomania（編曲）",
+  "appearanceCount": 1,
+  "sourceRow": 436,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0199"
+  ],
+  "seriesIds": [
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2011-03-09",
+  "soloAppearanceCount": 1,
+  "soloEventIds": [
+    "EVT-0199"
+  ],
+  "soloSeriesIds": [
+    "SER-003"
+  ],
+  "soloFirstDate": "2011-03-09",
+  "soloLastDate": "2011-03-09"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0191",
+  "title": "きみとぼくのレゾナンス",
+  "englishTitle": null,
+  "vocalsText": "MEIKO",
+  "producer": "斜め上P",
+  "appearanceCount": 18,
+  "sourceRow": 185,
+  "actualAppearanceCount": 18,
+  "eventIds": [
+    "EVT-0192",
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0162-D",
+    "EVT-0162-N",
+    "EVT-0165-D",
+    "EVT-0165-N"
+  ],
+  "seriesIds": [
+    "SER-010",
+    "SER-005"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2023-09-01",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

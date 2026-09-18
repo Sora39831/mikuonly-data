@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0233",
+  "title": "たびだちのうた",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "烏屋茶房",
+  "appearanceCount": 6,
+  "sourceRow": 226,
+  "actualAppearanceCount": 6,
+  "eventIds": [
+    "EVT-PKM-20-D",
+    "EVT-PKM-20-N",
+    "EVT-PKM-21-D",
+    "EVT-PKM-21-N",
+    "EVT-PKM-22-D",
+    "EVT-PKM-22-N"
+  ],
+  "seriesIds": [
+    "SER-012"
+  ],
+  "firstDate": "2026-03-20",
+  "lastDate": "2026-03-22",
+  "soloAppearanceCount": 6,
+  "soloEventIds": [
+    "EVT-PKM-20-D",
+    "EVT-PKM-20-N",
+    "EVT-PKM-21-D",
+    "EVT-PKM-21-N",
+    "EVT-PKM-22-D",
+    "EVT-PKM-22-N"
+  ],
+  "soloSeriesIds": [
+    "SER-012"
+  ],
+  "soloFirstDate": "2026-03-20",
+  "soloLastDate": "2026-03-22"
+}

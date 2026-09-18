@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0394",
+  "title": "創聖のアクエリオン",
+  "englishTitle": null,
+  "vocalsText": "初音ミク/AKINO",
+  "producer": "菅野よう子",
+  "appearanceCount": 1,
+  "sourceRow": 379,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0234"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2026-02-11",
+  "lastDate": "2026-02-11",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

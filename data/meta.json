@@ -1,0 +1,3450 @@
+{
+  "schemaVersion": 1,
+  "catalogMeta": {
+    "updatedAt": "2026-09-13",
+    "version": "v19",
+    "sourceFile": "mikuonly-data"
+  },
+  "series": [
+    {
+      "id": "SER-001",
+      "slug": "miku-fes",
+      "name": "MIKU FES"
+    },
+    {
+      "id": "SER-002",
+      "slug": "ミクの日感謝祭",
+      "name": "ミクの日感謝祭"
+    },
+    {
+      "id": "SER-003",
+      "slug": "ミクパ",
+      "name": "ミクパ♪"
+    },
+    {
+      "id": "SER-004",
+      "slug": "その他公式ライブ-出演",
+      "name": "その他公式ライブ／出演"
+    },
+    {
+      "id": "SER-005",
+      "slug": "マジカルミライ",
+      "name": "マジカルミライ"
+    },
+    {
+      "id": "SER-006",
+      "slug": "miku-expo",
+      "name": "MIKU EXPO"
+    },
+    {
+      "id": "SER-007",
+      "slug": "snow-miku-live",
+      "name": "SNOW MIKU LIVE!"
+    },
+    {
+      "id": "SER-008",
+      "slug": "初音ミク-鼓童",
+      "name": "初音ミク×鼓童"
+    },
+    {
+      "id": "SER-009",
+      "slug": "japan-tour",
+      "name": "JAPAN TOUR"
+    },
+    {
+      "id": "SER-010",
+      "slug": "miku-with-you",
+      "name": "MIKU WITH YOU"
+    },
+    {
+      "id": "SER-011",
+      "slug": "デコミク-live",
+      "name": "デコミク LIVE"
+    },
+    {
+      "id": "SER-012",
+      "slug": "ポケモン-feat-初音ミク",
+      "name": "ポケモン feat. 初音ミク"
+    }
+  ],
+  "performers": [
+    {
+      "id": "PER-01",
+      "slug": "miku",
+      "name": "初音ミク",
+      "colorToken": "miku"
+    },
+    {
+      "id": "PER-02",
+      "slug": "rin",
+      "name": "鏡音リン",
+      "colorToken": "rin"
+    },
+    {
+      "id": "PER-03",
+      "slug": "len",
+      "name": "鏡音レン",
+      "colorToken": "len"
+    },
+    {
+      "id": "PER-04",
+      "slug": "luka",
+      "name": "巡音ルカ",
+      "colorToken": "luka"
+    },
+    {
+      "id": "PER-05",
+      "slug": "meiko",
+      "name": "MEIKO",
+      "colorToken": "meiko"
+    },
+    {
+      "id": "PER-06",
+      "slug": "kaito",
+      "name": "KAITO",
+      "colorToken": "kaito"
+    },
+    {
+      "id": "PER-07",
+      "slug": "teto",
+      "name": "重音テト",
+      "colorToken": "teto"
+    }
+  ],
+  "legacyEventMigrations": [
+    {
+      "legacyEventId": "EVT-0187",
+      "label": "MIKU WITH YOU 2018 北京（旧・都市集計）",
+      "candidateEventIds": [
+        "EVT-MWY-2018-BJ-1013-D",
+        "EVT-MWY-2018-BJ-1013-N",
+        "EVT-MWY-2018-BJ-1014-D",
+        "EVT-MWY-2018-BJ-1014-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0188",
+      "label": "MIKU WITH YOU 2018 成都（旧・都市集計）",
+      "candidateEventIds": [
+        "EVT-MWY-2018-CD-1020-D",
+        "EVT-MWY-2018-CD-1020-N",
+        "EVT-MWY-2018-CD-1021-D",
+        "EVT-MWY-2018-CD-1021-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0189",
+      "label": "MIKU WITH YOU 2018 上海（旧・都市集計）",
+      "candidateEventIds": [
+        "EVT-MWY-2018-SH-1027-D",
+        "EVT-MWY-2018-SH-1027-N",
+        "EVT-MWY-2018-SH-1028-D",
+        "EVT-MWY-2018-SH-1028-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0190",
+      "label": "MIKU WITH YOU 2019 上海・北京（旧・日程集計）",
+      "candidateEventIds": [
+        "EVT-MWY-2019-SH-1102-D",
+        "EVT-MWY-2019-SH-1102-N",
+        "EVT-MWY-2019-SH-1103-D",
+        "EVT-MWY-2019-SH-1103-N",
+        "EVT-MWY-2019-BJ-1116-D",
+        "EVT-MWY-2019-BJ-1116-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0191",
+      "label": "MIKU WITH YOU 2019 成都・広州（旧・日程集計）",
+      "candidateEventIds": [
+        "EVT-MWY-2019-CD-1109-N",
+        "EVT-MWY-2019-GZ-1123-D",
+        "EVT-MWY-2019-GZ-1123-N",
+        "EVT-MWY-2019-GZ-1124-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0232",
+      "label": "初音ミク LAWSON 50th Anniversary Special LIVE（旧・3公演集計）",
+      "candidateEventIds": [
+        "EVT-LAWSON50-2026-0117-D",
+        "EVT-LAWSON50-2026-0117-N",
+        "EVT-LAWSON50-2026-0118-D"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0198",
+      "label": "ミクの日感謝祭 39's Giving Day（旧・ライブ単位集計）",
+      "candidateEventIds": [
+        "EVT-0198-D",
+        "EVT-0198-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0201",
+      "label": "ミクパ 2011 in Sapporo（旧・2日間集計）",
+      "candidateEventIds": [
+        "EVT-0201-20110816",
+        "EVT-0201-20110817"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0203",
+      "label": "ミクパ 2012 in ミクの日大感謝祭（旧・昼夜集計）",
+      "candidateEventIds": [
+        "EVT-0203-D",
+        "EVT-0203-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0204",
+      "label": "最後のミクの日感謝祭（旧・昼夜集計）",
+      "candidateEventIds": [
+        "EVT-0204-D",
+        "EVT-0204-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0205",
+      "label": "ミクパ 2012 in Hong Kong & Taiwan（旧・4公演集計）",
+      "candidateEventIds": [
+        "EVT-0205-HK-D",
+        "EVT-0205-HK-N",
+        "EVT-0205-TW-D",
+        "EVT-0205-TW-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0206",
+      "label": "ミクパ 2013 in Sapporo（旧・2日間4公演集計）",
+      "candidateEventIds": [
+        "EVT-0206-0209-D",
+        "EVT-0206-0209-N",
+        "EVT-0206-0210-D",
+        "EVT-0206-0210-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0212",
+      "label": "SNOW MIKU LIVE! 2015 presents MIKU EXPO Live Set（旧・複数公演集計）",
+      "candidateEventIds": [
+        "EVT-SNOW15-0207-D",
+        "EVT-SNOW15-0207-N",
+        "EVT-SNOW15-0208-D",
+        "EVT-SNOW15-0208-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0216",
+      "label": "SNOW MIKU LIVE! 2018（旧・複数公演集計）",
+      "candidateEventIds": [
+        "EVT-SNOW18-0209-D",
+        "EVT-SNOW18-0209-N",
+        "EVT-SNOW18-0210-D",
+        "EVT-SNOW18-0210-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0219",
+      "label": "SNOW MIKU LIVE! 2019（旧・複数公演集計）",
+      "candidateEventIds": [
+        "EVT-SNOW19-0209-D",
+        "EVT-SNOW19-0209-N",
+        "EVT-SNOW19-0210-D",
+        "EVT-SNOW19-0210-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0002",
+      "label": "HATSUNE MIKU EXPO 2014 in INDONESIA 2014-05-29 Jakarta（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0002-D",
+        "EVT-0002-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0007",
+      "label": "HATSUNE MIKU EXPO 2015 in SHANGHAI 2015-06-27 上海（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0007-D",
+        "EVT-0007-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0008",
+      "label": "HATSUNE MIKU EXPO 2015 in SHANGHAI 2015-06-28 上海（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0008-D",
+        "EVT-0008-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0011",
+      "label": "HATSUNE MIKU EXPO 2016 Japan Tour 2016-03-29 大阪（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0011-D",
+        "EVT-0011-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0012",
+      "label": "HATSUNE MIKU EXPO 2016 Japan Tour 2016-03-31 名古屋（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0012-D",
+        "EVT-0012-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0013",
+      "label": "HATSUNE MIKU EXPO 2016 Japan Tour 2016-04-05 札幌（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0013-D",
+        "EVT-0013-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0014",
+      "label": "HATSUNE MIKU EXPO 2016 Japan Tour 2016-04-09 東京（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0014-D",
+        "EVT-0014-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0015",
+      "label": "HATSUNE MIKU EXPO 2016 Japan Tour 2016-04-10 東京（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0015-D",
+        "EVT-0015-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0017",
+      "label": "HATSUNE MIKU EXPO 2016 NORTH AMERICA 2016-04-30 San Francisco（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0017-D",
+        "EVT-0017-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0023",
+      "label": "HATSUNE MIKU EXPO 2016 NORTH AMERICA 2016-05-28 New York City（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0023-D",
+        "EVT-0023-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0025",
+      "label": "HATSUNE MIKU EXPO 2016 NORTH AMERICA 2016-06-04 Mexico City（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0025-D",
+        "EVT-0025-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0028",
+      "label": "HATSUNE MIKU EXPO 2016 in TAIWAN 2016-06-26 New Taipei City（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0028-D",
+        "EVT-0028-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0029",
+      "label": "HATSUNE MIKU EXPO 2016 CHINA TOUR 2016-12-03 上海（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0029-D",
+        "EVT-0029-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0030",
+      "label": "HATSUNE MIKU EXPO 2016 CHINA TOUR 2016-12-04 上海（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0030-D",
+        "EVT-0030-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0031",
+      "label": "HATSUNE MIKU EXPO 2016 CHINA TOUR 2016-12-10 北京（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0031-D",
+        "EVT-0031-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0032",
+      "label": "HATSUNE MIKU EXPO 2016 CHINA TOUR 2016-12-11 北京（旧・昼夜未分割）",
+      "candidateEventIds": [
+        "EVT-0032-D",
+        "EVT-0032-N"
+      ]
+    }
+  ],
+  "legacySongMigrations": [
+    {
+      "legacySongId": "SONG-0005",
+      "songId": "SONG-0004",
+      "reason": "39：英語・ローマ字表記"
+    },
+    {
+      "legacySongId": "SONG-0006",
+      "songId": "SONG-0004",
+      "reason": "39：カタカナ表記"
+    },
+    {
+      "legacySongId": "SONG-0025",
+      "songId": "SONG-0024",
+      "reason": "celluloid：大文字小文字"
+    },
+    {
+      "legacySongId": "SONG-0053",
+      "songId": "SONG-0052",
+      "reason": "glow：大文字小文字"
+    },
+    {
+      "legacySongId": "SONG-0069",
+      "songId": "SONG-0068",
+      "reason": "Just Be Friends：英語版を同一作品として統合"
+    },
+    {
+      "legacySongId": "SONG-0075",
+      "songId": "SONG-0074",
+      "reason": "Last Night, Good Night (Re:Dialed)：記号表記"
+    },
+    {
+      "legacySongId": "SONG-0076",
+      "songId": "SONG-0074",
+      "reason": "Last Night, Good Night (Re:Dialed)：空白表記"
+    },
+    {
+      "legacySongId": "SONG-0122",
+      "songId": "SONG-0123",
+      "reason": "SnowMix♪：大文字小文字・作者ローマ字表記"
+    },
+    {
+      "legacySongId": "SONG-0167",
+      "songId": "SONG-0166",
+      "reason": "いーあるふぁんくらぶ：ローマ字併記"
+    },
+    {
+      "legacySongId": "SONG-0205",
+      "songId": "SONG-0204",
+      "reason": "こっち向いて Baby：空白表記"
+    },
+    {
+      "legacySongId": "SONG-0248",
+      "songId": "SONG-0247",
+      "reason": "ドクター＝ファンクビート：記号表記"
+    },
+    {
+      "legacySongId": "SONG-0249",
+      "songId": "SONG-0247",
+      "reason": "ドクター＝ファンクビート：英語併記"
+    },
+    {
+      "legacySongId": "SONG-0255",
+      "songId": "SONG-0254",
+      "reason": "ネクストネスト：英語併記"
+    },
+    {
+      "legacySongId": "SONG-0273",
+      "songId": "SONG-0272",
+      "reason": "ファインダー (DSLR remix-re:edit)：記号表記"
+    },
+    {
+      "legacySongId": "SONG-0314",
+      "songId": "SONG-0313",
+      "reason": "ラズベリー＊モンスター：記号・英語併記"
+    },
+    {
+      "legacySongId": "SONG-0316",
+      "songId": "SONG-0315",
+      "reason": "ラッキー☆オーブ：英語併記"
+    },
+    {
+      "legacySongId": "SONG-0324",
+      "songId": "SONG-0323",
+      "reason": "ルカルカ★ナイトフィーバー：英語併記"
+    },
+    {
+      "legacySongId": "SONG-0347",
+      "songId": "SONG-0346",
+      "reason": "歌に形はないけれど：ローマ字併記"
+    },
+    {
+      "legacySongId": "SONG-0417",
+      "songId": "SONG-0416",
+      "reason": "紡唄 -つむぎうた-：ローマ字併記"
+    },
+    {
+      "legacySongId": "SONG-0434",
+      "songId": "SONG-0433",
+      "reason": "恋スルVOC@LOID：記号表記"
+    },
+    {
+      "legacySongId": "SONG-0177",
+      "songId": "SONG-0176",
+      "reason": "ローマ字読み併記を同一楽曲として統合"
+    },
+    {
+      "legacySongId": "SONG-0268",
+      "songId": "SONG-0267",
+      "reason": "Reloaded版を同一楽曲として統合し演奏曲備考に版情報を保持"
+    },
+    {
+      "legacySongId": "SONG-0295",
+      "songId": "SONG-0296",
+      "reason": "同名別IDを統合"
+    },
+    {
+      "legacySongId": "SONG-0300",
+      "songId": "SONG-0296",
+      "reason": "みんなみくみくにしてあげる♪を同一楽曲として統合"
+    },
+    {
+      "legacySongId": "SONG-0384",
+      "songId": "SONG-0385",
+      "reason": "平仮名・片仮名表記を同一楽曲として統合"
+    },
+    {
+      "legacySongId": "SONG-0406",
+      "songId": "SONG-0405",
+      "reason": "Reloaded版を同一楽曲として統合し演奏曲備考に版情報を保持"
+    },
+    {
+      "legacySongId": "SONG-0159",
+      "songId": "SONG-0158",
+      "reason": "revive版を同一楽曲として統合し演奏版情報を保持"
+    },
+    {
+      "legacySongId": "SONG-0073",
+      "songId": "SONG-0072",
+      "reason": "Last Night, Good Nightの演奏版として同一楽曲へ統合しセットリスト表示名を保持"
+    },
+    {
+      "legacySongId": "SONG-0074",
+      "songId": "SONG-0072",
+      "reason": "Last Night, Good Nightの演奏版として同一楽曲へ統合しセットリスト表示名を保持"
+    }
+  ],
+  "aliases": [
+    {
+      "songId": "SONG-0001",
+      "alias": "＊ハロー、プラネット。",
+      "normalizedAlias": "*ハロー、プラネット。",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0002",
+      "alias": "🔪、🔪、🔪 (Knife, Knife, Knife)",
+      "normalizedAlias": "🔪、🔪、🔪 (Knife, Knife, Knife)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0003",
+      "alias": "1/6 -out of the gravity-",
+      "normalizedAlias": "1/6 -out of the gravity-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0004",
+      "alias": "39",
+      "normalizedAlias": "39",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0007",
+      "alias": "39みゅーじっく！",
+      "normalizedAlias": "39みゅーじっく!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0008",
+      "alias": "8HIT",
+      "normalizedAlias": "8HIT",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0009",
+      "alias": "Alice",
+      "normalizedAlias": "Alice",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0010",
+      "alias": "Amazing Dolce",
+      "normalizedAlias": "Amazing Dolce",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0011",
+      "alias": "ANIMAL",
+      "normalizedAlias": "ANIMAL",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0012",
+      "alias": "ARiA",
+      "normalizedAlias": "ARiA",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0013",
+      "alias": "Artifact",
+      "normalizedAlias": "Artifact",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0014",
+      "alias": "Baby Maniacs -Eight Mix-",
+      "normalizedAlias": "Baby Maniacs -Eight Mix-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0015",
+      "alias": "Birthday",
+      "normalizedAlias": "Birthday",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0016",
+      "alias": "Birthday Song for ミク",
+      "normalizedAlias": "Birthday Song for ミク",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0017",
+      "alias": "Blessing",
+      "normalizedAlias": "Blessing",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0018",
+      "alias": "Blue Star",
+      "normalizedAlias": "Blue Star",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0019",
+      "alias": "Caged Flower",
+      "normalizedAlias": "Caged Flower",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0020",
+      "alias": "Calc.",
+      "normalizedAlias": "Calc.",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0021",
+      "alias": "Call!!",
+      "normalizedAlias": "Call!!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0022",
+      "alias": "Can't Make A Song!!",
+      "normalizedAlias": "Can't Make A Song!!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0023",
+      "alias": "Catch the Wave",
+      "normalizedAlias": "Catch the Wave",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0024",
+      "alias": "celluloid",
+      "normalizedAlias": "celluloid",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0026",
+      "alias": "Change me",
+      "normalizedAlias": "Change me",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0027",
+      "alias": "Chentaku (Miku Cover)",
+      "normalizedAlias": "Chentaku (Miku Cover)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0028",
+      "alias": "COME BACK~重返巅峰~ (COME BACK ~Chóng Fǎn Diānfēng~)",
+      "normalizedAlias": "COME BACK~重返巅峰~ (COME BACK ~Chóng Fǎn Diānfēng~)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0029",
+      "alias": "CONNECT:COMMUNE",
+      "normalizedAlias": "CONNECT:COMMUNE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0030",
+      "alias": "Crosslight",
+      "normalizedAlias": "Crosslight",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0031",
+      "alias": "Cybernetic",
+      "normalizedAlias": "Cybernetic",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0032",
+      "alias": "Dear",
+      "normalizedAlias": "Dear",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0033",
+      "alias": "Dear cocoa girls",
+      "normalizedAlias": "Dear cocoa girls",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0034",
+      "alias": "Decade",
+      "normalizedAlias": "Decade",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0035",
+      "alias": "DECORATOR",
+      "normalizedAlias": "DECORATOR",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0036",
+      "alias": "Die For You",
+      "normalizedAlias": "Die For You",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0037",
+      "alias": "drop pop candy",
+      "normalizedAlias": "drop pop candy",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0038",
+      "alias": "EARTH DAY",
+      "normalizedAlias": "EARTH DAY",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0039",
+      "alias": "Encounter",
+      "normalizedAlias": "Encounter",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0040",
+      "alias": "erase or zero",
+      "normalizedAlias": "erase or zero",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0041",
+      "alias": "Far Away",
+      "normalizedAlias": "Far Away",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0042",
+      "alias": "Fire◎Flower",
+      "normalizedAlias": "Fire◎Flower",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0043",
+      "alias": "First Note",
+      "normalizedAlias": "First Note",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0044",
+      "alias": "FLASH",
+      "normalizedAlias": "FLASH",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0045",
+      "alias": "Flyway",
+      "normalizedAlias": "Flyway",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0046",
+      "alias": "FREELY TOMORROW",
+      "normalizedAlias": "FREELY TOMORROW",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0047",
+      "alias": "from Y to Y",
+      "normalizedAlias": "from Y to Y",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0048",
+      "alias": "GEDO",
+      "normalizedAlias": "GEDO",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0049",
+      "alias": "Gimme×Gimme",
+      "normalizedAlias": "Gimme×Gimme",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0050",
+      "alias": "Glass Wall",
+      "normalizedAlias": "Glass Wall",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0051",
+      "alias": "Glorious Day",
+      "normalizedAlias": "Glorious Day",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0052",
+      "alias": "glow",
+      "normalizedAlias": "glow",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0054",
+      "alias": "Hand in Hand（6人版）",
+      "normalizedAlias": "Hand in Hand（6人版）",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0055",
+      "alias": "HATUNEtive",
+      "normalizedAlias": "HATUNEtive",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0056",
+      "alias": "Heart Beat",
+      "normalizedAlias": "Heart Beat",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0057",
+      "alias": "Hello, Worker",
+      "normalizedAlias": "Hello, Worker",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0058",
+      "alias": "HERO",
+      "normalizedAlias": "HERO",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0059",
+      "alias": "High-energy Particle (ELEVENPLAY)",
+      "normalizedAlias": "High-energy Particle (ELEVENPLAY)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0060",
+      "alias": "Highlight",
+      "normalizedAlias": "Highlight",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0061",
+      "alias": "Hoshi no Kakera",
+      "normalizedAlias": "Hoshi no Kakera",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0062",
+      "alias": "imaginary love story",
+      "normalizedAlias": "imaginary love story",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0063",
+      "alias": "Innocence",
+      "normalizedAlias": "Innocence",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0064",
+      "alias": "Intergalactic Bound",
+      "normalizedAlias": "Intergalactic Bound",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0065",
+      "alias": "intro (デP Megamix)",
+      "normalizedAlias": "intro (デP Megamix)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0066",
+      "alias": "Japanese Ninja No.1",
+      "normalizedAlias": "Japanese Ninja No.1",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0067",
+      "alias": "Jump for Joy",
+      "normalizedAlias": "Jump for Joy",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0068",
+      "alias": "Just Be Friends",
+      "normalizedAlias": "Just Be Friends",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0070",
+      "alias": "JUVENILE",
+      "normalizedAlias": "JUVENILE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0071",
+      "alias": "king妃jack躍",
+      "normalizedAlias": "king妃jack躍",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0072",
+      "alias": "Last Night, Good Night",
+      "normalizedAlias": "Last Night, Good Night",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0072",
+      "alias": "Last Night, Good Night (mf_4sk cutup edit)",
+      "normalizedAlias": "Last Night, Good Night (mf_4sk cutup edit)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0072",
+      "alias": "Last Night, Good Night (Re:Dialed)",
+      "normalizedAlias": "Last Night, Good Night (Re:Dialed)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0077",
+      "alias": "Leia",
+      "normalizedAlias": "Leia",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0078",
+      "alias": "letter song",
+      "normalizedAlias": "letter song",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0079",
+      "alias": "Loading Memories",
+      "normalizedAlias": "Loading Memories",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0080",
+      "alias": "lost and found",
+      "normalizedAlias": "lost and found",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0081",
+      "alias": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "normalizedAlias": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0082",
+      "alias": "Mag1c",
+      "normalizedAlias": "Mag1c",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0083",
+      "alias": "MAGA MAGA",
+      "normalizedAlias": "MAGA MAGA",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0084",
+      "alias": "magnet",
+      "normalizedAlias": "magnet",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0085",
+      "alias": "METEOR",
+      "normalizedAlias": "METEOR",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0086",
+      "alias": "Midnight Surf",
+      "normalizedAlias": "Midnight Surf",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0087",
+      "alias": "Miku",
+      "normalizedAlias": "Miku",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0088",
+      "alias": "Miku (Mino Mino Remix)",
+      "normalizedAlias": "Miku (Mino Mino Remix)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0089",
+      "alias": "MikuFiesta",
+      "normalizedAlias": "MikuFiesta",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0090",
+      "alias": "moon",
+      "normalizedAlias": "moon",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0091",
+      "alias": "My Stage With You",
+      "normalizedAlias": "My Stage With You",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0092",
+      "alias": "NEPPUU～熱風～",
+      "normalizedAlias": "NEPPUU~熱風~",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0093",
+      "alias": "Never Die",
+      "normalizedAlias": "Never Die",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0094",
+      "alias": "No Logic",
+      "normalizedAlias": "No Logic",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0095",
+      "alias": "Nostalogic",
+      "normalizedAlias": "Nostalogic",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0096",
+      "alias": "Nostalogic (MEIKO-SAN mix)",
+      "normalizedAlias": "Nostalogic (MEIKO-SAN mix)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0097",
+      "alias": "Nyanyanyanyanyanyanya!",
+      "normalizedAlias": "Nyanyanyanyanyanyanya!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0098",
+      "alias": "ODDS&ENDS",
+      "normalizedAlias": "ODDS&ENDS",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0099",
+      "alias": "on the rocks",
+      "normalizedAlias": "on the rocks",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0100",
+      "alias": "Over Flow(er)",
+      "normalizedAlias": "Over Flow(er)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0101",
+      "alias": "Packaged",
+      "normalizedAlias": "Packaged",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0102",
+      "alias": "Packaged (kisk baker's yogamix)",
+      "normalizedAlias": "Packaged (kisk baker's yogamix)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0103",
+      "alias": "Pane dhiria",
+      "normalizedAlias": "Pane dhiria",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0104",
+      "alias": "Parades",
+      "normalizedAlias": "Parades",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0105",
+      "alias": "PARTY ROCK ETERNITY",
+      "normalizedAlias": "PARTY ROCK ETERNITY",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0106",
+      "alias": "Pick Me Up",
+      "normalizedAlias": "Pick Me Up",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0107",
+      "alias": "Plaything",
+      "normalizedAlias": "Plaything",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0108",
+      "alias": "Promise",
+      "normalizedAlias": "Promise",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0109",
+      "alias": "ray",
+      "normalizedAlias": "ray",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0110",
+      "alias": "Re:Actor",
+      "normalizedAlias": "Re:Actor",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0111",
+      "alias": "REALITY",
+      "normalizedAlias": "REALITY",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0112",
+      "alias": "Reunion",
+      "normalizedAlias": "Reunion",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0113",
+      "alias": "RIP=RELEASE",
+      "normalizedAlias": "RIP=RELEASE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0114",
+      "alias": "Room for a Fantasy",
+      "normalizedAlias": "Room for a Fantasy",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0115",
+      "alias": "Satisfaction",
+      "normalizedAlias": "Satisfaction",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0116",
+      "alias": "shake it!",
+      "normalizedAlias": "shake it!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0117",
+      "alias": "Sharing The World",
+      "normalizedAlias": "Sharing The World",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0118",
+      "alias": "Sharing The World (Spn ver.)",
+      "normalizedAlias": "Sharing The World (Spn ver.)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0119",
+      "alias": "Shining Star (Miku Cover)",
+      "normalizedAlias": "Shining Star (Miku Cover)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0120",
+      "alias": "Singularity",
+      "normalizedAlias": "Singularity",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0121",
+      "alias": "Snow Fairy Story",
+      "normalizedAlias": "Snow Fairy Story",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0123",
+      "alias": "SnowMix♪",
+      "normalizedAlias": "SnowMix♪",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0124",
+      "alias": "Someday'z Coming",
+      "normalizedAlias": "Someday'z Coming",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0125",
+      "alias": "SPiCa",
+      "normalizedAlias": "SPiCa",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0126",
+      "alias": "SPICE!",
+      "normalizedAlias": "SPICE!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0127",
+      "alias": "Starduster",
+      "normalizedAlias": "Starduster",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0128",
+      "alias": "StargazeR",
+      "normalizedAlias": "StargazeR",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0129",
+      "alias": "Strangers",
+      "normalizedAlias": "Strangers",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0130",
+      "alias": "SUPERHERO",
+      "normalizedAlias": "SUPERHERO",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0131",
+      "alias": "Sweet Devil",
+      "normalizedAlias": "Sweet Devil",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0132",
+      "alias": "TBA",
+      "normalizedAlias": "TBA",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0133",
+      "alias": "Tell Your World",
+      "normalizedAlias": "Tell Your World",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0134",
+      "alias": "Ten Thousand Stars",
+      "normalizedAlias": "Ten Thousand Stars",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0135",
+      "alias": "The secret garden",
+      "normalizedAlias": "The secret garden",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0136",
+      "alias": "Thousand Little Voices",
+      "normalizedAlias": "Thousand Little Voices",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0137",
+      "alias": "Through The Night",
+      "normalizedAlias": "Through The Night",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0138",
+      "alias": "THUNDERBOLT",
+      "normalizedAlias": "THUNDERBOLT",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0139",
+      "alias": "TODAY THE FUTURE",
+      "normalizedAlias": "TODAY THE FUTURE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0140",
+      "alias": "trick and treat",
+      "normalizedAlias": "trick and treat",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0141",
+      "alias": "TYQOON",
+      "normalizedAlias": "TYQOON",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0142",
+      "alias": "Venus di Ujung Jari",
+      "normalizedAlias": "Venus di Ujung Jari",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0143",
+      "alias": "Vivid",
+      "normalizedAlias": "Vivid",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0144",
+      "alias": "VOiCE",
+      "normalizedAlias": "VOiCE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0145",
+      "alias": "Weekender Girl",
+      "normalizedAlias": "Weekender Girl",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0146",
+      "alias": "Yellow",
+      "normalizedAlias": "Yellow",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0147",
+      "alias": "YY",
+      "normalizedAlias": "YY",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0148",
+      "alias": "アイ",
+      "normalizedAlias": "アイ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0149",
+      "alias": "アイドル戦士",
+      "normalizedAlias": "アイドル戦士",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0150",
+      "alias": "アカツキアライヴァル",
+      "normalizedAlias": "アカツキアライヴァル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0151",
+      "alias": "アゲアゲアゲイン",
+      "normalizedAlias": "アゲアゲアゲイン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0152",
+      "alias": "あったかいと",
+      "normalizedAlias": "あったかいと",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0153",
+      "alias": "アドバンス",
+      "normalizedAlias": "アドバンス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0154",
+      "alias": "あなたの歌姫",
+      "normalizedAlias": "あなたの歌姫",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0155",
+      "alias": "アニマル",
+      "normalizedAlias": "アニマル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0156",
+      "alias": "アフターエポックス",
+      "normalizedAlias": "アフターエポックス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0157",
+      "alias": "ありふれたせかいせいふく",
+      "normalizedAlias": "ありふれたせかいせいふく",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0158",
+      "alias": "アルビノ",
+      "normalizedAlias": "アルビノ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0158",
+      "alias": "アルビノ (Albino) [revive]",
+      "normalizedAlias": "アルビノ (Albino) [revive]",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0160",
+      "alias": "ある計画は今も密かに",
+      "normalizedAlias": "ある計画は今も密かに",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0161",
+      "alias": "アングレイデイズ",
+      "normalizedAlias": "アングレイデイズ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0162",
+      "alias": "アンテナ39",
+      "normalizedAlias": "アンテナ39",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0163",
+      "alias": "アンドロイドガール",
+      "normalizedAlias": "アンドロイドガール",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0164",
+      "alias": "アンノウン・マザーグース",
+      "normalizedAlias": "アンノウン・マザーグース",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0165",
+      "alias": "アンハッピーリフレイン",
+      "normalizedAlias": "アンハッピーリフレイン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0166",
+      "alias": "いーあるふぁんくらぶ",
+      "normalizedAlias": "いーあるふぁんくらぶ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0168",
+      "alias": "いいねってYEAH!",
+      "normalizedAlias": "いいねってYEAH!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0169",
+      "alias": "いろは唄",
+      "normalizedAlias": "いろは唄",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0170",
+      "alias": "インタビュア",
+      "normalizedAlias": "インタビュア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0171",
+      "alias": "インビテーション！",
+      "normalizedAlias": "インビテーション!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0172",
+      "alias": "ヴァニッシュ",
+      "normalizedAlias": "ヴァニッシュ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0173",
+      "alias": "ヴァンパイア",
+      "normalizedAlias": "ヴァンパイア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0174",
+      "alias": "ウミユリ海底譚",
+      "normalizedAlias": "ウミユリ海底譚",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0175",
+      "alias": "ウララ",
+      "normalizedAlias": "ウララ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0176",
+      "alias": "え？あぁ、そう。",
+      "normalizedAlias": "え?あぁ、そう。",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0176",
+      "alias": "え？あぁ、そう。 (E? Aa, Sou.)",
+      "normalizedAlias": "え？あぁ、そう。 (E? Aa, Sou.)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0178",
+      "alias": "エイリアンエイリアン",
+      "normalizedAlias": "エイリアンエイリアン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0179",
+      "alias": "エスパーエスパー",
+      "normalizedAlias": "エスパーエスパー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0180",
+      "alias": "えれくとりっく・えんじぇぅ",
+      "normalizedAlias": "えれくとりっく・えんじぇぅ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0181",
+      "alias": "エンヴィキャットウォーク",
+      "normalizedAlias": "エンヴィキャットウォーク",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0182",
+      "alias": "オーパーツ",
+      "normalizedAlias": "オーパーツ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0183",
+      "alias": "おこちゃま戦争",
+      "normalizedAlias": "おこちゃま戦争",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0184",
+      "alias": "おじゃま虫",
+      "normalizedAlias": "おじゃま虫",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0185",
+      "alias": "カゲロウデイズ",
+      "normalizedAlias": "カゲロウデイズ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0186",
+      "alias": "ガッチュー！",
+      "normalizedAlias": "ガッチュー!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0187",
+      "alias": "からくりピエロ",
+      "normalizedAlias": "からくりピエロ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0188",
+      "alias": "カラフル×メロディ",
+      "normalizedAlias": "カラフル×メロディ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0189",
+      "alias": "カルチャ",
+      "normalizedAlias": "カルチャ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0190",
+      "alias": "きみとそらをとぶ",
+      "normalizedAlias": "きみとそらをとぶ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0191",
+      "alias": "きみとぼくのレゾナンス",
+      "normalizedAlias": "きみとぼくのレゾナンス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0192",
+      "alias": "キミペディア",
+      "normalizedAlias": "キミペディア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0193",
+      "alias": "キメラ",
+      "normalizedAlias": "キメラ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0194",
+      "alias": "キャットフード",
+      "normalizedAlias": "キャットフード",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0195",
+      "alias": "キレキャリオン",
+      "normalizedAlias": "キレキャリオン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0196",
+      "alias": "グリーンライツ・セレナーデ",
+      "normalizedAlias": "グリーンライツ・セレナーデ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0197",
+      "alias": "クローバー♣クラブ",
+      "normalizedAlias": "クローバー♣クラブ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0198",
+      "alias": "クロスロード",
+      "normalizedAlias": "クロスロード",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0199",
+      "alias": "げんてん",
+      "normalizedAlias": "げんてん",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0200",
+      "alias": "ゴー！ビッパ団",
+      "normalizedAlias": "ゴー!ビッパ団",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0201",
+      "alias": "ゴーストルール",
+      "normalizedAlias": "ゴーストルール",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0202",
+      "alias": "ココロ",
+      "normalizedAlias": "ココロ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0203",
+      "alias": "こちら、幸福安心委員会です。",
+      "normalizedAlias": "こちら、幸福安心委員会です。",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0204",
+      "alias": "こっち向いて Baby",
+      "normalizedAlias": "こっち向いて Baby",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0206",
+      "alias": "サイハテ",
+      "normalizedAlias": "サイハテ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0207",
+      "alias": "サウンド",
+      "normalizedAlias": "サウンド",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0208",
+      "alias": "サヨナラ・グッバイ",
+      "normalizedAlias": "サヨナラ・グッバイ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0209",
+      "alias": "サラマンダー",
+      "normalizedAlias": "サラマンダー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0210",
+      "alias": "サンドリヨン",
+      "normalizedAlias": "サンドリヨン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0211",
+      "alias": "シアンブルー",
+      "normalizedAlias": "シアンブルー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0212",
+      "alias": "ジェミニ",
+      "normalizedAlias": "ジェミニ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0213",
+      "alias": "シャボン",
+      "normalizedAlias": "シャボン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0214",
+      "alias": "しんかしんかしんか",
+      "normalizedAlias": "しんかしんかしんか",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0215",
+      "alias": "シンデレラ",
+      "normalizedAlias": "シンデレラ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0216",
+      "alias": "スイートマジック",
+      "normalizedAlias": "スイートマジック",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0217",
+      "alias": "すーぱーぬこになれんかった",
+      "normalizedAlias": "すーぱーぬこになれんかった",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0218",
+      "alias": "スキキライ",
+      "normalizedAlias": "スキキライ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0219",
+      "alias": "すきなことだけでいいです",
+      "normalizedAlias": "すきなことだけでいいです",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0220",
+      "alias": "スターナイトスノウ",
+      "normalizedAlias": "スターナイトスノウ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0221",
+      "alias": "ステラ",
+      "normalizedAlias": "ステラ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0222",
+      "alias": "ストリートライト",
+      "normalizedAlias": "ストリートライト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0223",
+      "alias": "ストリーミングハート",
+      "normalizedAlias": "ストリーミングハート",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0224",
+      "alias": "ストロボナイツ",
+      "normalizedAlias": "ストロボナイツ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0225",
+      "alias": "スノーマン",
+      "normalizedAlias": "スノーマン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0226",
+      "alias": "スパイラル・メロディーズ",
+      "normalizedAlias": "スパイラル・メロディーズ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0227",
+      "alias": "すろぉもぉしょん",
+      "normalizedAlias": "すろぉもぉしょん",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0228",
+      "alias": "セカイ",
+      "normalizedAlias": "セカイ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0229",
+      "alias": "それがあなたの幸せとしても",
+      "normalizedAlias": "それがあなたの幸せとしても",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0230",
+      "alias": "ダーリンダンス",
+      "normalizedAlias": "ダーリンダンス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0231",
+      "alias": "タイムマシン",
+      "normalizedAlias": "タイムマシン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0232",
+      "alias": "タイムリミット",
+      "normalizedAlias": "タイムリミット",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0233",
+      "alias": "たびだちのうた",
+      "normalizedAlias": "たびだちのうた",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0234",
+      "alias": "たびのまえ、たびのあと",
+      "normalizedAlias": "たびのまえ、たびのあと",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0235",
+      "alias": "ダブルラリアット",
+      "normalizedAlias": "ダブルラリアット",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0236",
+      "alias": "チェリーポップ",
+      "normalizedAlias": "チェリーポップ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0237",
+      "alias": "チャンピオン",
+      "normalizedAlias": "チャンピオン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0238",
+      "alias": "ツギハギスタッカート",
+      "normalizedAlias": "ツギハギスタッカート",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0239",
+      "alias": "テオ",
+      "normalizedAlias": "テオ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0240",
+      "alias": "テルミーアンサー",
+      "normalizedAlias": "テルミーアンサー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0241",
+      "alias": "テレカクシ思春期",
+      "normalizedAlias": "テレカクシ思春期",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0242",
+      "alias": "テレキャスタービーボーイ",
+      "normalizedAlias": "テレキャスタービーボーイ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0243",
+      "alias": "テレパシ",
+      "normalizedAlias": "テレパシ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0244",
+      "alias": "とある娼婦の恋",
+      "normalizedAlias": "とある娼婦の恋",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0245",
+      "alias": "どうぶつ占い",
+      "normalizedAlias": "どうぶつ占い",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0246",
+      "alias": "ドキドキ！",
+      "normalizedAlias": "ドキドキ!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0247",
+      "alias": "ドクター＝ファンクビート",
+      "normalizedAlias": "ドクター=ファンクビート",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0250",
+      "alias": "どりーみんチュチュ",
+      "normalizedAlias": "どりーみんチュチュ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0251",
+      "alias": "ドリームレス・ドリームス",
+      "normalizedAlias": "ドリームレス・ドリームス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0252",
+      "alias": "トリノコシティ",
+      "normalizedAlias": "トリノコシティ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0253",
+      "alias": "なりすましゲンガー",
+      "normalizedAlias": "なりすましゲンガー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0254",
+      "alias": "ネクストネスト",
+      "normalizedAlias": "ネクストネスト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0256",
+      "alias": "ノヴァ",
+      "normalizedAlias": "ノヴァ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0257",
+      "alias": "ハートアラモード",
+      "normalizedAlias": "ハートアラモード",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0258",
+      "alias": "ハイパーリアリティショウ",
+      "normalizedAlias": "ハイパーリアリティショウ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0259",
+      "alias": "ハオ",
+      "normalizedAlias": "ハオ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0260",
+      "alias": "ハジメテノオト",
+      "normalizedAlias": "ハジメテノオト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0261",
+      "alias": "はじめまして地球人さん",
+      "normalizedAlias": "はじめまして地球人さん",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0262",
+      "alias": "パズル",
+      "normalizedAlias": "パズル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0263",
+      "alias": "ハト",
+      "normalizedAlias": "ハト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0264",
+      "alias": "ヒアソビ",
+      "normalizedAlias": "ヒアソビ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0265",
+      "alias": "ピアノ×フォルテ×スキャンダル",
+      "normalizedAlias": "ピアノ×フォルテ×スキャンダル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0266",
+      "alias": "ビターチョコデコレーション",
+      "normalizedAlias": "ビターチョコデコレーション",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0267",
+      "alias": "ヒバナ",
+      "normalizedAlias": "ヒバナ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0267",
+      "alias": "ヒバナ (Reloaded)",
+      "normalizedAlias": "ヒバナ (Reloaded)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0269",
+      "alias": "ビバハピ",
+      "normalizedAlias": "ビバハピ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0270",
+      "alias": "ヒビカセ",
+      "normalizedAlias": "ヒビカセ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0271",
+      "alias": "ひゅ〜どろどろ",
+      "normalizedAlias": "ひゅ〜どろどろ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0272",
+      "alias": "ファインダー (DSLR remix-re:edit)",
+      "normalizedAlias": "ファインダー (DSLR remix-re:edit)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0274",
+      "alias": "ファサード・クエスチョン",
+      "normalizedAlias": "ファサード・クエスチョン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0275",
+      "alias": "フェレス",
+      "normalizedAlias": "フェレス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0276",
+      "alias": "プシ",
+      "normalizedAlias": "プシ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0277",
+      "alias": "フューチャー・イヴ",
+      "normalizedAlias": "フューチャー・イヴ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0278",
+      "alias": "ブラック★ロックシューター",
+      "normalizedAlias": "ブラック★ロックシューター",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0279",
+      "alias": "ブリキノダンス",
+      "normalizedAlias": "ブリキノダンス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0280",
+      "alias": "ブループラネット",
+      "normalizedAlias": "ブループラネット",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0281",
+      "alias": "ブレス・ユア・ブレス",
+      "normalizedAlias": "ブレス・ユア・ブレス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0282",
+      "alias": "ぶれないアイで",
+      "normalizedAlias": "ぶれないアイで",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0283",
+      "alias": "フロイライン＝ビブリォチカ (Fräulein=Biblioteca)",
+      "normalizedAlias": "フロイライン=ビブリォチカ (Fräulein=Biblioteca)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0284",
+      "alias": "ヘッジホッグ",
+      "normalizedAlias": "ヘッジホッグ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0285",
+      "alias": "ぽかぽかの星",
+      "normalizedAlias": "ぽかぽかの星",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0286",
+      "alias": "ぼかろころしあむ",
+      "normalizedAlias": "ぼかろころしあむ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0287",
+      "alias": "ポケットのモンスター",
+      "normalizedAlias": "ポケットのモンスター",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0288",
+      "alias": "ぽっぴっぽー",
+      "normalizedAlias": "ぽっぴっぽー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0289",
+      "alias": "ボルテッカー",
+      "normalizedAlias": "ボルテッカー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0290",
+      "alias": "マージナル",
+      "normalizedAlias": "マージナル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0291",
+      "alias": "マシュマロ",
+      "normalizedAlias": "マシュマロ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0292",
+      "alias": "またね",
+      "normalizedAlias": "またね",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0293",
+      "alias": "まるいうなばら",
+      "normalizedAlias": "まるいうなばら",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0294",
+      "alias": "みかぼし",
+      "normalizedAlias": "みかぼし",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0296",
+      "alias": "みくみくにしてあげる♪",
+      "normalizedAlias": "みくみくにしてあげる♪",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0296",
+      "alias": "みくみくにしてあげる♪ (Miku Miku ni Shite Ageru♪)",
+      "normalizedAlias": "みくみくにしてあげる♪ (Miku Miku ni Shite Ageru♪)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0297",
+      "alias": "みくみく菌にご注意!",
+      "normalizedAlias": "みくみく菌にご注意!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0298",
+      "alias": "ミライどんなだろう",
+      "normalizedAlias": "ミライどんなだろう",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0299",
+      "alias": "ミラクルペイント",
+      "normalizedAlias": "ミラクルペイント",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0296",
+      "alias": "みんなみくみくにしてあげる♪",
+      "normalizedAlias": "みんなみくみくにしてあげる♪",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0301",
+      "alias": "むげんのチケット",
+      "normalizedAlias": "むげんのチケット",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0302",
+      "alias": "メインキャラクター",
+      "normalizedAlias": "メインキャラクター",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0303",
+      "alias": "メズマライザー",
+      "normalizedAlias": "メズマライザー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0304",
+      "alias": "メテオ (Meteor)",
+      "normalizedAlias": "メテオ (Meteor)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0305",
+      "alias": "メランコリック",
+      "normalizedAlias": "メランコリック",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0306",
+      "alias": "メルト",
+      "normalizedAlias": "メルト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0307",
+      "alias": "メロメロイド",
+      "normalizedAlias": "メロメロイド",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0308",
+      "alias": "モザイクロール (Reloaded)",
+      "normalizedAlias": "モザイクロール (Reloaded)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0309",
+      "alias": "モニタリング",
+      "normalizedAlias": "モニタリング",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0310",
+      "alias": "ゆめゆめ",
+      "normalizedAlias": "ゆめゆめ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0311",
+      "alias": "ラヴィ",
+      "normalizedAlias": "ラヴィ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0312",
+      "alias": "ラストラス",
+      "normalizedAlias": "ラストラス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0313",
+      "alias": "ラズベリー*モンスター",
+      "normalizedAlias": "ラズベリー*モンスター",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0315",
+      "alias": "ラッキー☆オーブ",
+      "normalizedAlias": "ラッキー☆オーブ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0317",
+      "alias": "ラビットホール (Reloaded)",
+      "normalizedAlias": "ラビットホール (Reloaded)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0318",
+      "alias": "ラムネイドブルーの憧憬",
+      "normalizedAlias": "ラムネイドブルーの憧憬",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0319",
+      "alias": "リテラシー",
+      "normalizedAlias": "リテラシー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0320",
+      "alias": "リバースユニバース",
+      "normalizedAlias": "リバースユニバース",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0321",
+      "alias": "リモコン",
+      "normalizedAlias": "リモコン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0322",
+      "alias": "リンリンシグナル",
+      "normalizedAlias": "リンリンシグナル",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0323",
+      "alias": "ルカルカ★ナイトフィーバー",
+      "normalizedAlias": "ルカルカ★ナイトフィーバー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0325",
+      "alias": "レイニースノードロップ",
+      "normalizedAlias": "レイニースノードロップ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0326",
+      "alias": "レッドランドマーカー",
+      "normalizedAlias": "レッドランドマーカー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0327",
+      "alias": "ローリンガール",
+      "normalizedAlias": "ローリンガール",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0328",
+      "alias": "ロキ",
+      "normalizedAlias": "ロキ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0329",
+      "alias": "ロストワンの号哭",
+      "normalizedAlias": "ロストワンの号哭",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0330",
+      "alias": "ロミオとシンデレラ",
+      "normalizedAlias": "ロミオとシンデレラ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0331",
+      "alias": "ワールズエンド・ダンスホール",
+      "normalizedAlias": "ワールズエンド・ダンスホール",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0332",
+      "alias": "ワールドイズマイン",
+      "normalizedAlias": "ワールドイズマイン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0333",
+      "alias": "ワンダーランドと羊の歌",
+      "normalizedAlias": "ワンダーランドと羊の歌",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0334",
+      "alias": "愛Dee",
+      "normalizedAlias": "愛Dee",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0335",
+      "alias": "愛されなくても君がいる",
+      "normalizedAlias": "愛されなくても君がいる",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0336",
+      "alias": "愛の詩",
+      "normalizedAlias": "愛の詩",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0337",
+      "alias": "愛言葉",
+      "normalizedAlias": "愛言葉",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0338",
+      "alias": "愛言葉V",
+      "normalizedAlias": "愛言葉V",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0339",
+      "alias": "愛迷エレジー (Reloaded)",
+      "normalizedAlias": "愛迷エレジー (Reloaded)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0340",
+      "alias": "悪ノ召使",
+      "normalizedAlias": "悪ノ召使",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0341",
+      "alias": "悪ノ娘",
+      "normalizedAlias": "悪ノ娘",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0342",
+      "alias": "右肩の蝶",
+      "normalizedAlias": "右肩の蝶",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0343",
+      "alias": "越过海岸线 (Yuèguò Hǎi'ànxiàn)",
+      "normalizedAlias": "越过海岸线 (Yuèguò Hǎi'ànxiàn)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0344",
+      "alias": "乙女解剖",
+      "normalizedAlias": "乙女解剖",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0345",
+      "alias": "俺ゴーストタイプ",
+      "normalizedAlias": "俺ゴーストタイプ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0346",
+      "alias": "歌に形はないけれど",
+      "normalizedAlias": "歌に形はないけれど",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0348",
+      "alias": "快晴",
+      "normalizedAlias": "快晴",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0349",
+      "alias": "完全性コンプレックス",
+      "normalizedAlias": "完全性コンプレックス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0350",
+      "alias": "既成事実三部作MegaMix",
+      "normalizedAlias": "既成事実三部作MegaMix",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0351",
+      "alias": "気まぐれメルシィ",
+      "normalizedAlias": "気まぐれメルシィ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0352",
+      "alias": "牛乳飲め！",
+      "normalizedAlias": "牛乳飲め!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0353",
+      "alias": "結ンデ開イテ羅刹ト骸",
+      "normalizedAlias": "結ンデ開イテ羅刹ト骸",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0354",
+      "alias": "月西江 (Yuè Xī Jiāng)",
+      "normalizedAlias": "月西江 (Yuè Xī Jiāng)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0355",
+      "alias": "孤独の果て",
+      "normalizedAlias": "孤独の果て",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0356",
+      "alias": "跨时空日记 (Kuà Shíkōng Rìjì)",
+      "normalizedAlias": "跨时空日记 (Kuà Shíkōng Rìjì)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0357",
+      "alias": "好き！雪！本気マジック",
+      "normalizedAlias": "好き!雪!本気マジック",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0358",
+      "alias": "紅一葉",
+      "normalizedAlias": "紅一葉",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0359",
+      "alias": "混沌ブギ",
+      "normalizedAlias": "混沌ブギ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0360",
+      "alias": "砂の惑星",
+      "normalizedAlias": "砂の惑星",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0361",
+      "alias": "再来一单",
+      "normalizedAlias": "再来一单",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0362",
+      "alias": "祭りだヘイカモン",
+      "normalizedAlias": "祭りだヘイカモン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0363",
+      "alias": "桜ノ雨",
+      "normalizedAlias": "桜ノ雨",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0364",
+      "alias": "桜日和とタイムマシン",
+      "normalizedAlias": "桜日和とタイムマシン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0365",
+      "alias": "四角い地球を丸くする",
+      "normalizedAlias": "四角い地球を丸くする",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0366",
+      "alias": "四秒之眷",
+      "normalizedAlias": "四秒之眷",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0367",
+      "alias": "私の時間",
+      "normalizedAlias": "私の時間",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0368",
+      "alias": "私の恋はヘルファイア",
+      "normalizedAlias": "私の恋はヘルファイア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0369",
+      "alias": "私は人間じゃないから。",
+      "normalizedAlias": "私は人間じゃないから。",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0370",
+      "alias": "弱虫モンブラン (Reloaded)",
+      "normalizedAlias": "弱虫モンブラン (Reloaded)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0371",
+      "alias": "初めての恋が終わる時",
+      "normalizedAlias": "初めての恋が終わる時",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0372",
+      "alias": "初音ミクの激唱",
+      "normalizedAlias": "初音ミクの激唱",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0373",
+      "alias": "初音ミクの消失",
+      "normalizedAlias": "初音ミクの消失",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0374",
+      "alias": "初音ミクの消失 -DEAD END-",
+      "normalizedAlias": "初音ミクの消失 -DEAD END-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0375",
+      "alias": "初音天地開闢神話",
+      "normalizedAlias": "初音天地開闢神話",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0376",
+      "alias": "初嵐 (Chūlán)",
+      "normalizedAlias": "初嵐 (Chūlán)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0377",
+      "alias": "少女A",
+      "normalizedAlias": "少女A",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0378",
+      "alias": "心がどっか寂しいんだ",
+      "normalizedAlias": "心がどっか寂しいんだ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0379",
+      "alias": "心臓デモクラシー",
+      "normalizedAlias": "心臓デモクラシー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0380",
+      "alias": "新人類",
+      "normalizedAlias": "新人類",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0381",
+      "alias": "深海シティアンダーグラウンド",
+      "normalizedAlias": "深海シティアンダーグラウンド",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0382",
+      "alias": "深海少女",
+      "normalizedAlias": "深海少女",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0383",
+      "alias": "神っぽいな",
+      "normalizedAlias": "神っぽいな",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0385",
+      "alias": "星のかけら",
+      "normalizedAlias": "星のかけら",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0385",
+      "alias": "星のカケラ",
+      "normalizedAlias": "星のカケラ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0386",
+      "alias": "星空クロノグラフ",
+      "normalizedAlias": "星空クロノグラフ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0387",
+      "alias": "星屑ユートピア",
+      "normalizedAlias": "星屑ユートピア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0388",
+      "alias": "聖槍爆裂ボーイ",
+      "normalizedAlias": "聖槍爆裂ボーイ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0389",
+      "alias": "積乱雲グラフィティ",
+      "normalizedAlias": "積乱雲グラフィティ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0390",
+      "alias": "雪がとける前に",
+      "normalizedAlias": "雪がとける前に",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0391",
+      "alias": "千年の独奏歌",
+      "normalizedAlias": "千年の独奏歌",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0392",
+      "alias": "千本桜",
+      "normalizedAlias": "千本桜",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0393",
+      "alias": "戦闘！初音ミク",
+      "normalizedAlias": "戦闘!初音ミク",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0394",
+      "alias": "創聖のアクエリオン",
+      "normalizedAlias": "創聖のアクエリオン",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0395",
+      "alias": "太陽系デスコ",
+      "normalizedAlias": "太陽系デスコ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0396",
+      "alias": "大江戸ジュリアナイト",
+      "normalizedAlias": "大江戸ジュリアナイト",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0397",
+      "alias": "脱法ロック",
+      "normalizedAlias": "脱法ロック",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0398",
+      "alias": "天才ロック",
+      "normalizedAlias": "天才ロック",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0399",
+      "alias": "電気の恋人 -I am Programmer's Song-",
+      "normalizedAlias": "電気の恋人 -I am Programmer's Song-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0400",
+      "alias": "電気予報",
+      "normalizedAlias": "電気予報",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0401",
+      "alias": "東京テディベア",
+      "normalizedAlias": "東京テディベア",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0402",
+      "alias": "踏步、出发 (Tàbù, Chūfā)",
+      "normalizedAlias": "踏步、出发 (Tàbù, Chūfā)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0403",
+      "alias": "独りんぼエンヴィー",
+      "normalizedAlias": "独りんぼエンヴィー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0404",
+      "alias": "二次元ドリームフィーバー",
+      "normalizedAlias": "二次元ドリームフィーバー",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0405",
+      "alias": "二息歩行",
+      "normalizedAlias": "二息歩行",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0405",
+      "alias": "二息歩行 (Reloaded)",
+      "normalizedAlias": "二息歩行 (Reloaded)",
+      "type": "legacy"
+    },
+    {
+      "songId": "SONG-0407",
+      "alias": "脳内革命ガール",
+      "normalizedAlias": "脳内革命ガール",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0408",
+      "alias": "敗走",
+      "normalizedAlias": "敗走",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0409",
+      "alias": "白い雪のプリンセスは",
+      "normalizedAlias": "白い雪のプリンセスは",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0410",
+      "alias": "抜錨",
+      "normalizedAlias": "抜錨",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0411",
+      "alias": "番凩",
+      "normalizedAlias": "番凩",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0412",
+      "alias": "秘密警察",
+      "normalizedAlias": "秘密警察",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0413",
+      "alias": "筆おろし",
+      "normalizedAlias": "筆おろし",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0414",
+      "alias": "崩壊歌姫 -disruptive diva-",
+      "normalizedAlias": "崩壊歌姫 -disruptive diva-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0415",
+      "alias": "忘却心中",
+      "normalizedAlias": "忘却心中",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0416",
+      "alias": "紡唄 -つむぎうた-",
+      "normalizedAlias": "紡唄 -つむぎうた-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0418",
+      "alias": "僕が夢を捨てて大人になるまで",
+      "normalizedAlias": "僕が夢を捨てて大人になるまで",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0419",
+      "alias": "魔法みたいなミュージック！",
+      "normalizedAlias": "魔法みたいなミュージック!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0420",
+      "alias": "命に嫌われている。",
+      "normalizedAlias": "命に嫌われている。",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0421",
+      "alias": "妄想感傷代償連盟",
+      "normalizedAlias": "妄想感傷代償連盟",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0422",
+      "alias": "妄想税",
+      "normalizedAlias": "妄想税",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0423",
+      "alias": "木枯らしの朝",
+      "normalizedAlias": "木枯らしの朝",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0424",
+      "alias": "黙ってロックをやれって言ってんの！",
+      "normalizedAlias": "黙ってロックをやれって言ってんの!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0425",
+      "alias": "夜舞うシルエット",
+      "normalizedAlias": "夜舞うシルエット",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0426",
+      "alias": "幽霊東京",
+      "normalizedAlias": "幽霊東京",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0427",
+      "alias": "与你同行～B With U～",
+      "normalizedAlias": "与你同行~B With U~",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0428",
+      "alias": "踊",
+      "normalizedAlias": "踊",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0429",
+      "alias": "陽だまりのセツナ",
+      "normalizedAlias": "陽だまりのセツナ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0430",
+      "alias": "裏表ラバーズ",
+      "normalizedAlias": "裏表ラバーズ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0431",
+      "alias": "流星のパルス",
+      "normalizedAlias": "流星のパルス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0432",
+      "alias": "劣等上等",
+      "normalizedAlias": "劣等上等",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0433",
+      "alias": "恋スルVOC＠LOID",
+      "normalizedAlias": "恋スルVOC@LOID",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0435",
+      "alias": "恋は戦争",
+      "normalizedAlias": "恋は戦争",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0436",
+      "alias": "恋は戦争 (future retro remix by kz)",
+      "normalizedAlias": "恋は戦争 (future retro remix by kz)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0437",
+      "alias": "恋愛裁判",
+      "normalizedAlias": "恋愛裁判",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0438",
+      "alias": "恋色病棟",
+      "normalizedAlias": "恋色病棟",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0439",
+      "alias": "炉心融解",
+      "normalizedAlias": "炉心融解",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0440",
+      "alias": "梦色星球 (Mèngsè Xīngqiú)",
+      "normalizedAlias": "梦色星球 (Mèngsè Xīngqiú)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0441",
+      "alias": "你好 (Nǐhǎo)",
+      "normalizedAlias": "你好 (Nǐhǎo)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0442",
+      "alias": "巴",
+      "normalizedAlias": "巴",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0443",
+      "alias": "蜂の風",
+      "normalizedAlias": "蜂の風",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0444",
+      "alias": "SHAKE",
+      "normalizedAlias": "SHAKE",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0445",
+      "alias": "三宅",
+      "normalizedAlias": "三宅",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0446",
+      "alias": "南部牛追歌",
+      "normalizedAlias": "南部牛追歌",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0447",
+      "alias": "能菅＋平胴",
+      "normalizedAlias": "能菅+平胴",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0448",
+      "alias": "巡 -MEGURU-",
+      "normalizedAlias": "巡 -MEGURU-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0449",
+      "alias": "いのち もやしてたたけよ",
+      "normalizedAlias": "いのち もやしてたたけよ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0450",
+      "alias": "LION（獅子吼）",
+      "normalizedAlias": "LION(獅子吼)",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0451",
+      "alias": "BURNING",
+      "normalizedAlias": "BURNING",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0452",
+      "alias": "Project Diva desu.",
+      "normalizedAlias": "Project Diva desu.",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0453",
+      "alias": "Ievan Polkka",
+      "normalizedAlias": "Ievan Polkka",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0054",
+      "alias": "Hand in Hand",
+      "normalizedAlias": "Hand in Hand",
+      "type": "alternate"
+    },
+    {
+      "songId": "SONG-0454",
+      "alias": "Hand in Hand（初音ミク単独版）",
+      "normalizedAlias": "Hand in Hand（初音ミク単独版）",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0455",
+      "alias": "ドーピングダンス",
+      "normalizedAlias": "ドーピングダンス",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0456",
+      "alias": "ジェヘナ",
+      "normalizedAlias": "ジェヘナ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0457",
+      "alias": "バッドシャーク",
+      "normalizedAlias": "バッドシャーク",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0458",
+      "alias": "青炎",
+      "normalizedAlias": "青炎",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0459",
+      "alias": "サロメ",
+      "normalizedAlias": "サロメ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0460",
+      "alias": "HELLO, NEW WORLD!",
+      "normalizedAlias": "HELLO, NEW WORLD!",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0461",
+      "alias": "死にたくない",
+      "normalizedAlias": "死にたくない",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0462",
+      "alias": "泥中に咲く",
+      "normalizedAlias": "泥中に咲く",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0463",
+      "alias": "エル・タンゴ・エゴイスタ",
+      "normalizedAlias": "エル・タンゴ・エゴイスタ",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0464",
+      "alias": "天樂 -双響-",
+      "normalizedAlias": "天樂 -双響-",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0465",
+      "alias": "空に免じて",
+      "normalizedAlias": "空に免じて",
+      "type": "canonical"
+    },
+    {
+      "songId": "SONG-0466",
+      "alias": "こたえて",
+      "normalizedAlias": "こたえて",
+      "type": "canonical"
+    }
+  ],
+  "scope": [
+    {
+      "シリーズ": "JAPAN TOUR",
+      "公演・ライブ数": "24",
+      "演奏曲レコード数": "552",
+      "公演単位": "24",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "MIKU EXPO",
+      "公演・ライブ数": "135",
+      "演奏曲レコード数": "3209",
+      "公演単位": "135",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "MIKU FES",
+      "公演・ライブ数": "2",
+      "演奏曲レコード数": "51",
+      "公演単位": "2",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "MIKU WITH YOU",
+      "公演・ライブ数": "41",
+      "演奏曲レコード数": "882",
+      "公演単位": "41",
+      "ライブ単位": "0",
+      "備考": "2017–2021を全実公演単位へ修正"
+    },
+    {
+      "シリーズ": "SNOW MIKU LIVE!",
+      "公演・ライブ数": "12",
+      "演奏曲レコード数": "312",
+      "公演単位": "12",
+      "ライブ単位": "0",
+      "備考": "2015・2018・2019を全12公演単位へ修正"
+    },
+    {
+      "シリーズ": "その他公式ライブ／出演",
+      "公演・ライブ数": "20",
+      "演奏曲レコード数": "193",
+      "公演単位": "13",
+      "ライブ単位": "7",
+      "備考": ""
+    },
+    {
+      "シリーズ": "デコミク LIVE",
+      "公演・ライブ数": "2",
+      "演奏曲レコード数": "54",
+      "公演単位": "2",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "ポケモン feat. 初音ミク",
+      "公演・ライブ数": "6",
+      "演奏曲レコード数": "162",
+      "公演単位": "6",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "マジカルミライ",
+      "公演・ライブ数": "137",
+      "演奏曲レコード数": "3341",
+      "公演単位": "137",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "ミクの日感謝祭",
+      "公演・ライブ数": "4",
+      "演奏曲レコード数": "138",
+      "公演単位": "4",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "ミクパ♪",
+      "公演・ライブ数": "15",
+      "演奏曲レコード数": "427",
+      "公演単位": "15",
+      "ライブ単位": "0",
+      "備考": ""
+    },
+    {
+      "シリーズ": "初音ミク×鼓童",
+      "公演・ライブ数": "9",
+      "演奏曲レコード数": "211",
+      "公演単位": "9",
+      "ライブ単位": "0",
+      "備考": ""
+    }
+  ],
+  "dataNotes": [
+    {
+      "項目": "更新日",
+      "内容": "2026-08-11"
+    },
+    {
+      "項目": "バージョン",
+      "内容": "v12（手修正レビュー＋確認済み楽曲統合）"
+    },
+    {
+      "項目": "楽曲統合",
+      "内容": "鼓童関連の新規10曲を楽曲マスタへ追加し、2017/2018/2023 結の分場公演と歌单を分離。曲順状態を確認済みに統一し、収録曲数・出演記録数を再計算。"
+    },
+    {
+      "項目": "Performance Type",
+      "内容": "各公演・各曲の歌唱者に基づく。miku_solo＝初音ミク単独、miku_collaboration＝初音ミクを含む共演、other＝初音ミク以外、unknown＝公開情報で確認不能。"
+    },
+    {
+      "項目": "MIKU WITH YOU",
+      "内容": "2017：2公演、2018：12公演、2019：10公演、2020：1公演、2021：1公演。都市別セットリストを同一条件の公演へ複製。"
+    },
+    {
+      "項目": "LAWSON",
+      "内容": "2026-01-17昼・夜、2026-01-18昼の3公演。各24曲、8曲目の回替わりを公演別に反映。"
+    },
+    {
+      "項目": "旧参加記録",
+      "内容": "旧集計event_idの参加記録はD1に保持し、新しい公演へ自動割当しない。Webサイトで候補を表示し再選択を案内する。"
+    },
+    {
+      "項目": "旧楽曲記録",
+      "内容": "統合対象の旧song_idにある見たい曲・優先度・メモは、Webサイトで統合先song_idへ安全に移行する。"
+    },
+    {
+      "項目": "主要出典（MIKU WITH YOU一覧）",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67108.html"
+    },
+    {
+      "項目": "MIKU WITH YOU 2017",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67160.html"
+    },
+    {
+      "項目": "MIKU WITH YOU 2018",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67175.html"
+    },
+    {
+      "項目": "MIKU WITH YOU 2019",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67177.html"
+    },
+    {
+      "項目": "MIKU WITH YOU 2020",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67178.html"
+    },
+    {
+      "項目": "MIKU WITH YOU 2021",
+      "内容": "https://w.atwiki.jp/hmiku/pages/67180.html"
+    },
+    {
+      "項目": "公式ブログ（2017時刻）",
+      "内容": "https://blog.piapro.net/2017/11/mon171120.html"
+    },
+    {
+      "項目": "公式ブログ（2018時刻）",
+      "内容": "https://blog.piapro.net/2018/09/z180920-1.html"
+    },
+    {
+      "項目": "LAWSONセットリスト",
+      "内容": "https://w.atwiki.jp/hmiku/pages/68447.html"
+    },
+    {
+      "項目": "LAWSON公式公演情報",
+      "内容": "https://www.lawson.co.jp/company/news/detail/1509484_2504.html"
+    },
+    {
+      "項目": "横浜アリーナ最大収容人員",
+      "内容": "https://www.yokohama-arena.co.jp/company/about/"
+    },
+    {
+      "項目": "不明情報",
+      "内容": "開演時刻・公演時キャパ等を確認できない場合は空欄とし、推測値を入れていない。"
+    },
+    {
+      "項目": "v11修正レビュー（2026-07-23）",
+      "内容": "参照 workbook：miku_wiki_setlists_v11_vs_mikuonly.xlsx。公演対比 O 列の修正意見を反映し、マジカルミライ2020の公演日程・開演時刻・歌单を修正。旧记录保留为 deprecated/hidden。"
+    },
+    {
+      "項目": "v12手修正レビュー（2026-08-11）",
+      "内容": "miku_wiki_setlists_v12_reviewed手修正後.xlsx の新規52件を確認。11行の初期公演修正を反映し、41行の修正不要・同曲異名を確認完了。2010–2013の対象公演を公演単位へ分割し、会場・時刻・曲順を確認済みに更新。"
+    },
+    {
+      "項目": "v12楽曲統合（2026-08-11）",
+      "内容": "ユーザー確認により6旧song_idを統合。ローマ字読み、みくみく表記、星のカケラ表記を統一し、ヒバナ／二息歩行のReloaded版は演奏曲備考に版情報を保持。"
+    },
+    {
+      "項目": "Hand in Hand版別分離（2026-08-12）",
+      "内容": "ユーザー確認により、2023年までの初音ミク単独版81公演をSONG-0454へ分離。2024年以降の6人版33公演はSONG-0054として保持し、視聴・見たい状態と出演統計を版ごとに独立して計算。"
+    },
+    {
+      "項目": "マジカルミライ2026（2026-08-15）",
+      "内容": "公式日程に基づき浜松・大阪・東京18公演を追加。浜松6公演と大阪6公演には確認済み歌唱曲を登録し、東京6公演は全公演終了後の確認待ち。"
+    },
+    {
+      "項目": "アルビノ楽曲統合（2026-08-15）",
+      "内容": "ユーザー確認によりSONG-0159（アルビノ revive版）をSONG-0158へ統合。演奏版表記は歌唱曲備考に保持し、出演・視聴・見たい曲統計を作品単位へ統一。"
+    },
+    {
+      "項目": "公演記録単位・セットリスト帰属（2026-08-15）",
+      "内容": "実際に参加できる一公演か複数公演の集約かをrecordUnitで分離し、歌唱曲の帰属状態をsetlistScopeで管理。曲順未確認だけを理由に出演統計から除外しない。鼓童6公演とMIKU FES’24をexact、単日8公演をpresence_onlyへ修正。"
+    },
+    {
+      "項目": "SNOW MIKU LIVE! 公演分割（2026-08-16）",
+      "内容": "公式日程・時刻と初音ミクWikiの曲順を照合し、2015・2018・2019の旧3集計を全12公演へ分割。2018・2019の日替わり曲を公演日別に反映し、同日昼夜は共有歌单として記録。"
+    },
+    {
+      "項目": "マジカルミライ2026（2026-09-01）",
+      "内容": "東京6公演の歌唱曲を確認済み歌唱曲として追加。『初音ミク Wiki』の2026-08-30更新内容に基づき、東京会場替わり曲は「快晴」。全18公演のネタバレ防止範囲を解除するリリース。"
+    },
+    {
+      "項目": "MIKU WITH YOU 2026（2026-09-12）",
+      "内容": "公式告知画像に基づき、上海・静安体育中心の2026年10月31日／11月1日、各日昼夜2公演（計4公演）を追加。歌唱曲は未公開のため未登録。"
+    },
+    {
+      "項目": "Last Night, Good Night楽曲統合（2026-09-12）",
+      "内容": "SONG-0073（mf_4sk cutup edit）とSONG-0074（Re:Dialed）をSONG-0072へ統合。統計・検索は一首として扱い、詳細歌单は各公演の元の演奏曲名を保持。"
+    },
+    {
+      "項目": "MIKU EXPO 公演分割（2026-09-13）",
+      "内容": "16件を昼夜32公演へ分割。福岡2日、台湾6/25、メキシコ6/5は単場。台湾昼夜第8・12曲を反映。北米第8・9曲は出典間の不一致を記録し既存曲を保持。旧IDは履歴移行用に保持。"
+    },
+    {
+      "項目": "MIKU WITH YOU 2018 中止公演訂正（2026-09-13）",
+      "内容": "北京10月14日昼夜・成都10月21日昼夜は不可抗力により中止。4公演と各25曲の複製歌単をdeprecated/hiddenで監査保存し、公開・統計から除外。出典：https://blog.piapro.net/2018/09/z180920-1.html ／ https://moegirl.uk/index.php?title=%E6%9C%AA%E6%9D%A5%E6%9C%89%E4%BD%A0%C2%B7%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A52018%E4%B8%AD%E5%9B%BD%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&variant=zh"
+    }
+  ]
+}

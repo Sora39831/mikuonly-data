@@ -1,0 +1,11 @@
+{
+  "id": "VEN-0010",
+  "name": "WaMu Theater",
+  "city": "Seattle",
+  "countryRegion": "United States",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "要確認",
+  "sourceRow": 13
+}

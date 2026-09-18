@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MikuOnly event",
+  "type": "object",
+  "required": ["id", "name", "recordUnit", "setlistScope"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "recordUnit": { "enum": ["performance", "aggregate"] },
+    "setlistScope": { "enum": ["exact", "shared", "presence_only", "aggregate", "none"] }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SONG-0015",
+  "title": "Birthday",
+  "englishTitle": "Birthday",
+  "vocalsText": "初音ミク",
+  "producer": "ryuryu",
+  "appearanceCount": 12,
+  "sourceRow": 16,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0041",
+    "EVT-0042",
+    "EVT-0043",
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-007"
+  ],
+  "firstDate": "2017-09-01",
+  "lastDate": "2019-02-10",
+  "soloAppearanceCount": 12,
+  "soloEventIds": [
+    "EVT-0041",
+    "EVT-0042",
+    "EVT-0043",
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-SNOW19-0209-D",
+    "EVT-SNOW19-0209-N",
+    "EVT-SNOW19-0210-D",
+    "EVT-SNOW19-0210-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-005",
+    "SER-007"
+  ],
+  "soloFirstDate": "2017-09-01",
+  "soloLastDate": "2019-02-10"
+}

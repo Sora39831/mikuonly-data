@@ -1,0 +1,37 @@
+{
+  "id": "SONG-0333",
+  "title": "ワンダーランドと羊の歌",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ハチ",
+  "appearanceCount": 5,
+  "sourceRow": 319,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-0200"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-004"
+  ],
+  "firstDate": "2011-07-02",
+  "lastDate": "2014-09-20",
+  "soloAppearanceCount": 5,
+  "soloEventIds": [
+    "EVT-0121-D",
+    "EVT-0121-N",
+    "EVT-0122-D",
+    "EVT-0122-N",
+    "EVT-0200"
+  ],
+  "soloSeriesIds": [
+    "SER-005",
+    "SER-004"
+  ],
+  "soloFirstDate": "2011-07-02",
+  "soloLastDate": "2014-09-20"
+}

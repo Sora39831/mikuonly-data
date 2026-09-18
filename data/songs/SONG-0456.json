@@ -1,0 +1,60 @@
+{
+  "id": "SONG-0456",
+  "title": "ジェヘナ",
+  "englishTitle": "Gehenna",
+  "vocalsText": "初音ミク",
+  "producer": "wotaku",
+  "appearanceCount": 18,
+  "actualAppearanceCount": 18,
+  "eventIds": [
+    "EVT-MM26-HAM-0724-D",
+    "EVT-MM26-HAM-0724-N",
+    "EVT-MM26-HAM-0725-D",
+    "EVT-MM26-HAM-0725-N",
+    "EVT-MM26-HAM-0726-D",
+    "EVT-MM26-HAM-0726-N",
+    "EVT-MM26-OSA-0814-D",
+    "EVT-MM26-OSA-0814-N",
+    "EVT-MM26-OSA-0815-D",
+    "EVT-MM26-OSA-0815-N",
+    "EVT-MM26-OSA-0816-D",
+    "EVT-MM26-OSA-0816-N",
+    "EVT-MM26-TOK-0828-D",
+    "EVT-MM26-TOK-0828-N",
+    "EVT-MM26-TOK-0829-D",
+    "EVT-MM26-TOK-0829-N",
+    "EVT-MM26-TOK-0830-D",
+    "EVT-MM26-TOK-0830-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2026-07-24",
+  "lastDate": "2026-08-30",
+  "soloAppearanceCount": 18,
+  "soloEventIds": [
+    "EVT-MM26-HAM-0724-D",
+    "EVT-MM26-HAM-0724-N",
+    "EVT-MM26-HAM-0725-D",
+    "EVT-MM26-HAM-0725-N",
+    "EVT-MM26-HAM-0726-D",
+    "EVT-MM26-HAM-0726-N",
+    "EVT-MM26-OSA-0814-D",
+    "EVT-MM26-OSA-0814-N",
+    "EVT-MM26-OSA-0815-D",
+    "EVT-MM26-OSA-0815-N",
+    "EVT-MM26-OSA-0816-D",
+    "EVT-MM26-OSA-0816-N",
+    "EVT-MM26-TOK-0828-D",
+    "EVT-MM26-TOK-0828-N",
+    "EVT-MM26-TOK-0829-D",
+    "EVT-MM26-TOK-0829-N",
+    "EVT-MM26-TOK-0830-D",
+    "EVT-MM26-TOK-0830-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2026-07-24",
+  "soloLastDate": "2026-08-30"
+}

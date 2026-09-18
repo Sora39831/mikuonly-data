@@ -1,0 +1,39 @@
+{
+  "id": "SONG-0137",
+  "title": "Through The Night",
+  "englishTitle": "Through The Night",
+  "vocalsText": "初音ミク",
+  "producer": "Slushii",
+  "appearanceCount": 7,
+  "sourceRow": 132,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2018-06-29",
+  "lastDate": "2018-07-19",
+  "soloAppearanceCount": 7,
+  "soloEventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2018-06-29",
+  "soloLastDate": "2018-07-19"
+}

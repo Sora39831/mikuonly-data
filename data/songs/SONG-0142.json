@@ -1,0 +1,43 @@
+{
+  "id": "SONG-0142",
+  "title": "Venus di Ujung Jari",
+  "englishTitle": "Venus at The Fingertips",
+  "vocalsText": "初音ミク",
+  "producer": "mohax",
+  "appearanceCount": 8,
+  "sourceRow": 137,
+  "actualAppearanceCount": 8,
+  "eventIds": [
+    "EVT-0001",
+    "EVT-0033",
+    "EVT-SNOW15-0207-D",
+    "EVT-SNOW15-0207-N",
+    "EVT-SNOW15-0208-D",
+    "EVT-SNOW15-0208-N",
+    "EVT-0002-D",
+    "EVT-0002-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-007"
+  ],
+  "firstDate": "2014-05-28",
+  "lastDate": "2017-12-16",
+  "soloAppearanceCount": 8,
+  "soloEventIds": [
+    "EVT-0001",
+    "EVT-0033",
+    "EVT-SNOW15-0207-D",
+    "EVT-SNOW15-0207-N",
+    "EVT-SNOW15-0208-D",
+    "EVT-SNOW15-0208-N",
+    "EVT-0002-D",
+    "EVT-0002-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-007"
+  ],
+  "soloFirstDate": "2014-05-28",
+  "soloLastDate": "2017-12-16"
+}

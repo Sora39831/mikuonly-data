@@ -1,0 +1,33 @@
+{
+  "id": "SONG-0144",
+  "title": "VOiCE",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ラヴリーP",
+  "appearanceCount": 3,
+  "sourceRow": 139,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0200",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "seriesIds": [
+    "SER-004",
+    "SER-002"
+  ],
+  "firstDate": "2010-03-09",
+  "lastDate": "2011-07-02",
+  "soloAppearanceCount": 3,
+  "soloEventIds": [
+    "EVT-0200",
+    "EVT-0198-D",
+    "EVT-0198-N"
+  ],
+  "soloSeriesIds": [
+    "SER-004",
+    "SER-002"
+  ],
+  "soloFirstDate": "2010-03-09",
+  "soloLastDate": "2011-07-02"
+}

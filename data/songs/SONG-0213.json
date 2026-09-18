@@ -1,0 +1,59 @@
+{
+  "id": "SONG-0213",
+  "title": "シャボン",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "蜂屋ななし",
+  "appearanceCount": 15,
+  "sourceRow": 206,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0193",
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0225-20230325-N"
+  ],
+  "seriesIds": [
+    "SER-010",
+    "SER-005",
+    "SER-009"
+  ],
+  "firstDate": "2020-11-28",
+  "lastDate": "2023-03-25",
+  "soloAppearanceCount": 15,
+  "soloEventIds": [
+    "EVT-0193",
+    "EVT-0143-D",
+    "EVT-0143-N",
+    "EVT-0143-3",
+    "EVT-0144-D",
+    "EVT-0144-N",
+    "EVT-0144-3",
+    "EVT-0145-N",
+    "EVT-0146-D",
+    "EVT-0146-N",
+    "EVT-0146-3",
+    "EVT-0147-D",
+    "EVT-0147-N",
+    "EVT-0147-3",
+    "EVT-0225-20230325-N"
+  ],
+  "soloSeriesIds": [
+    "SER-010",
+    "SER-005",
+    "SER-009"
+  ],
+  "soloFirstDate": "2020-11-28",
+  "soloLastDate": "2023-03-25"
+}

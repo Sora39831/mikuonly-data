@@ -1,0 +1,59 @@
+{
+  "id": "SONG-0219",
+  "title": "すきなことだけでいいです",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "ピノキオピー",
+  "appearanceCount": 17,
+  "sourceRow": 212,
+  "actualAppearanceCount": 17,
+  "eventIds": [
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0141-D",
+    "EVT-0141-N",
+    "EVT-0169-D",
+    "EVT-0169-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0171-D",
+    "EVT-0171-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2019-08-10",
+  "lastDate": "2024-10-14",
+  "soloAppearanceCount": 17,
+  "soloEventIds": [
+    "EVT-0137-D",
+    "EVT-0137-N",
+    "EVT-0138-D",
+    "EVT-0138-N",
+    "EVT-0139-N",
+    "EVT-0140-D",
+    "EVT-0140-N",
+    "EVT-0141-D",
+    "EVT-0141-N",
+    "EVT-0169-D",
+    "EVT-0169-N",
+    "EVT-0173-D",
+    "EVT-0173-N",
+    "EVT-0175-D",
+    "EVT-0175-N",
+    "EVT-0171-D",
+    "EVT-0171-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2019-08-10",
+  "soloLastDate": "2024-10-14"
+}

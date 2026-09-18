@@ -1,0 +1,25 @@
+{
+  "id": "SONG-0449",
+  "title": "いのち もやしてたたけよ",
+  "englishTitle": null,
+  "vocalsText": "鼓童",
+  "producer": "鼓童",
+  "appearanceCount": 3,
+  "sourceRow": 432,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0226",
+    "EVT-0226-20230604-D",
+    "EVT-0226-20230604-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2023-06-03",
+  "lastDate": "2023-06-04",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

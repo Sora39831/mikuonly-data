@@ -1,0 +1,29 @@
+{
+  "id": "SONG-0442",
+  "title": "巴",
+  "englishTitle": null,
+  "vocalsText": "鼓童",
+  "producer": "坂東玉三郎",
+  "appearanceCount": 7,
+  "sourceRow": 425,
+  "actualAppearanceCount": 7,
+  "eventIds": [
+    "EVT-0214",
+    "EVT-0217",
+    "EVT-0226",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N",
+    "EVT-0217-20180603-D",
+    "EVT-0217-20180603-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2017-03-04",
+  "lastDate": "2023-06-03",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

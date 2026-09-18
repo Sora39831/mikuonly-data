@@ -1,0 +1,492 @@
+{
+  "eventId": "EVT-0074",
+  "tracks": [
+    {
+      "id": "EVT-0074-01865",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0087",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1861,
+      "sourceNumber": "01",
+      "performedTitle": "Miku",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Anamanaguchi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1865
+    },
+    {
+      "id": "EVT-0074-01866",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0173",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1862,
+      "sourceNumber": "02",
+      "performedTitle": "ヴァンパイア",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1866
+    },
+    {
+      "id": "EVT-0074-01867",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0315",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1863,
+      "sourceNumber": "03",
+      "performedTitle": "ラッキー☆オーブ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "emon(Tes.)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": "v7統合前表記：ラッキー☆オーブ (Lucky☆Orb)",
+      "sourceRow": 1867
+    },
+    {
+      "id": "EVT-0074-01868",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0380",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1864,
+      "sourceNumber": "04",
+      "performedTitle": "新人類",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "まらしぃ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1868
+    },
+    {
+      "id": "EVT-0074-01869",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0242",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1865,
+      "sourceNumber": "05",
+      "performedTitle": "テレキャスタービーボーイ",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "すりぃ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1869
+    },
+    {
+      "id": "EVT-0074-01870",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0183",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1866,
+      "sourceNumber": "06",
+      "performedTitle": "おこちゃま戦争",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1870
+    },
+    {
+      "id": "EVT-0074-01871",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0319",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1867,
+      "sourceNumber": "07",
+      "performedTitle": "リテラシー",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "wotaku",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1871
+    },
+    {
+      "id": "EVT-0074-01872",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0326",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1868,
+      "sourceNumber": "08",
+      "performedTitle": "レッドランドマーカー",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "Twinfield",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1872
+    },
+    {
+      "id": "EVT-0074-01873",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0086",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1869,
+      "sourceNumber": "09",
+      "performedTitle": "Midnight Surf",
+      "englishTitle": null,
+      "vocalsText": "MEIKO, KAITO",
+      "producer": "あしかかもしか。",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1873
+    },
+    {
+      "id": "EVT-0074-01874",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0034",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1870,
+      "sourceNumber": "10",
+      "performedTitle": "Decade",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Dixie Flatline",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1874
+    },
+    {
+      "id": "EVT-0074-01875",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0089",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1871,
+      "sourceNumber": "11",
+      "performedTitle": "MikuFiesta",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "AlexTrip Sands",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1875
+    },
+    {
+      "id": "EVT-0074-01876",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0419",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1872,
+      "sourceNumber": "12",
+      "performedTitle": "魔法みたいなミュージック！",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1876
+    },
+    {
+      "id": "EVT-0074-01877",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0080",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1873,
+      "sourceNumber": "13",
+      "performedTitle": "lost and found",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "ashcolor",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1877
+    },
+    {
+      "id": "EVT-0074-01878",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0143",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1874,
+      "sourceNumber": "14",
+      "performedTitle": "Vivid",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "Utsu-P, Yuyoyuppe",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1878
+    },
+    {
+      "id": "EVT-0074-01879",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0258",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1875,
+      "sourceNumber": "15",
+      "performedTitle": "ハイパーリアリティショウ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "鬱P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1879
+    },
+    {
+      "id": "EVT-0074-01880",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0049",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1876,
+      "sourceNumber": "16",
+      "performedTitle": "Gimme×Gimme",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン",
+      "producer": "八王子P×Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1880
+    },
+    {
+      "id": "EVT-0074-01881",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0164",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1877,
+      "sourceNumber": "17",
+      "performedTitle": "アンノウン・マザーグース",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1881
+    },
+    {
+      "id": "EVT-0074-01882",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0081",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1878,
+      "sourceNumber": "18",
+      "performedTitle": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "SAWTOWNE, Sena Kiryuin",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1882
+    },
+    {
+      "id": "EVT-0074-01883",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0133",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1879,
+      "sourceNumber": "19",
+      "performedTitle": "Tell Your World",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1883
+    },
+    {
+      "id": "EVT-0074-01884",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0306",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1880,
+      "sourceNumber": "20",
+      "performedTitle": "メルト",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1884
+    },
+    {
+      "id": "EVT-0074-01885",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0064",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1881,
+      "sourceNumber": "21",
+      "performedTitle": "Intergalactic Bound",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "雄之助×CircusP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1885
+    },
+    {
+      "id": "EVT-0074-01886",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0062",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1882,
+      "sourceNumber": "22",
+      "performedTitle": "imaginary love story",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Synthion",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1886
+    },
+    {
+      "id": "EVT-0074-01887",
+      "eventId": "EVT-0074",
+      "songId": "SONG-0060",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1883,
+      "sourceNumber": "23",
+      "performedTitle": "Highlight",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "KIRA",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2024_EUROPE",
+      "notes": null,
+      "sourceRow": 1887
+    }
+  ]
+}

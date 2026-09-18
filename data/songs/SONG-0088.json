@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0088",
+  "title": "Miku (Mino Mino Remix)",
+  "englishTitle": "Miku (Mino Mino Remix)",
+  "vocalsText": "none",
+  "producer": "Anamanaguchi",
+  "appearanceCount": 1,
+  "sourceRow": 84,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0033"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2017-12-16",
+  "lastDate": "2017-12-16",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

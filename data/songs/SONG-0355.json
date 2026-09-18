@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0355",
+  "title": "孤独の果て",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン",
+  "producer": "光収容",
+  "appearanceCount": 4,
+  "sourceRow": 340,
+  "actualAppearanceCount": 4,
+  "eventIds": [
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0204-D",
+    "EVT-0204-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-002"
+  ],
+  "firstDate": "2012-03-09",
+  "lastDate": "2017-09-03",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

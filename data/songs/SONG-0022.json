@@ -1,0 +1,55 @@
+{
+  "id": "SONG-0022",
+  "title": "Can't Make A Song!!",
+  "englishTitle": "Can't Make a Song",
+  "vocalsText": "初音ミク",
+  "producer": "beat_shobon",
+  "appearanceCount": 15,
+  "sourceRow": 23,
+  "actualAppearanceCount": 15,
+  "eventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040",
+    "EVT-0054",
+    "EVT-0056",
+    "EVT-0059",
+    "EVT-0061",
+    "EVT-0073",
+    "EVT-0076",
+    "EVT-0079",
+    "EVT-0082"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2018-06-29",
+  "lastDate": "2024-11-26",
+  "soloAppearanceCount": 15,
+  "soloEventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040",
+    "EVT-0054",
+    "EVT-0056",
+    "EVT-0059",
+    "EVT-0061",
+    "EVT-0073",
+    "EVT-0076",
+    "EVT-0079",
+    "EVT-0082"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2018-06-29",
+  "soloLastDate": "2024-11-26"
+}

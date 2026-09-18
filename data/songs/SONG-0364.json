@@ -1,0 +1,23 @@
+{
+  "id": "SONG-0364",
+  "title": "桜日和とタイムマシン",
+  "englishTitle": null,
+  "vocalsText": "Ado/初音ミク",
+  "producer": "まふまふ",
+  "appearanceCount": 1,
+  "sourceRow": 349,
+  "actualAppearanceCount": 1,
+  "eventIds": [
+    "EVT-0230"
+  ],
+  "seriesIds": [
+    "SER-004"
+  ],
+  "firstDate": "2024-04-27",
+  "lastDate": "2024-04-27",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SONG-0139",
+  "title": "TODAY THE FUTURE",
+  "englishTitle": "TODAY THE FUTURE",
+  "vocalsText": "初音ミク",
+  "producer": "針原翼(はりーP)",
+  "appearanceCount": 13,
+  "sourceRow": 134,
+  "actualAppearanceCount": 13,
+  "eventIds": [
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N"
+  ],
+  "seriesIds": [
+    "SER-005"
+  ],
+  "firstDate": "2017-09-01",
+  "lastDate": "2018-09-02",
+  "soloAppearanceCount": 13,
+  "soloEventIds": [
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N",
+    "EVT-0131-D",
+    "EVT-0131-N",
+    "EVT-0132-D",
+    "EVT-0132-N",
+    "EVT-0134-D",
+    "EVT-0134-N",
+    "EVT-0135-D",
+    "EVT-0135-N"
+  ],
+  "soloSeriesIds": [
+    "SER-005"
+  ],
+  "soloFirstDate": "2017-09-01",
+  "soloLastDate": "2018-09-02"
+}

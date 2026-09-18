@@ -1,0 +1,31 @@
+{
+  "id": "SONG-0443",
+  "title": "蜂の風",
+  "englishTitle": null,
+  "vocalsText": "初音ミク",
+  "producer": "愛知民謡（編曲：鼓童）",
+  "appearanceCount": 3,
+  "sourceRow": 426,
+  "actualAppearanceCount": 3,
+  "eventIds": [
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N"
+  ],
+  "seriesIds": [
+    "SER-008"
+  ],
+  "firstDate": "2017-03-04",
+  "lastDate": "2017-03-05",
+  "soloAppearanceCount": 3,
+  "soloEventIds": [
+    "EVT-0214",
+    "EVT-0214-20170305-D",
+    "EVT-0214-20170305-N"
+  ],
+  "soloSeriesIds": [
+    "SER-008"
+  ],
+  "soloFirstDate": "2017-03-04",
+  "soloLastDate": "2017-03-05"
+}

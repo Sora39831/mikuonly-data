@@ -1,0 +1,41 @@
+{
+  "id": "SONG-0089",
+  "title": "MikuFiesta",
+  "englishTitle": "MikuFiesta",
+  "vocalsText": "初音ミク",
+  "producer": "AlexTrip Sands",
+  "appearanceCount": 8,
+  "sourceRow": 85,
+  "actualAppearanceCount": 8,
+  "eventIds": [
+    "EVT-0046",
+    "EVT-0047",
+    "EVT-0048",
+    "EVT-0049",
+    "EVT-0050",
+    "EVT-0074",
+    "EVT-0077",
+    "EVT-0080"
+  ],
+  "seriesIds": [
+    "SER-006"
+  ],
+  "firstDate": "2020-01-11",
+  "lastDate": "2024-11-20",
+  "soloAppearanceCount": 8,
+  "soloEventIds": [
+    "EVT-0046",
+    "EVT-0047",
+    "EVT-0048",
+    "EVT-0049",
+    "EVT-0050",
+    "EVT-0074",
+    "EVT-0077",
+    "EVT-0080"
+  ],
+  "soloSeriesIds": [
+    "SER-006"
+  ],
+  "soloFirstDate": "2020-01-11",
+  "soloLastDate": "2024-11-20"
+}

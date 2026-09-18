@@ -1,0 +1,51 @@
+{
+  "id": "SONG-0097",
+  "title": "Nyanyanyanyanyanyanya!",
+  "englishTitle": "Nyanyanyanyanyanyanya!",
+  "vocalsText": "初音ミク",
+  "producer": "daniwellP",
+  "appearanceCount": 12,
+  "sourceRow": 93,
+  "actualAppearanceCount": 12,
+  "eventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040",
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N"
+  ],
+  "seriesIds": [
+    "SER-006",
+    "SER-005"
+  ],
+  "firstDate": "2017-09-01",
+  "lastDate": "2018-07-19",
+  "soloAppearanceCount": 12,
+  "soloEventIds": [
+    "EVT-0034",
+    "EVT-0035",
+    "EVT-0036",
+    "EVT-0037",
+    "EVT-0038",
+    "EVT-0039",
+    "EVT-0040",
+    "EVT-0128-N",
+    "EVT-0129-D",
+    "EVT-0129-N",
+    "EVT-0130-D",
+    "EVT-0130-N"
+  ],
+  "soloSeriesIds": [
+    "SER-006",
+    "SER-005"
+  ],
+  "soloFirstDate": "2017-09-01",
+  "soloLastDate": "2018-07-19"
+}

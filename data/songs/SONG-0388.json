@@ -1,0 +1,28 @@
+{
+  "id": "SONG-0388",
+  "title": "聖槍爆裂ボーイ",
+  "englishTitle": null,
+  "vocalsText": "鏡音レン",
+  "producer": "れるりり",
+  "appearanceCount": 5,
+  "sourceRow": 373,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0123-N",
+    "EVT-0124-D",
+    "EVT-0124-N",
+    "EVT-0225-20230318-D",
+    "EVT-0225-20230318-N"
+  ],
+  "seriesIds": [
+    "SER-005",
+    "SER-009"
+  ],
+  "firstDate": "2015-09-04",
+  "lastDate": "2023-03-18",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}

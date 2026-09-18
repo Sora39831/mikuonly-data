@@ -1,0 +1,11 @@
+{
+  "id": "VEN-0017",
+  "name": "Auditorio Banamex",
+  "city": "Monterrey",
+  "countryRegion": "Mexico",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "要確認",
+  "sourceRow": 20
+}

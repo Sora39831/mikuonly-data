@@ -1,0 +1,27 @@
+{
+  "id": "SONG-0340",
+  "title": "悪ノ召使",
+  "englishTitle": null,
+  "vocalsText": "鏡音リン/鏡音レン",
+  "producer": "悪ノP",
+  "appearanceCount": 5,
+  "sourceRow": 326,
+  "actualAppearanceCount": 5,
+  "eventIds": [
+    "EVT-0199",
+    "EVT-0201-20110816",
+    "EVT-0201-20110817",
+    "EVT-0203-D",
+    "EVT-0203-N"
+  ],
+  "seriesIds": [
+    "SER-003"
+  ],
+  "firstDate": "2011-03-09",
+  "lastDate": "2012-03-08",
+  "soloAppearanceCount": 0,
+  "soloEventIds": [],
+  "soloSeriesIds": [],
+  "soloFirstDate": null,
+  "soloLastDate": null
+}
