@@ -1,35 +1,49 @@
-name: Setlist / data correction
-description: Report an incorrect setlist, vocalist, date, venue, song, or other public catalog value.
+name: Setlist / data correction | 歌单・数据修正 | セットリスト・データ修正
+description: Report incorrect public catalog data / 报告公开数据错误 / 公開 Catalog の誤りを報告
 title: "[Data] "
 labels: ["data-correction"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        请尽量提供可验证的来源，不要根据其他场次推测未知数据。
+        確認可能な出典をできるだけ提示し、別公演から未確認データを推測しないでください。
+        Please provide a verifiable source whenever possible. Do not infer unknown data from another performance.
+
   - type: input
     id: event
     attributes:
-      label: Event / 公演
-      description: Event name, date, or event_id.
+      label: 公演 / Event
+      description: 公演名、日期或 event_id / 公演名・日付・event_id / Event name, date, or event_id.
     validations:
       required: true
+
   - type: textarea
     id: current
     attributes:
-      label: Current data / 現在のデータ
+      label: 当前数据 / 現在のデータ / Current data
+      description: 请写明目前仓库或网站中显示的内容 / 現在表示されている内容 / What is currently shown.
     validations:
       required: true
+
   - type: textarea
     id: expected
     attributes:
-      label: Proposed correction / 正しいと思われる内容
+      label: 建议修正 / 修正案 / Proposed correction
+      description: 请写明你认为正确的内容 / 正しいと思われる内容 / What you believe the correct data should be.
     validations:
       required: true
+
   - type: textarea
     id: source
     attributes:
-      label: Source / 出典
-      description: URL, official material, video, ticket, or other evidence. Do not infer from another performance.
+      label: 来源 / 出典 / Source
+      description: URL、官方资料、影像、票券或其他证据 / URL・公式資料・映像・チケット等 / URL, official material, video, ticket, or other evidence.
     validations:
       required: true
+
   - type: textarea
     id: notes
     attributes:
-      label: Notes
+      label: 补充说明 / 補足 / Notes
+      description: 其他有助于确认的信息 / その他確認に役立つ情報 / Any additional context that may help verification.
