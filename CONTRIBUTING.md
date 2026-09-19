@@ -1,30 +1,133 @@
-# Contributing
+# Contributing to MikuOnly Data
 
-MikuOnly のデータ修正に協力していただきありがとうございます。
+**中文 | [日本語](#日本語) | [English](#english)**
 
-## 基本ルール
+感谢你帮助维护 MikuOnly 的公开演唱会与歌单数据。  
+MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**的数据。
 
-1. 1つの PR は、できるだけ1つの公演または1つの論点に絞ってください。
-2. セットリスト、曲順、歌唱者、開催日などの変更には出典を付けてください。
-3. 別公演のセットリストから「たぶん同じ」と推測して埋めないでください。不明は不明のまま残します。
-4. 既存の `event id`、`song id`、`setlist item id` は、誤り訂正のために並び順が変わっても変更しないでください。
-5. `dist/catalog.json` は直接編集しません。編集するのは `data/` 以下です。
+## 中文
 
-## Pull Request の流れ
+### 基本规则
+
+1. 每个 Pull Request 尽量只处理一个公演、一个数据组或一个明确的问题。
+2. 修改歌单、曲序、演唱者、举办日期、会场等事实数据时，请附上来源。
+3. 不要因为“同一巡演其他场次是这样”就推测当前场次。无法确认的数据请保持未知。
+4. 已存在的 `event id`、`song id`、`setlist item id` 属于稳定 ID。即使纠错导致排序变化，也不要无必要修改这些 ID。
+5. 请只修改 `data/` 下的源数据，不要手工编辑 `dist/catalog.json`。
+
+### Pull Request 流程
+
+1. Fork 本仓库
+2. 创建工作分支
+3. 修改 `data/` 中对应数据
+4. 运行 `npm run check`
+5. 在 PR 模板中写明修改内容和 Source / 出典
+6. CI 通过后等待 review
+
+管理员会对修改进行 review，必要时会提出 Request changes。  
+即使 PR 已经 merge，正式发布前仍会在 MikuOnly 侧经过 draft / validation / publish 流程。
+
+### 关于删除
+
+已公开的公演、歌曲或会场记录不会因为社区同步而自动删除。  
+如果确实需要删除错误记录，请创建 Issue，并说明删除理由及相关来源。
+
+### 推荐的来源
+
+优先使用：
+
+- 官方网站或官方公告
+- 官方 SNS
+- Blu-ray / DVD 官方曲目
+- 官方直播、配信或影像
+- 可信的现场记录
+
+如果资料没有公开 URL，请在 PR / Issue 中说明资料类型以及你确认信息的位置。
+
+---
+
+## 日本語
+
+MikuOnly の公開ライブ・セットリストデータの維持に協力していただきありがとうございます。  
+MikuOnly Data では、**確認可能・追跡可能で、推測に頼らないデータ**を重視しています。
+
+### 基本ルール
+
+1. 1つの Pull Request は、できるだけ1つの公演・1つのデータ群・1つの論点に絞ってください。
+2. セットリスト、曲順、歌唱者、開催日、会場などの事実データを変更する場合は出典を付けてください。
+3. 「同じツアーの別公演も同じだった」という理由だけで推測して埋めないでください。確認できないものは不明のまま残します。
+4. 既存の `event id`、`song id`、`setlist item id` は stable ID です。誤り訂正によって並び順が変わる場合でも、不要に変更しないでください。
+5. 編集対象は `data/` 以下です。`dist/catalog.json` は直接編集しません。
+
+### Pull Request の流れ
 
 1. この repository を Fork
 2. 作業 branch を作成
 3. `data/` を修正
 4. `npm run check` を実行
-5. PR template に変更理由と Source を記入
+5. PR template に変更内容と Source / 出典を記入
 6. CI が通った状態で review を待つ
 
-管理者が review し、必要なら Request changes を返します。merge 後も本番反映前に MikuOnly 側で別途 draft / validation / publish を行います。
+管理者が review し、必要であれば Request changes を返します。  
+merge 後も、本番公開前に MikuOnly 側で draft / validation / publish を行います。
 
-## 削除について
+### 削除について
 
-公開済みの公演・楽曲・会場そのものの削除は、コミュニティ同期では自動適用されません。誤登録の削除が必要な場合は Issue で理由と出典を提示してください。
+公開済みの公演・楽曲・会場レコードは、コミュニティ同期だけでは自動削除されません。  
+誤登録の削除が必要な場合は Issue を作成し、削除理由と出典を提示してください。
 
-## Source examples
+### 推奨する出典
 
-公式サイト、公式 SNS、Blu-ray/DVD の曲目、公式配信・映像、信頼できる現地記録などを優先します。URL がない資料の場合は、PR/Issue に資料の種類と確認箇所を説明してください。
+優先するもの：
+
+- 公式サイト・公式告知
+- 公式 SNS
+- Blu-ray / DVD の公式曲目
+- 公式配信・映像
+- 信頼できる現地記録
+
+URL がない資料の場合は、PR / Issue に資料の種類と確認箇所を説明してください。
+
+---
+
+## English
+
+Thank you for helping maintain MikuOnly's public live-event and setlist data.  
+MikuOnly Data prioritizes information that is **verifiable, traceable, and not based on unsupported assumptions**.
+
+### Basic rules
+
+1. Keep each Pull Request focused on one performance, one related data set, or one clearly defined issue whenever possible.
+2. Provide a source when changing factual data such as setlists, song order, performers, dates, or venues.
+3. Do not fill unknown values simply because another performance in the same tour used the same data. Leave unverifiable information unknown.
+4. Existing `event id`, `song id`, and `setlist item id` values are stable IDs. Do not change them unnecessarily, even when a correction changes ordering.
+5. Edit source data under `data/`. Do not manually edit `dist/catalog.json`.
+
+### Pull Request workflow
+
+1. Fork this repository
+2. Create a working branch
+3. Edit the relevant files under `data/`
+4. Run `npm run check`
+5. Describe the change and its Source in the PR template
+6. Wait for review after CI passes
+
+A maintainer will review the change and may request additional changes.  
+After merge, the data still goes through MikuOnly's separate draft / validation / publish workflow before reaching production.
+
+### Deletions
+
+Published event, song, or venue records are not automatically deleted through community synchronization.  
+If an incorrect record should be removed, open an Issue and explain the reason with supporting sources.
+
+### Preferred sources
+
+Prefer sources such as:
+
+- official websites or announcements
+- official social-media accounts
+- official Blu-ray / DVD track lists
+- official streams or video releases
+- reliable on-site records
+
+If the source does not have a public URL, describe the type of material and where the relevant information can be verified in the PR / Issue.
