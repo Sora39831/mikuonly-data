@@ -1,0 +1,532 @@
+{
+  "eventId": "EVT-D52B81F3D76D4D81B01C",
+  "tracks": [
+    {
+      "id": "ESI-ED3CA59C6D8B43A4A5B9",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0296",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1,
+      "sourceNumber": "01",
+      "performedTitle": "みくみくにしてあげる♪",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ika",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": "統合前表記：みくみくにしてあげる♪ (Miku Miku ni Shite Ageru♪)",
+      "sourceRow": 1161
+    },
+    {
+      "id": "ESI-835510DABFD1421390EA",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0269",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 2,
+      "sourceNumber": "02",
+      "performedTitle": "ビバハピ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Mitchie M",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1162
+    },
+    {
+      "id": "ESI-ACC2E7937D24483F8CC6",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0164",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 3,
+      "sourceNumber": "03",
+      "performedTitle": "アンノウン・マザーグース",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1163
+    },
+    {
+      "id": "ESI-33117889A232405AAB56",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0195",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 4,
+      "sourceNumber": "04",
+      "performedTitle": "キレキャリオン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ポリスピカデリー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1164
+    },
+    {
+      "id": "ESI-7A93AF5369A5495F9517",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0117",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5,
+      "sourceNumber": "05",
+      "performedTitle": "Sharing The World",
+      "englishTitle": "Sharing The World",
+      "vocalsText": "初音ミク",
+      "producer": "BIGHEAD",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1165
+    },
+    {
+      "id": "ESI-562BECBBDE94433DAA1E",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0103",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6,
+      "sourceNumber": "06",
+      "performedTitle": "Pane dhiria",
+      "englishTitle": "Pane dhiria",
+      "vocalsText": "KAITO",
+      "producer": "新城P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1166
+    },
+    {
+      "id": "ESI-01F402879ED54C74AC1F",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0095",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 7,
+      "sourceNumber": "07",
+      "performedTitle": "Nostalogic",
+      "englishTitle": "Nostalogic",
+      "vocalsText": "MEIKO",
+      "producer": "yuukiss",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1167
+    },
+    {
+      "id": "ESI-F0665D8E07884694B6A0",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0397",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8,
+      "sourceNumber": "08",
+      "performedTitle": "脱法ロック",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "Neru",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1168
+    },
+    {
+      "id": "ESI-DEDEA40B150D4A0EAE2A",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0216",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9,
+      "sourceNumber": "09",
+      "performedTitle": "スイートマジック",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1169
+    },
+    {
+      "id": "ESI-FB1C9DB5C8654307B32A",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0008",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 10,
+      "sourceNumber": "10",
+      "performedTitle": "8HIT",
+      "englishTitle": "8HIT",
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "じーざす(ワンダフル☆オポチュニティ！)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1170
+    },
+    {
+      "id": "ESI-8F683F69981C4D489303",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0432",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 11,
+      "sourceNumber": "11",
+      "performedTitle": "劣等上等",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1171
+    },
+    {
+      "id": "ESI-95E974D530874C6F8DC9",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0031",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 12,
+      "sourceNumber": "12",
+      "performedTitle": "Cybernetic",
+      "englishTitle": "Cybernetic",
+      "vocalsText": "初音ミク",
+      "producer": "雄之助×Circus-P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1172
+    },
+    {
+      "id": "ESI-875D7209F45640988996",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0146",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 13,
+      "sourceNumber": "13",
+      "performedTitle": "Yellow",
+      "englishTitle": "Yellow",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1173
+    },
+    {
+      "id": "ESI-8D887E67D6BE407B92D9",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0251",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 14,
+      "sourceNumber": "14",
+      "performedTitle": "ドリームレス・ドリームス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "はるまきごはん",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1174
+    },
+    {
+      "id": "ESI-E5014DD3A54D404D851F",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0323",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 15,
+      "sourceNumber": "15",
+      "performedTitle": "ルカルカ★ナイトフィーバー",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "samfree",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": "v7統合前表記：ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)",
+      "sourceRow": 1175
+    },
+    {
+      "id": "ESI-962AD75B5EC34EDFAAC2",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0057",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 16,
+      "sourceNumber": "16",
+      "performedTitle": "Hello, Worker",
+      "englishTitle": "Hello, Worker",
+      "vocalsText": "巡音ルカ",
+      "producer": "KEI",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1176
+    },
+    {
+      "id": "ESI-2D82C01FFB874148B07F",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0093",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 17,
+      "sourceNumber": "17",
+      "performedTitle": "Never Die",
+      "englishTitle": "Never Die",
+      "vocalsText": "巡音ルカ",
+      "producer": "ゆよゆっぺ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1177
+    },
+    {
+      "id": "ESI-0BAC14F401734FC29E9A",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0087",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 18,
+      "sourceNumber": "18",
+      "performedTitle": "Miku",
+      "englishTitle": "Miku",
+      "vocalsText": "初音ミク",
+      "producer": "Anamanaguchi",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1178
+    },
+    {
+      "id": "ESI-0E3827D65D1C41DAB0B7",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0018",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 19,
+      "sourceNumber": "19",
+      "performedTitle": "Blue Star",
+      "englishTitle": "Blue Star",
+      "vocalsText": "初音ミク",
+      "producer": "八王子P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1179
+    },
+    {
+      "id": "ESI-B24F25675CFC4AF29B82",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0332",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 20,
+      "sourceNumber": "20",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1180
+    },
+    {
+      "id": "ESI-A24096C7E0BB4320B7B5",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0098",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 21,
+      "sourceNumber": "21",
+      "performedTitle": "ODDS&ENDS",
+      "englishTitle": "ODDS&ENDS",
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1181
+    },
+    {
+      "id": "ESI-C5ED6467C10E4E2EAC1D",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0315",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 22,
+      "sourceNumber": "22",
+      "performedTitle": "ラッキー☆オーブ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "emon(Tes.)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": "v7統合前表記：ラッキー☆オーブ (Lucky☆Orb)",
+      "sourceRow": 1182
+    },
+    {
+      "id": "ESI-7B394ADAD41D46018669",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0034",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 23,
+      "sourceNumber": "23",
+      "performedTitle": "Decade",
+      "englishTitle": "Decade",
+      "vocalsText": "初音ミク",
+      "producer": "Dixie Flatline",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1183
+    },
+    {
+      "id": "ESI-E39563E4DED74A6C9331",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0419",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 24,
+      "sourceNumber": "24",
+      "performedTitle": "魔法みたいなミュージック！",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "OSTER project",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1184
+    },
+    {
+      "id": "ESI-65EBD3D03C9248F08728",
+      "eventId": "EVT-D52B81F3D76D4D81B01C",
+      "songId": "SONG-0133",
+      "sequence": 25,
+      "sequenceStatus": "確認済み",
+      "importOrder": 25,
+      "sourceNumber": "25",
+      "performedTitle": "Tell Your World",
+      "englishTitle": "Tell Your World",
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2019_Taiwan_&_Hong_Kong",
+      "notes": null,
+      "sourceRow": 1185
+    }
+  ]
+}
