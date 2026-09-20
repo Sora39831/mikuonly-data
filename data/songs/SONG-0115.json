@@ -155,5 +155,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "en": {
+      "title": "Satisfaction"
+    }
+  }
 }

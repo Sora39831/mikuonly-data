@@ -143,5 +143,10 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "en": {
+      "title": "Last Night, Good Night"
+    }
+  }
 }

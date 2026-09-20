@@ -29,5 +29,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2016-09-11"
+  "soloLastDate": "2016-09-11",
+  "i18n": {
+    "en": {
+      "title": "ray"
+    }
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "SER-005",
+  "slug": "マジカルミライ",
+  "name": "マジカルミライ",
+  "i18n": {
+    "ja": {
+      "name": "マジカルミライ"
+    },
+    "zh": {
+      "name": "MAGICAL MIRAI"
+    },
+    "en": {
+      "name": "Magical Mirai"
+    }
+  }
+}

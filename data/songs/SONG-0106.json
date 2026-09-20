@@ -95,5 +95,10 @@
     "SER-004"
   ],
   "soloFirstDate": "2018-10-13",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "en": {
+      "title": "Pick Me Up"
+    }
+  }
 }

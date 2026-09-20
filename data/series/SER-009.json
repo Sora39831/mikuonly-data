@@ -1,0 +1,16 @@
+{
+  "id": "SER-009",
+  "slug": "japan-tour",
+  "name": "JAPAN TOUR",
+  "i18n": {
+    "ja": {
+      "name": "JAPAN TOUR"
+    },
+    "zh": {
+      "name": "JAPAN TOUR"
+    },
+    "en": {
+      "name": "JAPAN TOUR"
+    }
+  }
+}

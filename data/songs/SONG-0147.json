@@ -47,5 +47,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2020-12-20"
+  "soloLastDate": "2020-12-20",
+  "i18n": {
+    "en": {
+      "title": "YY"
+    }
+  }
 }

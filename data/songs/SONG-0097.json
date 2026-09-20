@@ -47,5 +47,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2018-07-19"
+  "soloLastDate": "2018-07-19",
+  "i18n": {
+    "en": {
+      "title": "Nyanyanyanyanyanyanya!"
+    }
+  }
 }

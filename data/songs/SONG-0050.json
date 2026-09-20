@@ -103,5 +103,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2014-10-11",
-  "soloLastDate": "2019-02-06"
+  "soloLastDate": "2019-02-06",
+  "i18n": {
+    "en": {
+      "title": "Glass Wall"
+    }
+  }
 }

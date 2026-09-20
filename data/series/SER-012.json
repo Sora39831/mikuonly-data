@@ -1,0 +1,16 @@
+{
+  "id": "SER-012",
+  "slug": "ポケモン-feat-初音ミク",
+  "name": "ポケモン feat. 初音ミク",
+  "i18n": {
+    "ja": {
+      "name": "ポケモン feat. 初音ミク"
+    },
+    "zh": {
+      "name": "宝可梦 feat. 初音未来"
+    },
+    "en": {
+      "name": "Pokémon feat. Hatsune Miku"
+    }
+  }
+}

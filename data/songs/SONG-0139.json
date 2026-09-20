@@ -47,5 +47,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2018-09-02"
+  "soloLastDate": "2018-09-02",
+  "i18n": {
+    "en": {
+      "title": "TODAY THE FUTURE"
+    }
+  }
 }

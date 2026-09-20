@@ -13,9 +13,10 @@
 
 - `data/events/<event_id>.json` — 演唱会 / 场次信息
 - `data/setlists/<event_id>.json` — 对应场次的歌单
-- `data/songs/<song_id>.json` — 歌曲主数据
+- `data/songs/<song_id>.json` — 歌曲主数据与可选 `ja` / `zh` / `en` 显示名称
+- `data/series/<series_id>.json` — 演出系列主数据与三语显示名称
 - `data/venues/<venue_id>.json` — 会场主数据
-- `data/meta.json` — 系列、演唱者、兼容信息等
+- `data/meta.json` — Schema 版本、演唱者、兼容信息等
 - `dist/catalog.json` — 自动生成文件，请勿直接编辑
 
 ### 如何参与修改
@@ -32,6 +33,8 @@
 ```bash
 npm run check
 ```
+
+Schema v2 使用**一套稳定 ID + 一套事实数据 + 可选三语显示字段**，不会维护三份独立 Catalog。缺少翻译时网站会回退到原始名称。普通歌单曲名由 `songId` 对应的歌曲翻译统一显示，不要在每个场次重复维护同一首歌的翻译。
 
 更详细的规则请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
@@ -54,9 +57,10 @@ MikuOnly 管理端会从指定 commit 导入数据为新的 draft，重新进行
 
 - `data/events/<event_id>.json` — 公演情報
 - `data/setlists/<event_id>.json` — その公演のセットリスト
-- `data/songs/<song_id>.json` — 楽曲マスタ
+- `data/songs/<song_id>.json` — 楽曲マスタと任意の `ja` / `zh` / `en` 表示名
+- `data/series/<series_id>.json` — ライブシリーズのマスタと3言語表示名
 - `data/venues/<venue_id>.json` — 会場マスタ
-- `data/meta.json` — シリーズ、歌唱者、互換情報など
+- `data/meta.json` — Schema version、歌唱者、互換情報など
 - `dist/catalog.json` — 自動生成物。直接編集しないでください
 
 ### 修正に参加する
@@ -73,6 +77,8 @@ Git を使わない場合は、Issues の **Setlist / data correction** template
 ```bash
 npm run check
 ```
+
+Schema v2 は**1組の stable ID + 1組の事実データ + 任意の3言語表示フィールド**で構成します。翻訳がない場合は canonical / original 名へ fallback します。通常のセットリスト曲名は `songId` の楽曲翻訳から表示するため、各公演に同じ翻訳を重複登録しないでください。
 
 詳細なルールは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
 
@@ -95,9 +101,10 @@ Community contributions are welcome for adding, correcting, and verifying public
 
 - `data/events/<event_id>.json` — event / performance information
 - `data/setlists/<event_id>.json` — setlist for a performance
-- `data/songs/<song_id>.json` — song master data
+- `data/songs/<song_id>.json` — song master data with optional `ja` / `zh` / `en` display titles
+- `data/series/<series_id>.json` — live-series master data with localized display names
 - `data/venues/<venue_id>.json` — venue master data
-- `data/meta.json` — series, performers, compatibility metadata, etc.
+- `data/meta.json` — schema version, performers, compatibility metadata, etc.
 - `dist/catalog.json` — generated output; do not edit it manually
 
 ### Contributing corrections
@@ -114,6 +121,8 @@ Local validation:
 ```bash
 npm run check
 ```
+
+Schema v2 uses **one stable-ID graph + one factual catalog + optional localized display fields**, not three independent catalogs. Missing translations fall back to the canonical/original value. Normal setlist song names are localized through their `songId`, so the same translation should not be duplicated across performances.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution rules.
 

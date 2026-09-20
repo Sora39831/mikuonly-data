@@ -12,7 +12,7 @@ MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**�
 1. 每个 Pull Request 尽量只处理一个公演、一个数据组或一个明确的问题。
 2. 修改歌单、曲序、演唱者、举办日期、会场等事实数据时，请附上来源。
 3. 不要因为“同一巡演其他场次是这样”就推测当前场次。无法确认的数据请保持未知。
-4. 已存在的 `event id`、`song id`、`setlist item id` 属于稳定 ID。即使纠错导致排序变化，也不要无必要修改这些 ID。
+4. 已存在的 `event id`、`song id`、`series id`、`setlist item id` 属于稳定 ID。即使纠错导致排序变化，也不要无必要修改这些 ID。
 5. 请只修改 `data/` 下的源数据，不要手工编辑 `dist/catalog.json`。
 
 ### Pull Request 流程
@@ -26,6 +26,10 @@ MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**�
 
 管理员会对修改进行 review，必要时会提出 Request changes。  
 即使 PR 已经 merge，正式发布前仍会在 MikuOnly 侧经过 draft / validation / publish 流程。
+
+### 三语显示字段（Schema v2）
+
+`data/songs/` 与 `data/series/` 可通过 `i18n.ja`、`i18n.zh`、`i18n.en` 维护显示名称。原始 `title` / `name` 是 canonical 值，不要为了翻译而覆盖它。翻译可不完整，缺失时网站会回退到 canonical 值。普通歌单曲名从 `songId` 对应的歌曲翻译取得；仅特殊演奏版本继续由 `performedTitle` 保留版本差异。
 
 ### 关于删除
 
@@ -56,7 +60,7 @@ MikuOnly Data では、**確認可能・追跡可能で、推測に頼らない�
 1. 1つの Pull Request は、できるだけ1つの公演・1つのデータ群・1つの論点に絞ってください。
 2. セットリスト、曲順、歌唱者、開催日、会場などの事実データを変更する場合は出典を付けてください。
 3. 「同じツアーの別公演も同じだった」という理由だけで推測して埋めないでください。確認できないものは不明のまま残します。
-4. 既存の `event id`、`song id`、`setlist item id` は stable ID です。誤り訂正によって並び順が変わる場合でも、不要に変更しないでください。
+4. 既存の `event id`、`song id`、`series id`、`setlist item id` は stable ID です。誤り訂正によって並び順が変わる場合でも、不要に変更しないでください。
 5. 編集対象は `data/` 以下です。`dist/catalog.json` は直接編集しません。
 
 ### Pull Request の流れ
@@ -70,6 +74,10 @@ MikuOnly Data では、**確認可能・追跡可能で、推測に頼らない�
 
 管理者が review し、必要であれば Request changes を返します。  
 merge 後も、本番公開前に MikuOnly 側で draft / validation / publish を行います。
+
+### 3言語表示フィールド（Schema v2）
+
+`data/songs/` と `data/series/` では `i18n.ja`、`i18n.zh`、`i18n.en` に表示名を追加できます。元の `title` / `name` は canonical 値なので、翻訳目的で上書きしません。翻訳は未完成でもよく、欠けている言語は canonical 値へ fallback します。通常のセットリスト曲名は `songId` の楽曲翻訳を使い、特殊な演奏版だけ `performedTitle` で版差分を保持します。
 
 ### 削除について
 
@@ -100,7 +108,7 @@ MikuOnly Data prioritizes information that is **verifiable, traceable, and not b
 1. Keep each Pull Request focused on one performance, one related data set, or one clearly defined issue whenever possible.
 2. Provide a source when changing factual data such as setlists, song order, performers, dates, or venues.
 3. Do not fill unknown values simply because another performance in the same tour used the same data. Leave unverifiable information unknown.
-4. Existing `event id`, `song id`, and `setlist item id` values are stable IDs. Do not change them unnecessarily, even when a correction changes ordering.
+4. Existing `event id`, `song id`, `series id`, and `setlist item id` values are stable IDs. Do not change them unnecessarily, even when a correction changes ordering.
 5. Edit source data under `data/`. Do not manually edit `dist/catalog.json`.
 
 ### Pull Request workflow
@@ -114,6 +122,10 @@ MikuOnly Data prioritizes information that is **verifiable, traceable, and not b
 
 A maintainer will review the change and may request additional changes.  
 After merge, the data still goes through MikuOnly's separate draft / validation / publish workflow before reaching production.
+
+### Localized display fields (Schema v2)
+
+Files under `data/songs/` and `data/series/` may provide display strings in `i18n.ja`, `i18n.zh`, and `i18n.en`. The original `title` / `name` remains the canonical value and should not be overwritten merely to translate it. Translations may be incomplete; missing values fall back to canonical data. Normal setlist titles resolve through the referenced `songId`; only performance-specific versions should retain distinct `performedTitle` values.
 
 ### Deletions
 

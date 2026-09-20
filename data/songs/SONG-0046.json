@@ -39,5 +39,10 @@
     "SER-004"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "en": {
+      "title": "FREELY TOMORROW"
+    }
+  }
 }

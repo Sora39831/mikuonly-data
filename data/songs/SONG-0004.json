@@ -235,5 +235,10 @@
     "SER-008"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "en": {
+      "title": "39"
+    }
+  }
 }

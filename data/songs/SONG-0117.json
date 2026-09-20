@@ -93,5 +93,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2014-10-11",
-  "soloLastDate": "2020-01-28"
+  "soloLastDate": "2020-01-28",
+  "i18n": {
+    "en": {
+      "title": "Sharing The World"
+    }
+  }
 }

@@ -141,5 +141,10 @@
     "SER-004"
   ],
   "soloFirstDate": "2016-03-23",
-  "soloLastDate": "2024-11-22"
+  "soloLastDate": "2024-11-22",
+  "i18n": {
+    "en": {
+      "title": "Ten Thousand Stars"
+    }
+  }
 }

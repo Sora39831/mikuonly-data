@@ -1,72 +1,10 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "catalogMeta": {
-    "updatedAt": "2026-09-19",
-    "version": "v24",
+    "updatedAt": "2026-09-20",
+    "version": "v25",
     "sourceFile": "mikuonly-data"
   },
-  "series": [
-    {
-      "id": "SER-001",
-      "slug": "miku-fes",
-      "name": "MIKU FES"
-    },
-    {
-      "id": "SER-002",
-      "slug": "ミクの日感謝祭",
-      "name": "ミクの日感謝祭"
-    },
-    {
-      "id": "SER-003",
-      "slug": "ミクパ",
-      "name": "ミクパ♪"
-    },
-    {
-      "id": "SER-004",
-      "slug": "その他公式ライブ-出演",
-      "name": "その他公式ライブ／出演"
-    },
-    {
-      "id": "SER-005",
-      "slug": "マジカルミライ",
-      "name": "マジカルミライ"
-    },
-    {
-      "id": "SER-006",
-      "slug": "miku-expo",
-      "name": "MIKU EXPO"
-    },
-    {
-      "id": "SER-007",
-      "slug": "snow-miku-live",
-      "name": "SNOW MIKU LIVE!"
-    },
-    {
-      "id": "SER-008",
-      "slug": "初音ミク-鼓童",
-      "name": "初音ミク×鼓童"
-    },
-    {
-      "id": "SER-009",
-      "slug": "japan-tour",
-      "name": "JAPAN TOUR"
-    },
-    {
-      "id": "SER-010",
-      "slug": "miku-with-you",
-      "name": "MIKU WITH YOU"
-    },
-    {
-      "id": "SER-011",
-      "slug": "デコミク-live",
-      "name": "デコミク LIVE"
-    },
-    {
-      "id": "SER-012",
-      "slug": "ポケモン-feat-初音ミク",
-      "name": "ポケモン feat. 初音ミク"
-    }
-  ],
   "performers": [
     {
       "id": "PER-01",

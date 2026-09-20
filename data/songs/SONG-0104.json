@@ -63,5 +63,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2014-10-11",
-  "soloLastDate": "2021-11-07"
+  "soloLastDate": "2021-11-07",
+  "i18n": {
+    "en": {
+      "title": "Parades"
+    }
+  }
 }

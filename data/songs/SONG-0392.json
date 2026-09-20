@@ -151,5 +151,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2013-02-09",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "千本桜"
+    },
+    "zh": {
+      "title": "千本樱"
+    },
+    "en": {
+      "title": "Senbonzakura"
+    }
+  }
 }

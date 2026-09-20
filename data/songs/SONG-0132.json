@@ -27,5 +27,10 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "en": {
+      "title": "TBA"
+    }
+  }
 }

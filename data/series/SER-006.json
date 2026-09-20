@@ -1,0 +1,16 @@
+{
+  "id": "SER-006",
+  "slug": "miku-expo",
+  "name": "MIKU EXPO",
+  "i18n": {
+    "ja": {
+      "name": "MIKU EXPO"
+    },
+    "zh": {
+      "name": "MIKU EXPO"
+    },
+    "en": {
+      "name": "MIKU EXPO"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "SER-001",
+  "slug": "miku-fes",
+  "name": "MIKU FES",
+  "i18n": {
+    "ja": {
+      "name": "MIKU FES"
+    },
+    "zh": {
+      "name": "MIKU FES"
+    },
+    "en": {
+      "name": "MIKU FES"
+    }
+  }
+}

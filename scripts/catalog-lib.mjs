@@ -18,11 +18,13 @@ function performersFor(vocalsText, performers) {
 
 export async function loadSourceCatalog() {
   const meta = await json(path.join(root, "data", "meta.json"));
-  if (meta.schemaVersion !== 1) throw new Error("Unsupported data schemaVersion");
+  if (meta.schemaVersion !== 2) throw new Error("Unsupported data schemaVersion");
+  const seriesFiles = await loadDirectory("series");
   const eventFiles = await loadDirectory("events");
   const songFiles = await loadDirectory("songs");
   const venueFiles = await loadDirectory("venues");
   const setlistFiles = await loadDirectory("setlists");
+  const series = seriesFiles.map(({ value }) => value);
   const events = eventFiles.map(({ value }) => value);
   const songs = songFiles.map(({ value }) => value);
   const venues = venueFiles.map(({ value }) => value);
@@ -78,13 +80,13 @@ export async function loadSourceCatalog() {
     eventSongs: eventSongs.length,
     songs: songs.length,
     venues: venues.length,
-    series: meta.series.length,
+    series: series.length,
     distinctSetlistEvents: new Set(eventSongs.map((row) => row.eventId)).size,
   };
   return {
     catalog: {
-      meta: { ...meta.catalogMeta, ...counts },
-      series: meta.series,
+      meta: { ...meta.catalogMeta, schemaVersion: meta.schemaVersion, ...counts },
+      series,
       performers: meta.performers,
       venues,
       songs,
@@ -96,7 +98,7 @@ export async function loadSourceCatalog() {
       scope: meta.scope ?? [],
       dataNotes: meta.dataNotes ?? [],
     },
-    sourceFiles: { eventFiles, songFiles, venueFiles, setlistFiles },
+    sourceFiles: { seriesFiles, eventFiles, songFiles, venueFiles, setlistFiles },
   };
 }
 
@@ -111,24 +113,49 @@ export function validateCatalog(catalog, sourceFiles) {
       if (!active(item)) errors.push(`${kind}: hidden/deprecated records are not allowed in the public source (${item.id})`);
     }
   };
+  duplicate("series", catalog.series);
   duplicate("event", catalog.events);
   duplicate("song", catalog.songs);
   duplicate("venue", catalog.venues);
   duplicate("setlist item", catalog.eventSongs);
 
+  for (const { file, value } of sourceFiles.seriesFiles) if (file !== `${value.id}.json`) errors.push(`series filename mismatch: ${file}`);
   for (const { file, value } of sourceFiles.eventFiles) if (file !== `${value.id}.json`) errors.push(`event filename mismatch: ${file}`);
   for (const { file, value } of sourceFiles.songFiles) if (file !== `${value.id}.json`) errors.push(`song filename mismatch: ${file}`);
   for (const { file, value } of sourceFiles.venueFiles) if (file !== `${value.id}.json`) errors.push(`venue filename mismatch: ${file}`);
   for (const { file, value } of sourceFiles.setlistFiles) if (file !== `${value.eventId}.json`) errors.push(`setlist filename mismatch: ${file}`);
 
+  const seriesIds = new Set(catalog.series.map((item) => item.id));
   const eventIds = new Set(catalog.events.map((item) => item.id));
   const songIds = new Set(catalog.songs.map((item) => item.id));
   const venueIds = new Set(catalog.venues.map((item) => item.id));
   const allowedPerformanceTypes = new Set(["miku_solo", "miku_collaboration", "other", "unknown"]);
 
+  const allowedLocales = new Set(["ja", "zh", "en"]);
+  const validateI18n = (kind, item, field) => {
+    if (item.i18n === undefined) return;
+    if (!item.i18n || typeof item.i18n !== "object" || Array.isArray(item.i18n)) {
+      errors.push(`${kind} ${item.id}: invalid i18n`);
+      return;
+    }
+    for (const [locale, values] of Object.entries(item.i18n)) {
+      if (!allowedLocales.has(locale)) errors.push(`${kind} ${item.id}: unsupported locale ${locale}`);
+      const value = values?.[field];
+      if (typeof value !== "string" || !value.trim()) errors.push(`${kind} ${item.id}: invalid ${locale}.${field}`);
+    }
+  };
+  for (const item of catalog.series) {
+    if (!item.name?.trim()) errors.push(`series ${item.id}: missing name`);
+    validateI18n("series", item, "name");
+  }
+  for (const item of catalog.songs) {
+    if (!item.title?.trim()) errors.push(`song ${item.id}: missing title`);
+    validateI18n("song", item, "title");
+  }
   const sequences = new Map();
   for (const event of catalog.events) {
     if (!event.name?.trim()) errors.push(`event ${event.id}: missing name`);
+    if (event.seriesId && !seriesIds.has(event.seriesId)) errors.push(`event ${event.id}: unknown series ${event.seriesId}`);
     if (event.venueId && !venueIds.has(event.venueId)) errors.push(`event ${event.id}: unknown venue ${event.venueId}`);
     if (!["performance", "aggregate"].includes(event.recordUnit)) errors.push(`event ${event.id}: invalid recordUnit`);
   }

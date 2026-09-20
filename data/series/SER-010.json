@@ -1,0 +1,16 @@
+{
+  "id": "SER-010",
+  "slug": "miku-with-you",
+  "name": "MIKU WITH YOU",
+  "i18n": {
+    "ja": {
+      "name": "MIKU WITH YOU"
+    },
+    "zh": {
+      "name": "MIKU WITH YOU"
+    },
+    "en": {
+      "name": "MIKU WITH YOU"
+    }
+  }
+}

@@ -97,5 +97,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2013-02-09",
-  "soloLastDate": "2024-10-14"
+  "soloLastDate": "2024-10-14",
+  "i18n": {
+    "en": {
+      "title": "letter song"
+    }
+  }
 }

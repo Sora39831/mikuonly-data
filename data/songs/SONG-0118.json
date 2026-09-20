@@ -23,5 +23,10 @@
     "SER-006"
   ],
   "soloFirstDate": "2018-07-19",
-  "soloLastDate": "2018-07-19"
+  "soloLastDate": "2018-07-19",
+  "i18n": {
+    "en": {
+      "title": "Sharing The World (Spn ver.)"
+    }
+  }
 }

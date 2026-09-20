@@ -51,5 +51,10 @@
     "SER-006"
   ],
   "soloFirstDate": "2018-06-29",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "en": {
+      "title": "Can't Make a Song"
+    }
+  }
 }

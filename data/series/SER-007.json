@@ -1,0 +1,16 @@
+{
+  "id": "SER-007",
+  "slug": "snow-miku-live",
+  "name": "SNOW MIKU LIVE!",
+  "i18n": {
+    "ja": {
+      "name": "SNOW MIKU LIVE!"
+    },
+    "zh": {
+      "name": "SNOW MIKU LIVE!"
+    },
+    "en": {
+      "name": "SNOW MIKU LIVE!"
+    }
+  }
+}

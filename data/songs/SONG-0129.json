@@ -33,5 +33,10 @@
     "SER-010"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2017-11-25"
+  "soloLastDate": "2017-11-25",
+  "i18n": {
+    "en": {
+      "title": "Strangers"
+    }
+  }
 }

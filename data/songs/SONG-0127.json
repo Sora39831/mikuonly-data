@@ -67,5 +67,10 @@
     "SER-003"
   ],
   "soloFirstDate": "2011-08-16",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "en": {
+      "title": "Starduster"
+    }
+  }
 }

@@ -56,5 +56,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2026-07-24",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "en": {
+      "title": "Doping Dance"
+    }
+  }
 }

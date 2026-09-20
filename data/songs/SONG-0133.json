@@ -447,5 +447,10 @@
     "SER-007"
   ],
   "soloFirstDate": "2012-03-09",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "en": {
+      "title": "Tell Your World"
+    }
+  }
 }

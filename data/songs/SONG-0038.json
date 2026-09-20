@@ -29,5 +29,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2014-08-30",
-  "soloLastDate": "2014-09-20"
+  "soloLastDate": "2014-09-20",
+  "i18n": {
+    "en": {
+      "title": "EARTH DAY"
+    }
+  }
 }

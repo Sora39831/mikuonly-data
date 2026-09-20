@@ -181,5 +181,10 @@
     "SER-009"
   ],
   "soloFirstDate": "2016-03-23",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "en": {
+      "title": "Blue Star"
+    }
+  }
 }

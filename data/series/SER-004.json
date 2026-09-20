@@ -1,0 +1,16 @@
+{
+  "id": "SER-004",
+  "slug": "その他公式ライブ-出演",
+  "name": "その他公式ライブ／出演",
+  "i18n": {
+    "ja": {
+      "name": "その他公式ライブ／出演"
+    },
+    "zh": {
+      "name": "其他官方演唱会／出演"
+    },
+    "en": {
+      "name": "Other Official Live Events / Appearances"
+    }
+  }
+}

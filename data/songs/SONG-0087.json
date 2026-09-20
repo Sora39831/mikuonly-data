@@ -143,5 +143,10 @@
     "SER-004"
   ],
   "soloFirstDate": "2016-04-23",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "en": {
+      "title": "Miku"
+    }
+  }
 }

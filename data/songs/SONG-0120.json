@@ -41,5 +41,10 @@
     "SER-005"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2021-11-06"
+  "soloLastDate": "2021-11-06",
+  "i18n": {
+    "en": {
+      "title": "Singularity"
+    }
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "SER-011",
+  "slug": "デコミク-live",
+  "name": "デコミク LIVE",
+  "i18n": {
+    "ja": {
+      "name": "デコミク LIVE"
+    },
+    "zh": {
+      "name": "DECO MIKU LIVE"
+    },
+    "en": {
+      "name": "DECO MIKU LIVE"
+    }
+  }
+}
