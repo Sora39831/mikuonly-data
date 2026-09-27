@@ -1,0 +1,49 @@
+{
+  "id": "EVT-MWY-2018-CD-1021-N",
+  "seriesId": "SER-010",
+  "seriesName": "MIKU WITH YOU",
+  "name": "未来有你・HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你",
+  "startDate": "2018-10-21",
+  "endDate": "2018-10-21",
+  "year": 2018,
+  "performanceType": "夜公演",
+  "startTime": "19:30",
+  "city": "成都",
+  "countryRegion": "中国大陸",
+  "venueName": "華熙LIVE・528空間",
+  "venueId": "VEN-MWY-HUAXI-528",
+  "capacitySnapshot": null,
+  "setlistVariant": "成都版・夜公演",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "メイン",
+  "organizer": "上海新創華文化発展有限公司（SCLA）",
+  "videoRelease": null,
+  "verificationStatus": "公式ブログ（blog.piapro.net/2018/09/z180920-1.html）で2日間開催を確認",
+  "sourceUrl": "https://blog.piapro.net/2018/09/z180920-1.html",
+  "notes": "同じ都市の各公演に都市別セットリストを適用。公演回別差分は公開資料で確認されていない。 2026-09-27検証補完：公式公告により漏場と確認し新建（成都第2日・夜）。都市別セットリスト（成都版）を20日夜公演から適用。",
+  "recordedTrackCount": 25,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 335,
+  "actualTrackCount": 25,
+  "mikuTrackCount": 17,
+  "mikuRatio": 0.68,
+  "mikuSoloTrackCount": 17,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 8,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": 0.68,
+  "recordUnit": "performance",
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    },
+    "en": {
+      "name": "HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    }
+  }
+}

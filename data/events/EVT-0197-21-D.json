@@ -7,7 +7,7 @@
   "endDate": "2025-12-21",
   "year": 2025,
   "performanceType": "昼公演",
-  "startTime": "12:00",
+  "startTime": "14:00",
   "city": "上海",
   "countryRegion": "中国大陸",
   "venueName": "静安体育中心",
@@ -21,7 +21,7 @@
   "videoRelease": null,
   "verificationStatus": "公演情報確認済み／公開されたツアー・都市別パターンを対応",
   "sourceUrl": "https://w.atwiki.jp/hmiku/pages/68149.html",
-  "notes": "全4公演。12曲目の回替わり曲を初音ミクWikiに基づき反映。",
+  "notes": "全4公演。12曲目の回替わり曲を初音ミクWikiに基づき反映。 開演時刻を公式公告（blog.piapro.net/2025/10/ft2510081.html：昼14:00/夜19:00）で修正。",
   "recordedTrackCount": 23,
   "importCategory": "v7更新",
   "sourceRow": 285,
@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7391304347826086,
   "recordUnit": "performance",
-  "setlistScope": "exact",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "MIKU WITH YOU 2025"

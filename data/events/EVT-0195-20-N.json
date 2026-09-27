@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7391304347826086,
   "recordUnit": "performance",
-  "setlistScope": "exact",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "MIKU WITH YOU 2024"

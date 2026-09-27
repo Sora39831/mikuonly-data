@@ -13,7 +13,7 @@
   "venueName": "広東芸術劇院",
   "venueId": "VEN-MWY-GUANGDONG-ART",
   "capacitySnapshot": null,
-  "setlistVariant": "A日程・夜公演",
+  "setlistVariant": "B日程・夜公演",
   "status": "開催済",
   "granularity": "公演単位",
   "roleType": "メイン",
@@ -21,7 +21,7 @@
   "videoRelease": null,
   "verificationStatus": "日付・都市・会場・公演回を公開資料で確認",
   "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67177.html",
-  "notes": "初音ミクWikiのA日程／B日程を都市別に適用。公演回別差分は公開資料で確認されていない。",
+  "notes": "初音ミクWikiのA日程／B日程を都市別に適用。公演回別差分は公開資料で確認されていない。 A/B日程ラベルを修正（atwiki 67177：B日程＝成都・広州）。",
   "recordedTrackCount": 25,
   "importCategory": "v7更新",
   "sourceRow": 350,
@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.56,
   "recordUnit": "performance",
-  "setlistScope": "exact",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "未来有你・HATSUNE MIKU WITH YOU 2019 中国4都市巡演"

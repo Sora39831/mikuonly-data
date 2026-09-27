@@ -1,0 +1,49 @@
+{
+  "id": "EVT-0229-0412",
+  "seriesId": "SER-004",
+  "seriesName": "その他公式ライブ／出演",
+  "name": "Coachella 2024",
+  "startDate": "2024-04-12",
+  "endDate": "2024-04-12",
+  "year": 2024,
+  "performanceType": "単独公演",
+  "startTime": "21:50",
+  "city": "Indio",
+  "countryRegion": "United States",
+  "venueName": "Coachella会場 Mojave Stage",
+  "venueId": "VEN-0114",
+  "capacitySnapshot": null,
+  "setlistVariant": "単一公演",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "フェス出演",
+  "organizer": "Goldenvoice",
+  "videoRelease": "円盤未収録",
+  "verificationStatus": "フォルダ内集計資料を初音ミクWiki索引と照合",
+  "sourceUrl": "https://blog.piapro.net/2024/06/ta2406281.html",
+  "notes": "2026-09-27検証分割：公式（blog.piapro.net/2024/06/ta2406281.html）が4/12と4/19の2回出演（金曜・現地21:50〜、Mojaveステージ）を確認。旧集計レコード EVT-0229 の10曲（Miku、ワールドイズマイン、アンノウン・マザーグース、ハイパーリアリティショウ、Ten Thousand Stars、Thousand Little Voices、ラッキー☆オーブ、Tell Your World、Highlight、Intergalactic Bound）は公式が逐日歌単非公表のため特定の公演に帰属できず、各公演は未帰属（scope=none）とする。",
+  "recordedTrackCount": 10,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 186,
+  "actualTrackCount": 10,
+  "mikuTrackCount": 10,
+  "mikuRatio": 1,
+  "mikuSoloTrackCount": 10,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": 1,
+  "recordUnit": "performance",
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "Coachella 2024"
+    },
+    "zh": {
+      "name": "Coachella 2024"
+    },
+    "en": {
+      "name": "Coachella 2024"
+    }
+  }
+}

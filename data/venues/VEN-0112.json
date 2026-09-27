@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0112",
+  "name": "国立競技場",
+  "city": "東京",
+  "countryRegion": "日本",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "id": "EVT-0198-D",
   "seriesId": "SER-002",
   "seriesName": "ミクの日感謝祭",
-  "name": "ミクの日感謝祭 39's Giving Day Project DIVA Presents",
+  "name": "ミクの日感謝祭 39's Giving Day - 初音ミク・ひるコンサート ～こんにちは、初音ミクです。～",
   "startDate": "2010-03-09",
   "endDate": "2010-03-09",
   "year": 2010,
@@ -37,13 +37,13 @@
   "setlistScope": "exact",
   "i18n": {
     "ja": {
-      "name": "ミクの日感謝祭 39's Giving Day Project DIVA Presents"
+      "name": "ミクの日感謝祭 39's Giving Day - 初音ミク・ひるコンサート ～こんにちは、初音ミクです。～"
     },
     "zh": {
-      "name": "初音未来感谢祭 39's Giving Day Project DIVA Presents"
+      "name": "ミクの日感謝祭 39's Giving Day - 初音ミク・ひるコンサート ～こんにちは、初音ミクです。～"
     },
     "en": {
-      "name": "Hatsune Miku 39's Giving Day - Project DIVA Presents"
+      "name": "ミクの日感謝祭 39's Giving Day - 初音ミク・ひるコンサート ～こんにちは、初音ミクです。～"
     }
   }
 }

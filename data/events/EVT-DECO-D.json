@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "performance",
-  "setlistScope": "exact",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO"

@@ -21,7 +21,7 @@
   "videoRelease": "円盤未収録",
   "verificationStatus": "公演情報・歌唱曲確認済み",
   "sourceUrl": "https://magicalmirai.com/2026/tokyo_ticket.html",
-  "notes": "OPEN 15:30 / START 16:30 / 終演予定 18:30。東京公演の歌唱曲確認済み。待機曲「世界最後の音楽隊」は正式な歌唱曲数に含めない。",
+  "notes": "OPEN 15:30 / START 16:30 / 終演予定 18:30。東京公演の歌唱曲確認済み。待機曲「世界最後の音楽隊」は正式な歌唱曲数に含めない。 2026-09-27照合：官方afterreportで昼夜別セットリストが確認され、本公演はexact（昼夜差異あり、magicalmirai.com/2026/ special_afterreport）。",
   "recordedTrackCount": 26,
   "actualTrackCount": 26,
   "mikuTrackCount": 17,
@@ -33,7 +33,7 @@
   "mikuSoloRatio": 0.5,
   "importCategory": "2026年公式公演情報・確認済み歌唱曲",
   "recordUnit": "performance",
-  "setlistScope": "shared",
+  "setlistScope": "exact",
   "i18n": {
     "ja": {
       "name": "初音ミク「マジカルミライ 2026」"

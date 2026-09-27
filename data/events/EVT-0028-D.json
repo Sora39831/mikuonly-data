@@ -21,7 +21,7 @@
   "videoRelease": null,
   "verificationStatus": "公式日程確認済み・Wiki公開パターンを対応",
   "sourceUrl": "https://mikuexpo.com/tw2016/",
-  "notes": "現地時間 START 14:00。曲順出典：https://w.atwiki.jp/hmiku/pages/67135.html。第8・12曲は昼夜指定を反映。公開された都市・ツアー共通セットリストとして記録。個別公演の完全な録画検証を意味しない。",
+  "notes": "現地時間 START 14:00。曲順出典：https://w.atwiki.jp/hmiku/pages/67135.html。第8・12曲は昼夜指定を反映。公開された都市・ツアー共通セットリストとして記録。個別公演の完全な録画検証を意味しない。 2026-09-27照合：昼夜セットリストが8/12曲目で差異あり（atwiki 67135、非公式サイト出典のまま）→ sharedは不成立、exactへ。",
   "recordedTrackCount": 26,
   "importCategory": "MIKU EXPO 公演分割 2026-09-13",
   "sourceRow": 407,
@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6153846153846154,
   "recordUnit": "performance",
-  "setlistScope": "shared",
+  "setlistScope": "exact",
   "i18n": {
     "ja": {
       "name": "HATSUNE MIKU EXPO 2016 in TAIWAN"

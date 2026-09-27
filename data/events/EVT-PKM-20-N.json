@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7407407407407407,
   "recordUnit": "performance",
-  "setlistScope": "exact",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "ポケモン feat. 初音ミク VOLTAGE Live！"
